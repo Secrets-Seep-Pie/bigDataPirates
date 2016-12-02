@@ -1,4 +1,4 @@
-index,used,power,price_US$,year,class,hull_material,seller,Length_ft,location,Make_Model
+index,used,power,price_US,year,class,hull_material,seller,Length_ft,location,make_model
 1,yes,yes,1989540,2007,Bowrider,Fiberglass,"Olympic Marine
    ",102,France,Falcon 102
 2,yes,yes,Call for Price,2014,Bowrider,Fiberglass,AZIMUT YACHTS LONDON   ,57,Belgium,Azimut 55S
