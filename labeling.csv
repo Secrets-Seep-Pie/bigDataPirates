@@ -1,801 +1,801 @@
-_id,ltable_index,rtable_index,ltable_Length_ft,ltable_make_model,ltable_seller,ltable_location,ltable_year,ltable_Price_US$,ltable_hull_material,rtable_Length_ft,rtable_Make_Model,rtable_seller,rtable_location,rtable_year,rtable_price_US$,rtable_hull_material,gold
-6709,722,698,28,Sea Ray.270 Select EX,Hall Marine Group-Sea Ray of Savannah,United States,2008,"39,900",Fiberglass,28,Sea Ray 270 Select EX,"Erwin Marine
-   ","AL, United States",2008,64995,Fiberglass,0
-17501,787,570,28,Chaparral.287SSX (15 hours),"Berry-Boger Yacht Sales, Inc.","North Myrtle Beach, South Carolina",2014,"99,900",Fiberglass,28,Chaparral 287SSX (15 hours),"Berry-Boger Yacht Sales, Inc.
-   ","North Myrtle Beach, SC",2014,99900,Fiberglass,1
-22889,819,582,28,Chris-Craft.Launch 28,Denison Yacht Sales - Palm Beach,"Lake Vermilion, Minnesota",2006,"79,900",Fiberglass,28,Chris-Craft Launch 28,"Denison Yacht Sales
-   ","Lake Vermilion, MN",2006,79900,Fiberglass,0
-34560,888,661,28,Sea Ray.SLX 280,MarineMax Dallas,"Lewisville, Texas",2017,Request Price,Fiberglass,28,Sea Ray SLX 280,"MarineMax Inc.
-   ","Lewisville, TX",2017,Call for Price,Fiberglass,0
-35406,893,667,28,Sea Ray.SLX 280,MarineMax Baltimore,"Baltimore, Maryland",2017,Request Price,Fiberglass,28,Sea Ray SLX 280,"MarineMax Inc.
-   ","Baltimore, MD",2017,Call for Price,Fiberglass,0
+_id,ltable_index,rtable_index,ltable_Length_ft,ltable_make_model,ltable_seller,ltable_location,ltable_year,ltable_price_US,ltable_hull_material,rtable_Length_ft,rtable_make_model,rtable_seller,rtable_location,rtable_year,rtable_price_US,rtable_hull_material,gold
+7398,727,547,28,Chaparral.284 Sunesta,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2017,Request Price,Fiberglass,28,Chaparral 284 Sunesta,"Waterfront Marine Yacht Sales-New Jersey
+   ","SOMERS POINT, NJ",2017,1,Fiberglass,0
+11777,753,558,28,Regal.2800 Bowrider,Quality Boats,"Clearwater, Florida",2016,Request Price,Fiberglass,28,Regal 2800 Bowrider,"Quality Boats
+   ","Clearwater, FL",2016,Call for Price,Fiberglass,0
+17501,787,570,28,Chaparral.287SSX (15 hours),"Berry-Boger Yacht Sales, Inc.","North Myrtle Beach, South Carolina",2014,99900,Fiberglass,28,Chaparral 287SSX (15 hours),"Berry-Boger Yacht Sales, Inc.
+   ","North Myrtle Beach, SC",2014,99900,Fiberglass,0
+18672,794,565,28,Chaparral.287 SSX,"Red Line Marine Liquidators, Inc","Oceanport, New Jersey",2013,69000,Fiberglass,28,Chaparral 287 SSX,"Red Line Marine Liquidators, Inc
+   ","Oceanport, NJ",2013,69000,Fiberglass,0
+20179,803,560,28,Chaparral.2830 SSI,Waterfront Marine Yacht Sales,"Somers Point, New Jersey",1999,29900,Fiberglass,28,Chaparral 2830 SSI,"Waterfront Marine Yacht Sales-New Jersey
+   ","Somers Point, NJ",1999,29900,Fiberglass,0
+21893,813,594,28,Chris-Craft.Launch 28,Viage Group,"Sarasota, Florida",2016,Request Price,Fiberglass,28,Chris-Craft Launch 28,"Viage Group
+   ","Sarasota, FL",2016,Call for Price,Fiberglass,0
+22715,818,576,28,Chris-Craft.Launch 28,North Point Yacht Sales,"Annapolis, Maryland",2004,49900,Fiberglass,28,Chris Craft Launch 28,"North Point Yacht Sales
+   ","Annapolis, MD",2004,49900,Fiberglass,0
+30653,865,618,28,Formula.280 Bowrider,Boat Brokers LKN,"Cornelius, North Carolina",1999,27500,Fiberglass,28,Formula 280 Bowrider,"Boat Brokers LKN
+   ","Cornelius, NC",1999,27500,Fiberglass,0
 35571,894,664,28,Sea Ray.SLX 280,MarineMax Grand Lake,"Afton, Oklahoma",2017,Request Price,Fiberglass,28,Sea Ray SLX 280,"MarineMax Inc.
    ","Afton, OK",2017,Call for Price,Fiberglass,0
-35751,895,676,28,Sea Ray.SLX 280,MarineMax Branson,"Branson, Missouri",2017,Request Price,Fiberglass,28,Sea Ray SLX 280,"MarineMax Inc.
-   ","Branson, MO",2017,Call for Price,Fiberglass,0
-38740,913,641,28,Sea Ray.280 SLX,MarineMax Grand Lake,"Afton, Oklahoma",2016,Request Price,Fiberglass,28,Sea Ray 280 SLX,"MarineMax Inc.
-   ","Afton, OK",2016,Call for Price,Fiberglass,0
-41580,930,625,28,Regal.2700 Regal,Sheltered Cove Marina,United States,2017,Request Price,Fiberglass,28,Regal 2700,"Sheltered Cove Marina
-   ",United States,2017,,Fiberglass,0
-43263,940,628,28,Regal.2800 Bowrider,Alexander Marine USA Inc,"Seattle, Washington",2017,Request Price,Fiberglass,28,Regal 2800 Bowrider,"Alexander Marine USA Inc
-   ","Seattle, WA",2017,Call for Price,Fiberglass,0
-48027,5,50,35,Formula Boats.350 Crossover Bowrider,Glencove Marina,"Lake Ozark, Missouri",2015,"299,900",Fiberglass,35,Formula Boats 350 Crossover Bowrider,"Glencove Marina
-   ","Lake Ozark, MO",2015,299900,Fiberglass,0
-48779,29,46,35,Formula.350 Crossover Bowrider,Lakeside Formula,"St. Clair Shores, Michigan",2017,Request Price,Fiberglass,35,Formula 350 Crossover Bowrider,"Lakeside Formula
-   ","St. Clair Shores, MI",2017,1,Fiberglass,0
-49149,35,38,35,Formula.350 Crossover Bowrider,The Nautic Group,"Kemah, Texas",2016,Request Price,Fiberglass,35,Formula 350 Crossover Bowrider,"The Nautic Group
-   ","Kemah, TX",2016,Call for Price,Fiberglass,0
-49613,42,61,35,Four Winns.H350,Westchester Yacht Sales,"Mamaroneck, New York",2016,Request Price,Fiberglass,35,Four Winns H350,"Westchester Yacht Sales
-   ","Mamaroneck, NY",2016,Call for Price,Fiberglass,0
-49860,46,56,35,Four Winns.H350,Boater's Landing,"Ft.Myers, Florida",2017,Request Price,Fiberglass,35,Four Winns H350,"Boater's Landing
-   ","Ft.Myers, FL",2017,Call for Price,Fiberglass,0
+36763,901,680,28,Sea Ray.SLX 280,MarineMax Clearwater,"Clearwater, Florida",2017,Request Price,Fiberglass,28,Sea Ray SLX 280,"MarineMax Inc.
+   ","Clearwater, FL",2017,Call for Price,Fiberglass,0
+44782,949,635,28,Rinker.282 Captiva Bowrider,Bluewater Yacht Sales-Baltimore Office,"Ocean City, Maryland",2007,29500,Fiberglass,28,Rinker 282 Captiva Bowrider,"Bluewater Yacht Sales
+   ","Ocean City, MD",2007,29500,Fiberglass,0
+45509,953,690,28,Chris-Craft.Launch 28,Saba Marine,"Colchester, Vermont",2016,179900,Fiberglass,28,Chris-Craft Launch 28,"Saba Marine
+   ","Colchester, VT",2016,179900,Fiberglass,0
+46161,957,670,28,Sleekcraft.Enforcer 28,Platinum Marine,"SAN ANTONIO, Texas",2001,33000,Fiberglass,28,Sleekcraft Enforcer 28,"Platinum Marine
+   ","SAN ANTONIO, TX",2001,33000,Fiberglass,0
 50330,53,85,35,Sea Ray.SLX 350,MarineMax Dallas,"Lewisville, Texas",2017,Request Price,Fiberglass,35,Sea Ray SLX 350,"MarineMax Inc.
    ","Lewisville, TX",2017,Call for Price,Fiberglass,0
-50865,62,53,35,Sea Ray.350 SELECT,MarineMax Norwalk,"Norwalk, Connecticut",2016,"268,905",Fiberglass,35,Sea Ray 350 SELECT,"MarineMax Inc.
-   ","Norwalk, CT",2016,268905,Fiberglass,0
-52140,82,68,35,Sea Ray.350 SLX,"B & E Marine, Inc.","Michigan City, Indiana",2015,Request Price,Fiberglass,35,Sea Ray 350 SLX,"B & E Marine, Inc.
-   ","Michigan City, IN",2015,Call for Price,Fiberglass,0
-64688,7491,3513,19,Chaparral.19 H2O Sport,"Fay's Boat Yard, Inc.","Gilford, New Hampshire",2016,Request Price,Fiberglass,19,Chaparral 19 H2O Sport,"Fay's Boat Yard, Inc.
-   ","Gilford, NH",2016,,Fiberglass,0
-85419,7553,3536,19,Bayliner.19 Br,Port Harbor Marine,"Raymon, Maine",2006,"13,995",Fiberglass,19,Bayliner 19' BR,"Port Harbor Marine
-   ","Raymon, ME",2006,13995,Fiberglass,0
-96440,7586,3535,19,Bayliner.195 Discovery,"Clarks Landing Marina-Point Pleasant Beach, NJ","Delran, New Jersey",2008,"14,900",Fiberglass,19,Bayliner 195 Discovery,"Clarks Landing Marina-Point Pleasant Beach, NJ
-   ","Delran, NJ",2008,14900,Fiberglass,0
-187365,7858,3612,19,Grady-White.Freedom 192,"Carolina Boat Brokerage , LLC","Charleston, South Carolina",2013,"43,500",Fiberglass,19,Grady-White Freedom 192,"Carolina Boat Brokerage, LLC
-   ","Charleston, SC",2013,43500,Fiberglass,0
-208422,7921,3627,19,Monterey.204 Fs,Dry Harbour Marine,"Charlevoix, Michigan",2015,"39,266",Fiberglass,19,Monterey 204 FS,"Sales at Dry Harbour Marine
-   ","Charlevoix, MI",2015,39266,Fiberglass,0
-220847,7958,3694,19,Sea Ray.19 SPX Outboard,Hall Marine Group-Sea Ray of Charleston,United States,2017,Request Price,Fiberglass,19,Sea Ray 19 SPX Outboard,"Hall Marine Group
-   ",United States,2017,,Fiberglass,0
+50514,56,80,35,Sea Ray.350 SLX,MarineMax Pompano,"Pompano Beach, Florida",2016,Request Price,Fiberglass,35,Sea Ray 350 SLX,"MarineMax Inc.
+   ","Pompano Beach, FL",2016,Call for Price,Fiberglass,0
+51875,78,55,35,Sea Ray.350 SELECT,MarineMax Wrightsville Beach,"Wrightsville Beach, North Carolina",2014,230365,Fiberglass,35,Sea Ray 350 SELECT,"MarineMax Inc.
+   ","Wrightsville Beach, NC",2014,230365,Fiberglass,0
+52063,81,54,35,Sea Ray.350 SELECT,MarineMax Sarasota,"Sarasota, Florida",2015,279900,Fiberglass,35,Sea Ray 350 SELECT,"MarineMax Inc.
+   ","Sarasota, FL",2015,279900,Fiberglass,0
+52345,85,84,35,Sea Ray.350 SLX,Ludington Yacht Sales,"SPRING LAKE, Michigan",2016,279900,Fiberglass,35,Sea Ray 350 SLX,"Ludington Yacht Sales
+   ","SPRING LAKE, MI",2016,279900,Fiberglass,0
+52600,102,87,35,Sea Ray.350 SLX,Chicago Yacht Works,United States,2015,259900,Fiberglass,35,Sea Ray 350 SLX,"Chicago Yacht Works
+   ",United States,2015,259900,Fiberglass,0
+84489,7550,3608,19,Grady-White 2013 Yamaha F150.192 TOURNAMENT ,Fred Mix Yachts of Hilton Head,"Beaufort, South Carolina",1990,19500,Fiberglass,19,Grady-White 2013 Yamaha F150 192 TOURNAMENT,"Fred Mix Yachts of Hilton Head
+   ","Beaufort, SC",1990,19500,Fiberglass,0
+93106,7576,3541,19,Bayliner.195 Bowrider,Dredge Harbor Boat Center LLC.,"Delran, New Jersey",2012,22900,Fiberglass,19,Bayliner 195 Bowrider,"Dredge Harbor Boat Center LLC.
+   ","Delran, NJ",2012,22900,Fiberglass,0
+130867,7689,3560,19,Chaparral.19 Sport H2O,Milius Marine,"East Hampton, New York",2013,19900,Fiberglass,19,Chaparral 19 Sport H2O,"Milius Marine
+   ","East Hampton, NY",2013,19900,Fiberglass,0
+132202,7693,3559,19,Chaparral.19 H2O Sport,"Twin City Marine, Inc.","Central Falls, Rhode Island",2016,34821,Fiberglass,19,Chaparral 19 H2O Sport,"Twin City Marine, Inc.
+   ","Central Falls, RI",2016,30540,Fiberglass,0
+190354,7867,3595,19,Grady-White.19 Tournament,Somers Point Marina,"Somers Point, New Jersey",1985,6250,Fiberglass,19,Grady White 19 Tournament,"Somers Point Marina
+   ","Somers Point, NJ",1985,6250,Fiberglass,0
 221165,7959,3678,19,Sea Ray.19 SPX Outboard,MarineMax Norwalk,"Norwalk, Connecticut",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX Outboard,"MarineMax Inc.
    ","Norwalk, CT",2016,Call for Price,Fiberglass,0
-221495,7960,3674,19,Sea Ray.19 SPX,MarineMax Dallas,"Lewisville, Texas",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX,"MarineMax Inc.
-   ","Lewisville, TX",2016,Call for Price,Fiberglass,0
-223838,7967,3679,19,Sea Ray.19 SPX Outboard,MarineMax Houston,"Seabrook, Texas",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX Outboard,"MarineMax Inc.
-   ","Seabrook, TX",2016,Call for Price,Fiberglass,0
-226165,7974,3668,19,Sea Ray.19 SPX,MarineMax Pompano,"Pompano Beach, Florida",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX,"MarineMax Inc.
-   ","Pompano Beach, FL",2016,Call for Price,Fiberglass,0
-226495,7975,3664,19,Sea Ray.19 SPX,MarineMax Houston,"Seabrook, Texas",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX,"MarineMax Inc.
-   ","Seabrook, TX",2016,Call for Price,Fiberglass,0
-228166,7980,3665,19,Sea Ray.19 SPX,MarineMax Houston,"Seabrook, Texas",2016,"31,345",Fiberglass,19,Sea Ray 19 SPX,"MarineMax Inc.
-   ","Seabrook, TX",2016,31345,Fiberglass,0
-234906,8000,3725,19,Sea Ray.SPX 190 ,MarineMax Buford,"Buford, Georgia",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
-   ","Buford, GA",2017,Call for Price,Fiberglass,0
-235897,8003,3714,19,Sea Ray.SPX 190 ,MarineMax Rogers,"Rogers, Minnesota",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
-   ","Rogers, MN",2017,Call for Price,Fiberglass,0
-236914,8006,3729,19,Sea Ray.SPX 190 ,MarineMax Osage Beach,"Osage Beach, Missouri",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
+222218,7962,3729,19,Sea Ray.19 SPX,"B & E Marine, Inc.","Michigan City, Indiana",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
    ","Panama City Beach, FL",2017,Call for Price,Fiberglass,0
-236918,8006,3733,19,Sea Ray.SPX 190 ,MarineMax Osage Beach,"Osage Beach, Missouri",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
-   ","Pompano Beach, FL",2017,Call for Price,Fiberglass,0
+223824,7967,3665,19,Sea Ray.19 SPX Outboard,MarineMax Houston,"Seabrook, Texas",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX,"MarineMax Inc.
+   ","Seabrook, TX",2016,31345,Fiberglass,0
+223836,7967,3677,19,Sea Ray.19 SPX Outboard,MarineMax Houston,"Seabrook, Texas",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX Outboard,"MarineMax Inc.
+   ","Seabrook, TX",2016,Call for Price,Fiberglass,0
+224483,7969,3656,19,Sea Ray.19 SPX,MarineMax Houston,"Seabrook, Texas",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX,"MarineMax Inc.
+   ","Seabrook, TX",2016,Call for Price,Fiberglass,0
+224503,7969,3676,19,Sea Ray.19 SPX,MarineMax Houston,"Seabrook, Texas",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX Outboard,"MarineMax Inc.
+   ","Seabrook, TX",2016,Call for Price,Fiberglass,0
+224506,7969,3679,19,Sea Ray.19 SPX,MarineMax Houston,"Seabrook, Texas",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX Outboard,"MarineMax Inc.
+   ","Seabrook, TX",2016,Call for Price,Fiberglass,0
+225500,7972,3671,19,Sea Ray.19 SPX,MarineMax Orlando,"Orlando, Florida",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX,"MarineMax Inc.
+   ","Orlando, FL",2016,Call for Price,Fiberglass,0
+225819,7973,3656,19,Sea Ray.19 SPX Outboard,MarineMax Houston,"Seabrook, Texas",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX,"MarineMax Inc.
+   ","Seabrook, TX",2016,Call for Price,Fiberglass,0
+226510,7975,3679,19,Sea Ray.19 SPX,MarineMax Houston,"Seabrook, Texas",2016,Request Price,Fiberglass,19,Sea Ray 19 SPX Outboard,"MarineMax Inc.
+   ","Seabrook, TX",2016,Call for Price,Fiberglass,0
+228177,7980,3676,19,Sea Ray.19 SPX,MarineMax Houston,"Seabrook, Texas",2016,31345,Fiberglass,19,Sea Ray 19 SPX Outboard,"MarineMax Inc.
+   ","Seabrook, TX",2016,Call for Price,Fiberglass,0
+230854,7988,3681,19,Sea Ray.19 SPX OB w Warranty,Brightwater Yacht Brokers Inc.,"MT. BETHEL, Pennsylvania",2016,34500,Fiberglass,19,Sea Ray 19 SPX OB w Warranty,"Brightwater Yacht Brokers Inc.
+   ","MT. BETHEL, PA",2016,34500,Fiberglass,0
+232191,7992,3682,19,Sea Ray.19 SPX,Hall Marine Group,United States,2016,Request Price,Fiberglass,19,Sea Ray 19 SPX,"Hall Marine Group
+   ",United States,2016,,Fiberglass,0
+232192,7992,3683,19,Sea Ray.19 SPX,Hall Marine Group,United States,2016,Request Price,Fiberglass,19,Sea Ray 19 SPX,"Hall Marine Group
+   ",United States,2016,,Fiberglass,0
+234188,7998,3675,19,Sea Ray.19 SPX,MarineMax Naples,"Naples, Florida",2015,29900,Fiberglass,19,Sea Ray 19 SPX,"MarineMax Inc.
+   ","Naples, FL",2015,29900,Fiberglass,0
 236922,8006,3737,19,Sea Ray.SPX 190 ,MarineMax Osage Beach,"Osage Beach, Missouri",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
    ","Pompano Beach, FL",2017,Call for Price,Fiberglass,0
-237228,8007,3709,19,Sea Ray.SPX 190 ,MarineMax Rogers,"Rogers, Minnesota",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
-   ","Rogers, MN",2017,Call for Price,Fiberglass,0
 237234,8007,3715,19,Sea Ray.SPX 190 ,MarineMax Rogers,"Rogers, Minnesota",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
    ","Rogers, MN",2017,Call for Price,Fiberglass,0
-237891,8009,3704,19,Sea Ray.SPX 190 ,MarineMax Dallas,"Lewisville, Texas",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
-   ","Lewisville, TX",2017,Call for Price,Fiberglass,0
 240249,8016,3724,19,Sea Ray.SPX 190 ,MarineMax Long Island,"Lindenhurst, New York",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
    ","Lindenhurst, NY",2017,Call for Price,Fiberglass,0
-240906,8018,3713,19,Sea Ray.SPX 190 ,MarineMax Panama City,"Panama City Beach, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
-   ","Panama City Beach, FL",2017,Call for Price,Fiberglass,0
-241922,8021,3727,19,Sea Ray.SPX 190 OB,MarineMax Pensacola,"Pensacola, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
+240567,8017,3708,19,Sea Ray.SPX 190 OB,MarineMax Pensacola,"Pensacola, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
    ","Pensacola, FL",2017,Call for Price,Fiberglass,0
-242263,8022,3734,19,Sea Ray.SPX 190 OB,MarineMax Gulf Shores,"Gulf Shores, Alabama",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
+241602,8020,3741,19,Sea Ray.SPX 190 OB,MarineMax Gulf Shores,"Gulf Shores, Alabama",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
    ","Gulf Shores, AL",2017,Call for Price,Fiberglass,0
-242905,8024,3708,19,Sea Ray.SPX 190 OB,MarineMax Pensacola,"Pensacola, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
+242929,8024,3732,19,Sea Ray.SPX 190 OB,MarineMax Pensacola,"Pensacola, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
    ","Pensacola, FL",2017,Call for Price,Fiberglass,0
-243572,8026,3707,19,Sea Ray.SPX 190 ,MarineMax Long Island,"Lindenhurst, New York",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
+243601,8026,3736,19,Sea Ray.SPX 190 ,MarineMax Long Island,"Lindenhurst, New York",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
    ","Lindenhurst, NY",2017,Call for Price,Fiberglass,0
 243905,8027,3706,19,Sea Ray.SPX 190 ,MarineMax Long Island,"Lindenhurst, New York",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
    ","Lindenhurst, NY",2017,Call for Price,Fiberglass,0
-244272,8028,3739,19,Sea Ray.SPX 190 OB,MarineMax Wrightsville Beach,"Wrightsville Beach, North Carolina",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
-   ","Wrightsville Beach, NC",2017,Call for Price,Fiberglass,0
-246924,8036,3719,19,Sea Ray.SPX 190 OB,MarineMax Pompano,"Pompano Beach, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
+244252,8028,3719,19,Sea Ray.SPX 190 OB,MarineMax Wrightsville Beach,"Wrightsville Beach, North Carolina",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
    ","Pompano Beach, FL",2017,Call for Price,Fiberglass,0
-246934,8036,3729,19,Sea Ray.SPX 190 OB,MarineMax Pompano,"Pompano Beach, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
-   ","Panama City Beach, FL",2017,Call for Price,Fiberglass,0
-247270,8037,3731,19,Sea Ray.SPX 190 OB,MarineMax Pompano,"Pompano Beach, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
+244264,8028,3731,19,Sea Ray.SPX 190 OB,MarineMax Wrightsville Beach,"Wrightsville Beach, North Carolina",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
    ","Wrightsville Beach, NC",2017,Call for Price,Fiberglass,0
-247594,8038,3721,19,Sea Ray.SPX 190 ,MarineMax Orlando,"Orlando, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
-   ","Orlando, FL",2017,Call for Price,Fiberglass,0
-249303,8043,3760,19,Sea Ray.SPX 190 OB,MarineMax Ft. Myers,"Ft. Myers, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
-   ","Ft. Myers, FL",2017,Call for Price,Fiberglass,0
-249922,8045,3711,19,Sea Ray.SPX 190 ,MarineMax Pompano,"Pompano Beach, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190,"MarineMax Inc.
-   ","Osage Beach, MO",2017,Call for Price,Fiberglass,0
-249942,8045,3731,19,Sea Ray.SPX 190 ,MarineMax Pompano,"Pompano Beach, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
-   ","Wrightsville Beach, NC",2017,Call for Price,Fiberglass,0
-249944,8045,3733,19,Sea Ray.SPX 190 ,MarineMax Pompano,"Pompano Beach, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
+246942,8036,3737,19,Sea Ray.SPX 190 OB,MarineMax Pompano,"Pompano Beach, Florida",2017,Request Price,Fiberglass,19,Sea Ray SPX 190 OB,"MarineMax Inc.
    ","Pompano Beach, FL",2017,Call for Price,Fiberglass,0
-261592,8080,3691,19,Sea Ray.190 Signature,Sheltered Cove Marina,Tuckerton,1999,"11,995",Fiberglass,19,Sea Ray 190 SIGNATURE,"Sheltered Cove Marina
-   ","Tuckerton, NJ",1999,11995,Fiberglass,0
-268554,8101,3639,19,Regal.1900 ESX,Sheltered Cove Marina,"Tuckerton, New Jersey",2017,"30,585",Fiberglass,19,Regal 1900 ESX,"Sheltered Cove Marina
-   ","Tuckerton, NJ",2017,30585,Fiberglass,0
-284947,8150,3666,19,Scarab.195 HO,Grand Bay Marine,"Traverse City, Michigan",2014,"32,950",Fiberglass,19,Scarab 195 HO,"Grand Bay Marine
-   ","Traverse City, MI",2014,32950,Fiberglass,0
-289257,8163,3634,19,Stingray.182 SC,Sundance Marine USA,"Pompano Beach, Florida",2017,Request Price,Fiberglass,19,NAUTIC STAR 193 SC,"COMPLETE MARINE
-   ","Pompano Beach, FL",2017,Call for Price,Fiberglass,0
-303071,8204,3754,19,Stingray.198LX SPORT,CenterPointe Yacht Sales,"PEWAUKEE, Wisconsin",2017,"43,244",Fiberglass,19,Stingray 198LX SPORT,"CenterPointe Yacht Sales
+267223,8097,3644,19,Regal.1900 ESX Bowrider,Sundance Marine USA,"Pompano Beach, Florida",2017,Request Price,Fiberglass,19,Regal 1900 ESX Bowrider,"Sundance Marine USA
+   ","Pompano Beach, FL",2017,,Fiberglass,0
+269559,8104,3642,19,Regal.1900 Bowrider,Irish Boat Shop,"Charlevoix, Michigan",2011,18500,Fiberglass,19,Regal 1900 Bowrider,"Irish Boat Shop
+   ","Charlevoix, MI",2011,18500,Fiberglass,0
+273251,8115,3660,19,Regal.1900 LSR,Boat Max USA,"Oviedo, Florida",2008,21888,Fiberglass,19,Regal 1900 LSR,"Boat Max USA
+   ","Oviedo, FL",2008,21888,Fiberglass,0
+276566,8125,3635,19,Regal.1900 Regal,Sea Ray of Cincinnati,"Cincinnati, Ohio",2006,15995,Fiberglass,19,Regal 1900,"Sea Ray of Cincinnati
+   ","Cincinnati, OH",2006,15995,Fiberglass,0
+283607,8146,3662,19,Scarab.195 HO,MarineMax Wrightsville Beach,"Wrightsville Beach, North Carolina",2015,37933,Fiberglass,19,Scarab 195 HO,"MarineMax Inc.
+   ","Wrightsville Beach, NC",2015,37933,Fiberglass,0
+303071,8204,3754,19,Stingray.198LX SPORT,CenterPointe Yacht Sales,"PEWAUKEE, Wisconsin",2017,43244,Fiberglass,19,Stingray 198LX SPORT,"CenterPointe Yacht Sales
    ","PEWAUKEE, WI",2017,43244,Fiberglass,0
-387933,5214,2761,21,Crownline.215 SS,"Marina Yacht Brokers, llc.","Punta Gorda, Florida",2013,"35,995",Fiberglass,21,Crownline 215 SS,"Marina Yacht Brokers, llc.
-   ","Punta Gorda, FL",2013,35995,Fiberglass,0
-392494,5225,2768,21,Four Winns.H210,Gulf Coast Boat Sales,"Aventura, Florida",2013,"32,000",Fiberglass,21,Four Winns H210,"Gulf Coast Boat Sales & Yacht Management
-   ","Aventura, FL",2013,32000,Fiberglass,0
-473264,5420,2808,21,Bryant.210 Walkabout,Cast Off Yacht Sales,"Forked River, New Jersey",2014,"34,997",Fiberglass,21,Bryant 210 Walkabout,"Cast Off Yacht Sales
-   ","Forked River, NJ",2014,34997,Fiberglass,0
-496892,5477,2838,21,Chaparral.H20 21 Sport,Sunrise Marine,"Mary Esther, Florida",2017,"39,973",Fiberglass,21,Chaparral H20 21 Sport,"Sunrise Marine - Boat Sales, Service & Parts
+435173,5328,2805,21,Sea Hunt.Escape 211 LE,"All Seasons Marine Works, Inc","Westport, Connecticut",2016,Request Price,Fiberglass,21,Sea Hunt Escape 211 LE,"All Seasons Marine Works, Inc
+   ","Westport, CT",2016,1,Fiberglass,0
+440123,5340,2787,21,Larson.LX 205S IO,Boulder Boats - Arizona,"Mesa, Arizona",2013,27995,Fiberglass,21,Larson LX 205S IO,"Boulder Boats
+   ","Mesa, AZ",2013,27995,Fiberglass,0
+496478,5476,2838,21,Chaparral.H20 21 Sport,Sunrise Marine,"Mary Esther, Florida",2017,39418,Fiberglass,21,Chaparral H20 21 Sport,"Sunrise Marine - Boat Sales, Service & Parts
    ","Mary Esther, FL",2017,32280,Fiberglass,0
-497311,5478,2843,21,Chaparral.H20 21 Sport,Sunrise Marine,"Mary Esther, Florida",2017,"39,518",Fiberglass,21,Chaparral H20 21 Sport,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Mary Esther, FL",2017,39518,Fiberglass,0
-498137,5480,2841,21,Chaparral.H2O 21 Sport Bowrider,Sunrise Marine,"Mary Esther, Florida",2017,"42,538",Fiberglass,21,Chaparral H20 21 Sport,"Sunrise Marine - Boat Sales, Service & Parts
+496892,5477,2838,21,Chaparral.H20 21 Sport,Sunrise Marine,"Mary Esther, Florida",2017,39973,Fiberglass,21,Chaparral H20 21 Sport,"Sunrise Marine - Boat Sales, Service & Parts
+   ","Mary Esther, FL",2017,32280,Fiberglass,0
+497309,5478,2841,21,Chaparral.H20 21 Sport,Sunrise Marine,"Mary Esther, Florida",2017,39518,Fiberglass,21,Chaparral H20 21 Sport,"Sunrise Marine - Boat Sales, Service & Parts
    ","Mary Esther, FL",2017,Call for Price,Fiberglass,0
-498965,5482,2841,21,Chaparral.H20 21 Sport,Sunrise Marine,"Mary Esther, Florida",2017,Request Price,Fiberglass,21,Chaparral H20 21 Sport,"Sunrise Marine - Boat Sales, Service & Parts
+498137,5480,2841,21,Chaparral.H2O 21 Sport Bowrider,Sunrise Marine,"Mary Esther, Florida",2017,42538,Fiberglass,21,Chaparral H20 21 Sport,"Sunrise Marine - Boat Sales, Service & Parts
    ","Mary Esther, FL",2017,Call for Price,Fiberglass,0
-522985,5540,2849,21,Chris-Craft.Capri 21,Walstrom Marine  - Harbor Springs,"Harbor Springs, Michigan",2016,Request Price,Fiberglass,21,Chris-Craft Capri 21,"Walstrom Marine- Harbor Springs
-   ","Harbor Springs, MI",2016,Call for Price,Fiberglass,0
-532094,5562,2850,21,Chris-Craft.Bowrider 210,Bay Way Marine,"St. Petersburg, Florida",2000,"11,995",Fiberglass,21,Chris-Craft 210 Bowrider,"Bay Way Marine, Inc.
-   ","St. Petersburg, FL",2000,11995,Fiberglass,0
-536242,5572,2858,21,Chris-Craft.210 Bow Rider,Ocean Beach Marine Centers (Lavallette),"Lavallette, New Jersey",2000,"14,760",Fiberglass,21,Chris Craft 210 Bow Rider,"Ocean Beach Marine Centers
-   ","Lavallette, NJ",2000,14760,Fiberglass,0
-561105,5632,2881,21,Four Winns.210 Horizon,Legendary Marine Ft. Walton Beach,"Fort Walton Beach, Florida",2009,"29,900",Fiberglass,21,Four Winns 210 SS,"Legendary Marine
-   ","Fort Walton Beach, FL",2009,29900,Fiberglass,0
-563167,5637,2873,21,Four Winns.H210 SS,Aloha Marine Internet Sales,"daytona beach/ holly hill, Florida",2016,Request Price,Fiberglass,21,Four Winns 210 Horizon,"Aloha Marine Center
+511362,5512,2818,21,Chaparral.21 H2O Sport,Saba Marine,"Colchester, Vermont",2016,38950,Fiberglass,21,Chaparral 21 H2O Sport,"Saba Marine
+   ","Colchester, VT",2016,38950,Fiberglass,0
+519664,5532,2840,21,Chaparral.SSi 210,Maritime Boat Sales,"Groton, Connecticut",2005,19900,Fiberglass,21,Chaparral SSi 210,"Maritime Boat Sales
+   ","Groton, CT",2005,19900,Fiberglass,0
+527966,5552,2862,21,Chris-Craft.Carina 21,Barrier Island Marine,"Beaufort, South Carolina",2016,Request Price,Fiberglass,21,Chris-Craft Carina 21,"Barrier Island Marine
+   ","Beaufort, SC",2016,1,Fiberglass,0
+532510,5563,2852,21,Chris Craft1.210 Bowrider,Ocean Beach Marine Centers (Lanoka Harbor),"Lanoka Harbor, New Jersey",1999,12500,Fiberglass,21,Chris Craft1 210 Bowrider,"Ocean Beach Marine Centers
+   ","Lanoka Harbor, NJ",1999,12500,Fiberglass,0
+552907,5612,2963,21,Sea-Doo.210 Challenger,COMPLETE MARINE,"Pompano Beach, Florida",2010,16900,Fiberglass,21,Sea Doo Challenger 210,"COMPLETE MARINE
+   ","Pompano Beach, FL",2010,16900,Fiberglass,0
+558199,5625,2873,21,Four Winns.210 Horizon,Aloha Marine Internet Sales,"Daytona Beach/Holly Hill, Florida",2016,Request Price,Fiberglass,21,Four Winns 210 Horizon,"Aloha Marine Center
    ","Daytona Beach/Holly Hill, FL",2016,Call for Price,Fiberglass,0
-566895,5646,2875,21,Four Winns.H210 SS,Great Lakes Yacht Sales / Suncoast Yacht Sales / Chris Craft TB,"Fox Lake, Illinois",2014,"52,000",Fiberglass,21,Four Winns H210 SS,"Great Lakes Yacht Sales / Suncoast Yacht Sales / Chris Craft TB
-   ","Fox Lake, IL",2014,52000,Fiberglass,0
-568649,5650,2973,21,Sea Fox.216 Dc,"Johnston & Mayer Oasis Yachts, LLC","Galveston, Texas",2011,"24,900",Fiberglass,21,Sea Fox 216 DC,"Johnston & Mayer Oasis Yachts, LLC
-   ","Galveston, TX",2011,24900,Fiberglass,0
-584800,5689,2978,21,Sea Hunt.21LE,"Shore Point Marina & Yacht Sales, Inc.","Pine Beach, New Jersey",2014,"39,900",Fiberglass,21,Sea Hunt 21LE,"Shore Point  Marina & Yacht Sales, Inc.
-   ","Pine Beach, NJ",2014,39900,Fiberglass,0
-586044,5692,2980,21,Sea Hunt.Escape 211 LE,New Jersey Outboards,"Bayville, New Jersey",2017,Request Price,Fiberglass,21,Sea Hunt Escape 211 LE,"New Jersey Outboards
-   ","Bayville, NJ",2017,Call for Price,Fiberglass,0
-587619,5696,2899,21,Key West.211 Dual Console,Sebastian Inlet BoatWorks,United States,2014,"29,900",Fiberglass,21,Key West 211 Dual Console,"Sebastian Inlet BoatWorks
-   ",United States,2014,29900,Fiberglass,0
-632370,5804,2938,21,Nautic Star.210SC Sport Deck,National Powerboats,"Jacksonville, Florida",2009,"13,900",Fiberglass,21,NauticStar 210SC Sport Deck,"National Powerboats
+566488,5645,2882,21,Four Winns.H210,Chris Craft Tampa Bay-Suncoast Yacht Sales -,"St Petersburg, Florida",2015,48500,Fiberglass,21,Four Winns H210,"Great Lakes Yacht Sales / Suncoast Yacht Sales / Chris Craft TB
+   ","St Petersburg, FL",2015,48500,Fiberglass,0
+583067,5685,2901,21,Hurricane.SD 2100 OB,"Lowes Marine Sales, Inc.","Marco Island, Florida",2010,25995,Fiberglass,21,Hurricane SD 2100 OB,"Lowe's Boat & Yacht Brokerage
+   ","Marco Island, FL",2010,25995,Fiberglass,0
+592187,5707,2913,21,Larson.Escape 213 Deck Boat,Sundance Marine USA,"Jensen Beach, Florida",2001,9900,Fiberglass,21,Larson Escape 213 Deck Boat,"Sundance Marine USA
+   ","Jensen Beach, FL",2001,9900,Fiberglass,0
+616203,5765,2917,21,Monterey.204 Fs,Long Island Marine Group,"Northport, New York",2013,28900,Fiberglass,21,Monterey 204 FS,"Long Island Marine Group
+   ","Northport, NY",2013,28900,Fiberglass,0
+617037,5767,2923,21,Monterey.214 Fs,Ocean Beach Marine Centers (Lavallette),"Lavallette, New Jersey",2005,13500,Fiberglass,21,Monterey 214 FS,"Ocean Beach Marine Centers
+   ","Lavallette, NJ",2005,13500,Fiberglass,0
+632370,5804,2938,21,Nautic Star.210SC Sport Deck,National Powerboats,"Jacksonville, Florida",2009,13900,Fiberglass,21,NauticStar 210SC Sport Deck,"National Powerboats
    ","Jacksonville, FL",2009,13900,Fiberglass,0
-636559,5814,2987,21,Sea Ray.200 Sundeck,Pier One Yacht Sales,"Punta Gorda, Florida",2011,"25,500",Fiberglass,21,Sea Ray 200 Sundeck,"PIER ONE YACHT SALES
-   ","Punta Gorda, FL",2011,25500,Fiberglass,0
+635316,5811,2986,21,Sea Ray.200 Sundeck,Commonwealth Boat Brokers,"Ashland, Virginia",2007,19990,Fiberglass,21,Sea Ray 200 Sundeck,"Commonwealth Boat Brokers
+   ","Ashland, VA",2007,19990,Fiberglass,0
+637032,5815,3046,21,Sea Ray.200 Sundeck,Hall Marine Group-Sea Ray of Columbia,United States,2011,28900,Fiberglass,21,Sea Ray 210 SLX,"Hall Marine Group
+   ",United States,2011,33900,Fiberglass,0
 640235,5823,2937,21,Nautique.Super Air Nautique 210,Irish Boat Shop - Harbor Springs,"Northern, Michigan",2017,Request Price,Fiberglass,21,Nautique Super Air Nautique 210,"Irish Boat Shop
    ","Northern, MI",2017,Call for Price,Fiberglass,0
-661425,5874,3013,21,Sea Ray.21 SPX,MarineMax Somers Point,"Somers Point, New Jersey",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX,"MarineMax Inc.
-   ","Somers Point, NJ",2016,Call for Price,Fiberglass,0
-661854,5875,3028,21,Sea Ray.21 SPX Outboard,MarineMax Long Island,"Lindenhurst, New York",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX Outboard,"MarineMax Inc.
-   ","Lindenhurst, NY",2016,Call for Price,Fiberglass,0
-662258,5876,3018,21,Sea Ray.21 SPX,MarineMax Ship Bottom,"Ship Bottom, New Jersey",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX,"MarineMax Inc.
-   ","Ship Bottom, NJ",2016,Call for Price,Fiberglass,0
-672600,5901,3010,21,Sea Ray.21 SPX,MarineMax Lake Conroe,"Montgomery, Texas",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX,"MarineMax Inc.
+643184,5830,2988,21,Sea Ray.200 Sundeck,Fox Chapel Marine,"Pittsburgh, Pennsylvania",2004,24500,Fiberglass,21,Sea Ray 200 Sundeck,"Fox Chapel Marine
+   ","Pittsburgh, PA",2004,24500,Fiberglass,0
+665146,5883,3008,21,Sea Ray.21 SPX,MarineMax Dallas,"Lewisville, Texas",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX,"MarineMax Inc.
+   ","Lewisville, TX",2016,Call for Price,Fiberglass,0
+665970,5885,3004,21,Sea Ray.21 SPX,MarineMax Dallas,"Lewisville, Texas",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX,"MarineMax Inc.
+   ","Lewisville, TX",2016,Call for Price,Fiberglass,0
+667229,5888,3021,21,Sea Ray.21 SPX Outboard,MarineMax Panama City,"Panama City Beach, Florida",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX Outboard,"MarineMax Inc.
+   ","Wrightsville Beach, NC",2016,Call for Price,Fiberglass,0
+667242,5888,3034,21,Sea Ray.21 SPX Outboard,MarineMax Panama City,"Panama City Beach, Florida",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX Outboard,"MarineMax Inc.
+   ","Panama City Beach, FL",2016,Call for Price,Fiberglass,0
+671768,5899,3006,21,Sea Ray.21 SPX Outboard,MarineMax Houston,"Seabrook, Texas",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX,"MarineMax Inc.
+   ","Seabrook, TX",2016,Call for Price,Fiberglass,0
+672591,5901,3001,21,Sea Ray.21 SPX,MarineMax Lake Conroe,"Montgomery, Texas",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX,"MarineMax Inc.
    ","Montgomery, TX",2016,Call for Price,Fiberglass,0
-673009,5902,3005,21,Sea Ray.21 SPX,MarineMax Warwick,"Warwick, Rhode Island",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX,"MarineMax Inc.
-   ","Warwick, RI",2016,Call for Price,Fiberglass,0
-673443,5903,3025,21,Sea Ray.21 SPX Outboard,MarineMax Panama City,"Panama City Beach, Florida",2016,Request Price,Fiberglass,21,Sea Ray 21 SPX Outboard,"MarineMax Inc.
-   ","Panama City Beach, FL",2016,45354,Fiberglass,0
-675955,5909,3053,21,Sea Ray.SPX 210 ,MarineMax Norwalk,"Norwalk, Connecticut",2017,Request Price,Fiberglass,21,Sea Ray SPX 210,"MarineMax Inc.
-   ","Norwalk, CT",2017,Call for Price,Fiberglass,0
-677201,5912,3057,21,Sea Ray.SPX 210 OB,MarineMax Dallas,"Lewisville, Texas",2017,Request Price,Fiberglass,21,Sea Ray SPX 210,"MarineMax Inc.
-   ","Lewisville, TX",2017,Call for Price,Fiberglass,0
-683423,5927,3069,21,Sea Ray.SPX 210 OB,MarineMax Ft. Myers,"Ft. Myers, Florida",2017,Request Price,Fiberglass,21,Sea Ray SPX 210 OB,"MarineMax Inc.
-   ","Ft. Myers, FL",2017,Call for Price,Fiberglass,0
-699530,5966,3030,21,Sea Ray.210 Signature,Boat Brokers LKN,"Cornelius, North Carolina",2002,"13,900",Fiberglass,21,Sea Ray 210 Signature,"Boat Brokers LKN
-   ","Cornelius, NC",2002,13900,Fiberglass,0
-711452,5995,2946,21,Regal.2100 RX Surf,Grand Bay Marine,"Traverse City, Michigan",2017,Request Price,Fiberglass,21,Regal 2100 RX Surf,"Grand Bay Marine
+676377,5910,3061,21,Sea Ray.SPX 210 OB,MarineMax Brick,"Brick, New Jersey",2017,Request Price,Fiberglass,21,Sea Ray SPX 210 OB,"MarineMax Inc.
+   ","Brick, NJ",2017,Call for Price,Fiberglass,0
+684668,5930,3072,21,Sea Ray.SPX 210 OB,MarineMax Jacksonville at Beach Marine,"Jacksonville, Florida",2017,Request Price,Fiberglass,21,Sea Ray SPX 210 OB,"MarineMax Inc.
+   ","Jacksonville, FL",2017,Call for Price,Fiberglass,0
+701179,5970,3023,21,Sea Ray.210 Bow Rider,Platinum Marine,"AUSTIN, Texas",1999,9999,Fiberglass,21,Sea Ray 210 Bow Rider,"Platinum Marine
+   ","AUSTIN, TX",1999,9999,Fiberglass,0
+711038,5994,2946,21,Regal.2100 RX Surf,Grand Bay Marine,"Traverse City, Michigan",2017,Request Price,Fiberglass,21,Regal 2100 RX Surf,"Grand Bay Marine
    ","Traverse City, MI",2017,Call for Price,Fiberglass,0
-714354,6002,2950,21,Regal.2100 RX Bowrider,AM PM MARINE,"Pasadena, Maryland",2016,Request Price,Fiberglass,21,Regal 2100 RX Bowrider,"AM PM MARINE
-   ","Pasadena, MD",2016,Call for Price,Fiberglass,0
-728416,6036,2936,21,Regal.2100 Regal,Grand Bay Marine,"Traverse City, Michigan",2011,"39,950",Fiberglass,21,Regal 2100,"Grand Bay Marine
-   ","Traverse City, MI",2011,34900,Fiberglass,0
-737530,6058,2942,21,Regal.2120 Destiny,Commonwealth Boat Brokers,"Ashland, Virginia",2005,"17,900",Fiberglass,21,Regal DESTINY 2120,"Commonwealth Boat Brokers
+737530,6058,2942,21,Regal.2120 Destiny,Commonwealth Boat Brokers,"Ashland, Virginia",2005,17900,Fiberglass,21,Regal DESTINY 2120,"Commonwealth Boat Brokers
    ","Ashland, VA",2005,17900,Fiberglass,0
-750391,6089,2969,21,Scarab.215HO Impulse,Sea Ray of Louisville,"Louisville, Kentucky",2016,"68,548",Fiberglass,21,Scarab 215HO Impulse,"Sea Ray of Cincinnati
-   ","Louisville, KY",2016,68548,Fiberglass,0
-774528,6147,3094,21,Wellcraft.210 Sportsman,"All Seasons Marine Works, Inc","Westport, Connecticut",2009,"27,900",Fiberglass,21,Wellcraft 210 Sportsman,"All Seasons Marine Works, Inc
-   ","Westport, CT",2009,27900,Fiberglass,0
-776595,6152,3091,21,Tidewater Boats.210 LXF,Blue Marlin Boats,"Seaford, New York",2016,Request Price,Fiberglass,21,Tidewater 210 LXF,"Blue Marlin Boats
-   ","Seaford, NY",2016,1,Fiberglass,0
-796495,6200,3119,21,Chaparral.210 Suncoast 181B,Longshore Boats,"Charleston, South Carolina",2016,"52,616",Fiberglass,21,Chaparral 210 Suncoast 181B,"Longshore Boats
+761272,6115,3086,21,Stingray.214 LR,Sundance Marine USA,"Miami, Florida",2017,Request Price,Fiberglass,21,Stingray 214 LR,"Sundance Marine USA
+   ","Miami, FL",2017,,Fiberglass,0
+766663,6128,3095,21,Supra.Launch 21,Sea Ray of Cincinnati,"Cincinnati, Ohio",2004,23900,Fiberglass,21,Supra Launch 21,"Sea Ray of Cincinnati
+   ","Cincinnati, OH",2004,23900,Fiberglass,0
+772051,6141,3101,21,Supra.21 Launch,Sea Ray of Cincinnati,"Cincinnati, Ohio",1999,18500,Fiberglass,21,Supra 21 Launch,"Sea Ray of Cincinnati
+   ","Cincinnati, OH",1999,18500,Fiberglass,0
+796495,6200,3119,21,Chaparral.210 Suncoast 181B,Longshore Boats,"Charleston, South Carolina",2016,52616,Fiberglass,21,Chaparral 210 Suncoast 181B,"Longshore Boats
    ","Charleston, SC",2016,52616,Fiberglass,0
-799798,6208,3110,21,Chaparral.210 Suncoast,A & S Boats,"South Windsor, Connecticut",2017,Request Price,Fiberglass,21,Chaparral 210 Suncoast,"A & S Boats
-   ","South Windsor, CT",2017,Call for Price,Fiberglass,0
-803941,6218,3113,21,Chaparral.210 Suncoast,Waterfront Marine Yacht Sales,"Somers Point, New Jersey",2016,"51,203",Fiberglass,21,Chaparral 210 Suncoast,"Waterfront Marine Yacht Sales-New Jersey
-   ","Somers Point, NJ",2016,51203,Fiberglass,0
-804358,6219,3116,21,Chaparral.210 Suncoast,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2016,"52,991",Fiberglass,21,Chaparral 210 Suncoast,"Waterfront Marine Yacht Sales-New Jersey
+798972,6206,3112,21,Chaparral.210 Suncoast,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2017,52165,Fiberglass,21,Chaparral 210 Suncoast,"Waterfront Marine Yacht Sales-New Jersey
+   ","SOMERS POINT, NJ",2017,52165,Fiberglass,0
+804358,6219,3116,21,Chaparral.210 Suncoast,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2016,52991,Fiberglass,21,Chaparral 210 Suncoast,"Waterfront Marine Yacht Sales-New Jersey
    ","SOMERS POINT, NJ",2016,52991,Fiberglass,0
-804788,6220,3132,21,Chaparral.210 Suncoast Bowrider,Sunrise Marine,"Mary Esther, Florida",2016,"47,764",Fiberglass,21,Chaparral 210 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Mary Esther, FL",2016,47764,Fiberglass,0
-826321,6272,3137,21,Monterey.217 Blackfin,North Florida Yacht Sales,"Jacksonville, Florida",2017,Request Price,Fiberglass,21,Monterey 217 Blackfin,"North Florida Yacht Sales
-   ","Jacksonville, FL",2017,1,Fiberglass,0
-854770,2396,1514,24,Four Winns.SL242,Anchorage Yacht Sales,"Zeeland, Michigan",2013,"61,500",Fiberglass,24,Four Winns SL242,"Anchorage Yacht Sales
-   ","Zeeland, MI",2013,61500,Fiberglass,0
-868783,2426,1548,24,Regal.24 Fasdeck,Sheltered Cove Marina,"Tuckerton, New Jersey",2017,Request Price,Fiberglass,24,Regal 24 FasDeck,"Sheltered Cove Marina
-   ","Tuckerton, NJ",2017,Call for Price,Fiberglass,0
-871558,2432,1527,24,Chaparral.243 Vortex VR,Waterfront Marine Yacht Sales,"Edgewater, Maryland",2016,"75,889",Fiberglass,24,Chaparral 243 Vortex VR,"Waterfront Marine Yacht Sales-New Jersey
-   ","Edgewater, MD",2016,75889,Fiberglass,0
-880892,2452,1541,24,Regal.24 FasDeck RX,AM PM MARINE,"Pasadena, Maryland",2016,Request Price,Fiberglass,24,Regal 24 FasDeck,"AM PM MARINE
-   ","Pasadena, MD",2016,Call for Price,Fiberglass,0
-882768,2456,1553,24,Sea Ray.240 Sundeck,Fox Chapel Marine,"Pittsburgh, Pennsylvania",2012,"59,750",Fiberglass,24,Sea Ray 240 Sundeck,"Fox Chapel Marine
-   ","Pittsburgh, PA",2012,59750,Fiberglass,0
-884630,2460,1551,24,Sea Ray.240 Sundeck,"Stone Harbor Yacht Sales - Stone Harbor, NJ",Stone Harbor,2013,"54,900",Fiberglass,24,Sea Ray 240 Sundeck,"Stone Harbor Yacht Sales
-   ","Stone Harbor, United States",2013,54900,Fiberglass,0
-896763,2486,1568,24,Bayliner.245 Bowrider,E Yachting,"Gloucester, Virginia",2004,"17,500",Fiberglass,24,Bayliner 245 Bowrider,"E Yachting
-   ","Gloucester, VA",2004,17500,Fiberglass,0
-897703,2488,1576,24, Axopar.24 HT,Nautical Ventures,"South Florida , Florida",2016,"69,043",Fiberglass,24,Axopar 24 HT,"Nautical Ventures
-   ","South Florida , FL",2016,69043,Fiberglass,0
-917595,2530,1897,24,Vip.242 Deckliner,MarineMax Lake Conroe,"Montgomery, Texas",2005,"19,782",Fiberglass,24,VIP BOATS 242 DECKLINER,"MarineMax Inc.
-   ","Montgomery, TX",2005,19782,Fiberglass,0
-937327,2573,1590,24,Chaparral.244 Sunesta 107G,Longshore Boats,"Charleston, South Carolina",2017,Request Price,Fiberglass,24,Chaparral 244 Sunesta 108G,"Longshore Boats
-   ","Charleston, SC",2017,Call for Price,Fiberglass,0
-943847,2587,1586,24,Chaparral.244 Sunesta,Tilly's Marine,"Huntington Beach, California",2016,Request Price,Fiberglass,24,Chaparral 244 Sunesta,"Tilly's Marine
-   ","Huntington Beach, CA",2016,Call for Price,Fiberglass,0
-956903,2615,1594,24,Cobalt.24 Bow Rider,COMPLETE MARINE,"Pompano Beach, Florida",2002,"23,500",Fiberglass,24,Cobalt 24 Bow Rider,"COMPLETE MARINE
-   ","Pompano Beach, FL",2002,23500,Fiberglass,0
-963442,2629,1609,24,Cobalt.240 Open Bow,Pettingill Yachts,"NEWPORT BEACH, California",2003,"34,000",Fiberglass,24,Cobalt 240 Open Bow,"Pettingill Yachts
-   ","NEWPORT BEACH, CA",2003,34000,Fiberglass,0
-980721,2666,1646,24,Edgewater.248 CX,Bosun Marine,"Mashpee, Massachusetts",2017,Request Price,Fiberglass,24,Edgewater 248 CX,"Bosun Marine
-   ","Mashpee, MA",2017,Call for Price,Fiberglass,0
-981178,2667,1637,24,Edgewater.248 CX,Bosun Marine,"On Order, Massachusetts",2017,Request Price,Fiberglass,24,Edgewater 248 CX,"Bosun Marine
+825517,6270,3162,21,Robalo.R200 Center Console,The Nautic Group,"Kemah / Houston, Texas",2017,Request Price,Fiberglass,21,Robalo R207 Dual Console,"The Nautic Group
+   ","Kemah / Houston, TX",2017,Call for Price,Fiberglass,0
+834630,6292,3170,21,Crownline.Eclipse E1,"Stone Harbor Yacht Sales - Stone Harbor, NJ","Stone Harbor, New Jersey",2017,Request Price,Fiberglass,21,Crownline Eclipse E1,"Stone Harbor Yacht Sales
+   ","Stone Harbor, NJ",2017,1,Fiberglass,0
+858029,2403,1506,24,Scout.245 Dorado,"SEVEN SEAS YACHT SALES, INC.","Ft. Lauderdale, Florida",2016,Request Price,Composite,24,Scout 245 Dorado,"SEVEN SEAS YACHT SALES, INC.
+   ","Ft. Lauderdale, FL",2016,Call for Price,Composite,0
+886495,2464,1552,24,Chaparral.236 SSi,Magnum Marine,"Hampstead, North Carolina",2007,24995,Fiberglass,24,Chaparral 236 SSi,"Magnum Marine
+   ","Hampstead, NC",2007,24995,Fiberglass,0
+904215,2502,1564,24,Bayliner.245 Bowrider,"Baltimore Boating Center, LLC","Baltimore/Essex, Maryland",2007,24900,Fiberglass,24,Bayliner 245 Bowrider,"Baltimore Boating Center, LLC
+   ","Baltimore/Essex, MD",2007,24900,Fiberglass,0
+949918,2600,1599,24,Chaparral.246 SCI,Blue Marlin Boats,"Seaford, New York",2006,29990,Ferro-Cement,24,Chaparral 246 SCI,"Blue Marlin Boats
+   ","Seaford, NY",2006,29990,Ferro-Cement,0
+979314,2663,1637,24,Edgewater.248 CX,Bosun Marine,"On Order, Massachusetts",2017,Request Price,Fiberglass,24,Edgewater 248 CX,"Bosun Marine
    ","On Order, MA",2017,Call for Price,Fiberglass,0
-983961,2673,1624,24,Ebbtide.2400 SS Fun Cruiser O/B,Portside Yacht Sales,"Tarpon Springs, Florida",2009,"32,500",Fiberglass,24,Ebbtide 2400 SS Fun Cruiser O/B,"Portside Yacht Sales & Service
-   ","Tarpon Springs, FL",2009,32500,Fiberglass,0
-987713,2681,1648,24,Formula.240 Bowrider,Chicago Yacht Works,United States,2016,"107,040",Fiberglass,24,Formula 240 Bowrider,"Gulf Coast Boat Sales & Yacht Management
-   ","FL, United States",2016,,Fiberglass,0
-998433,2704,1650,24,Formula.F-240 BR,Portside Yacht Sales,"Fort Lauderdale, Florida",2006,"49,500",Fiberglass,24,Formula F-240 BR,"Portside Yacht Sales & Service
-   ","Fort Lauderdale, FL",2006,49500,Fiberglass,0
-1000294,2708,1647,24,Four Winns.240 Horizon,WORLDWIDE YACHT SALES INC.,"Cape Coral, Florida",2007,"27,922",Fiberglass,24,Four Winns 240 Horizon,"WORLDWIDE YACHT SALES INC.
-   ","Cape Coral, FL",2007,27922,Fiberglass,0
-1017759,2745,1871,24,Hurricane.2400 SUNDECK,Wye River Marine,"Kent Island, Maryland",2016,"59,900",Fiberglass,24,Sea Ray SunDeck,"Long Island Marine Group
-   ","Long Island , NY",2016,64900,Fiberglass,0
-1023638,2758,1691,24,Malibu.24 MXZ,"Marine Sales & Service, Inc.","Louisville, Kentucky",2014,"99,900",Fiberglass,24,Malibu 24 MXZ,"Marine Sales & Service
-   ","LOUISVILLE, KY",2014,99500,Fiberglass,0
-1031556,2775,1687,24,Mastercraft.X45 SS,MarineMax Lake Hopatcong,"Lake Hopatcong, New Jersey",2008,"49,995",Fiberglass,24,Mastercraft X45 SS,"MarineMax Inc.
-   ","Lake Hopatcong, NJ",2008,49995,Fiberglass,0
-1042282,2798,1695,24,Monterey.234FS Bowrider,Bond Boats Florida Yacht Brokers,"Sebastian, Florida",2010,"29,999",Fiberglass,24,Monterey 234FS Bowrider,"Bond Boats Florida Yacht Brokers
-   ","Sebastian, FL",2010,29999,Fiberglass,0
-1055345,2826,1710,24,Monterey.248 Ls,United Yacht Sales - New Jersey,"Stone Harbor, New Jersey",2004,"19,900",Fiberglass,24,Monterey 248 LS Bowrider,"United Yacht Sales
-   ","Stone Harbor, NJ",2004,19900,Fiberglass,0
-1062027,2840,1869,24,Sea Ray.SDX 240,MarineMax Lake Ozark,"Lake Ozark, Missouri",2017,Request Price,Fiberglass,24,Sea Ray SDX 240,"MarineMax Inc.
-   ","Lake Hopatcong, NJ",2017,Call for Price,Fiberglass,0
-1063327,2843,1770,24,Sea Ray.240 Sundeck,All Captains Yacht Sales,"St Petersburg, Florida",2008,"34,000",Fiberglass,24,Sea Ray 24 sundeck,"All Captains Yacht Sales
-   ","St Petersburg, FL",2008,34000,Fiberglass,0
-1067050,2851,1765,24,Sea Ray.2001 24 Sundeck,Beacon Point Marine,"Greenwich, Connecticut",2001,"17,500",Fiberglass,24,Sea Ray 2001 24 Sundeck,"Beacon Point Marine
-   ","Greenwich, CT",2001,17500,Fiberglass,0
+981651,2668,1644,24,Edgewater.248 CX,Bosun Marine,"Peabody, Massachusetts",2017,Request Price,Fiberglass,24,Edgewater 248 CX,"Bosun Marine
+   ","Peabody, MA",2017,Call for Price,Fiberglass,0
+1032018,2776,1683,24,Mastercraft.X-45 (JSS),Great Lakes Yacht Brokers,"Hiwassee, Virginia",2006,45000,Fiberglass,24,Mastercraft X-45 (JSS),"Great Lakes Yacht Brokers
+   ","Hiwassee, VA",2006,45000,Fiberglass,0
+1032482,2777,1681,24,Mastercraft.X-45 SS,Portside Yacht Sales,"Bradenton Beach, Florida",2011,71900,Fiberglass,24,Mastercraft X-45 SS,"Portside Yacht Sales & Service
+   ","Bradenton Beach, FL",2011,71900,Fiberglass,0
+1039025,2791,1700,24,Maxum.2300 SR,Harborside Yacht Sales,"Clinton, Connecticut",2001,14900,Fiberglass,24,Maxum 2300 SR,"Harborside Marina
+   ","Clinton, CT",2001,14900,Fiberglass,0
+1047873,2810,1694,24,Monterey.240 Explorer,MarineMax Wrightsville Beach,"Wilmington, North Carolina",2002,14900,Fiberglass,24,Monterey 240 Explorer,"MarineMax Inc.
+   ","Wilmington, NC",2002,14900,Fiberglass,0
+1053942,2823,1705,24,Monterey.263 EX Explorer,Nautical Ventures,"Dania Beach, Florida",2006,27900,Fiberglass,24,Monterey 263 EX Explorer,"Nautical Ventures
+   ","Dania Beach, FL",2006,27900,Fiberglass,0
+1054414,2824,1711,24,Monterey.248LS Montura Bowrider,Key Harbor Yacht Sales,"Waretown, New Jersey",2006,30000,Fiberglass,24,Monterey 248LS Montura Bowrider,"Key Harbor Yacht Sales
+   ","Waretown, NJ",2006,30000,Fiberglass,0
+1065188,2847,1767,24,Sea Ray.220 Sundeck,Great Southern Yacht Company,"Destin, Florida",2005,39900,Fiberglass,24,Sea Ray 220 Sundeck,"Great Southern Yacht Company
+   ","Destin, FL",2005,39900,Fiberglass,0
+1066126,2849,1773,24,Sea Ray.24 Sundeck 115 Hours,Middle Sound Boatworks,"Wilmington, North Carolina",2008,34900,Fiberglass,24,Sea Ray 24 Sundeck 115 Hours,"Middle Sound Boatworks
+   ","Wilmington, NC",2008,34900,Fiberglass,0
 1067612,2852,1862,24,Sea Ray.SDX 240,MarineMax Norwalk,"Norwalk, Connecticut",2017,Request Price,Fiberglass,24,Sea Ray SDX 240,"MarineMax Inc.
    ","Norwalk, CT",2017,Call for Price,Fiberglass,0
-1069490,2856,1876,24,Sea Ray.SDX 240,MarineMax Miami,"Miami, Florida",2017,Request Price,Fiberglass,24,Sea Ray SDX 240 OB,"MarineMax Inc.
-   ","Miami, FL",2017,Call for Price,Fiberglass,0
-1071803,2861,1859,24,Sea Ray.SDX 240,MarineMax Orlando,"Orlando, Florida",2017,Request Price,Fiberglass,24,Sea Ray SDX 240,"MarineMax Inc.
-   ","Orlando, FL",2017,Call for Price,Fiberglass,0
+1072260,2862,1850,24,Sea Ray.SDX 240,MarineMax Lake Conroe,"Montgomery, Texas",2017,Request Price,Fiberglass,24,Sea Ray SDX 240,"MarineMax Inc.
+   ","Montgomery, TX",2017,Call for Price,Fiberglass,0
 1072752,2863,1876,24,Sea Ray.SDX 240 OB,MarineMax Miami,"Miami, Florida",2017,Request Price,Fiberglass,24,Sea Ray SDX 240 OB,"MarineMax Inc.
    ","Miami, FL",2017,Call for Price,Fiberglass,0
-1073203,2864,1861,24,Sea Ray.SDX 240,MarineMax Long Island,"Lindenhurst, New York",2017,Request Price,Fiberglass,24,Sea Ray SDX 240,"MarineMax Inc.
-   ","Lindenhurst, NY",2017,Call for Price,Fiberglass,0
+1074148,2866,1874,24,Sea Ray.SDX 240 OB,MarineMax Sarasota,"Sarasota, Florida",2017,Request Price,Fiberglass,24,Sea Ray SDX 240 OB,"MarineMax Inc.
+   ","Sarasota, FL",2017,Call for Price,Fiberglass,0
 1075986,2870,1848,24,Sea Ray.240 Sundeck Outboard,MarineMax Long Island,"Lindenhurst, New York",2016,Request Price,Fiberglass,24,Sea Ray 240 Sundeck Outboard,"MarineMax Inc.
    ","Lindenhurst, NY",2016,Call for Price,Fiberglass,0
-1076900,2872,1829,24,Sea Ray.240 Sundeck Outboard,MarineMax Norwalk,"Norwalk, Connecticut",2016,Request Price,Fiberglass,24,Sea Ray 240 Sundeck Outboard,"MarineMax Inc.
-   ","Norwalk, CT",2016,Call for Price,Fiberglass,0
-1077775,2874,1772,24,Sea Ray.240 Sundeck,MarineMax Dallas,"Lewisville, Texas",2016,Request Price,Fiberglass,24,Sea Ray 240 Sundeck,"MarineMax Inc.
+1077778,2874,1775,24,Sea Ray.240 Sundeck,MarineMax Dallas,"Lewisville, Texas",2016,Request Price,Fiberglass,24,Sea Ray 240 Sundeck,"MarineMax Inc.
    ","Lewisville, TX",2016,Call for Price,Fiberglass,0
-1079641,2878,1774,24,Sea Ray.240 Sundeck,MarineMax Lake Ozark,"Lake Ozark, Missouri",2016,Request Price,Fiberglass,24,Sea Ray 240 Sundeck,"MarineMax Inc.
-   ","Lake Hopatcong, NJ",2016,Call for Price,Fiberglass,0
-1091294,2903,1777,24,Sea Ray.240 Sundeck,Captain's Choice of Pickwick,"Pickwick Lake, TN, Mississippi",2015,Request Price,Fiberglass,24,Sea Ray 240 Sundeck,"Captain's Choice of Pickwick
-   ","Pickwick Lake, TN, MS",2015,Call for Price,Fiberglass,0
-1096480,2914,1837,24,Sea Ray.240 Sundeck OB,MarineMax Palm Beach at PGA Marina,"Palm Beach Gardens, Florida",2014,"62,000",Fiberglass,24,Sea Ray 240 Sundeck OB,"MarineMax Inc.
-   ","Palm Beach Gardens, FL",2014,62000,Fiberglass,0
-1157411,3045,1722,24,Regal.2400 Bowrider,"Johnston & Mayer Oasis Yachts, LLC","New Orleans, Louisiana",2008,"23,900",Fiberglass,24,Regal 2400 Bowrider,"Johnston & Mayer Oasis Yachts, LLC
-   ","New Orleans, LA",2008,23900,Fiberglass,0
-1162540,3056,1725,24,Regal.24 FasDeck RX,"Racine Riverside Marine, Inc.","Racine, Wisconsin",2012,"48,900",Fiberglass,24,Regal 24 FasDeck RX,"Racine Riverside Marine, Inc.
-   ","Racine, WI",2012,48900,Fiberglass,0
-1169553,3071,1748,24,Robalo.242 Center Console,Sunrise Marine,"Fort Walton Beach, Florida",2016,"83,497",Fiberglass,24,Robalo 242 Center Console,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Fort Walton Beach, FL",2016,83497,Fiberglass,0
-1172485,3077,1885,24,Seaswirl.2301 DC,Cahoon Yacht Brokerage,"Cape Cod, Massachusetts",2005,"22,900",Fiberglass,24,Seaswirl 2301 DC,"Cahoon Yacht Brokerage
-   ","Cape Cod, MA",2005,22900,Fiberglass,0
-1223314,3186,1920,24,Yamaha.242 Limited S,Hall Marine Group-Sea Ray of Lake Norman,United States,2016,Request Price,Fiberglass,24,Yamaha 242 Limited S,"Hall Marine Group
-   ",United States,2016,,Fiberglass,0
-1308631,3369,1959,24,Four Winns.214 Funship,Yacht Masters,"Merritt Island, Florida",2004,"19,500",Fiberglass,24,Four Winns 214 Funship,"Yacht Masters
-   ","Merritt Island, FL",2004,19500,Fiberglass,0
-1323082,3400,1964,24,Regal.2350 LSC,Delta Marine Sales,"Stockton, California",2000,"26,900",Fiberglass,24,Regal 2350 LSC,"Delta Marine Sales
-   ","Stockton, CA",2000,26900,Fiberglass,0
-1324013,3402,1963,24,Sea Ray.220 Sundeck,"Tampa Yacht Sales, INC","Tierra Verde, Florida",2007,"29,950",Fiberglass,24,Sea Ray 220 Sundeck,"Tampa Yacht Sales, INC
-   ","Tierra Verde, FL",2007,29950,Fiberglass,0
-1393763,3579,2019,23,Boston Whaler.230 Vantage,Captain's Choice of Pickwick,"Pickwick Lake, TN, Mississippi",2015,Request Price,Fiberglass,23,Boston Whaler 230 Vantage,"Captain's Choice of Pickwick
-   ","Pickwick Lake, TN, MS",2015,Call for Price,Fiberglass,0
-1402386,3602,2040,23,Chaparral.230 Suncoast 118H,Longshore Boats,"Charleston, South Carolina",2017,"64,304",Fiberglass,23,Chaparral 230 Suncoast 118H,"Longshore Boats
-   ","Charleston, SC",2017,64304,Fiberglass,0
-1410986,3625,2038,23,Chaparral - DEMO.227 SSX Bowrider,Sunrise Marine,"Daphne, Alabama",2016,Request Price,Fiberglass,23,Chaparral - DEMO 227 SSX Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Daphne, AL",2016,Call for Price,Fiberglass,0
-1415100,3636,2038,23,Chaparral - DEMO.227 SSX Bowrider,Sunrise Marine of Alabama,"Daphne, Alabama",2016,Request Price,Fiberglass,23,Chaparral - DEMO 227 SSX Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Daphne, AL",2016,Call for Price,Fiberglass,0
-1431576,3680,2058,23,Cobalt. R3 Bowrider ,"Marine Sales of Pickwick, LLC","Counce, Tennessee",2015,Request Price,Fiberglass,23,Cobalt R3 WSS,"Marine Sales of Pickwick, LLC
+1084826,2889,1833,24,Sea Ray.240 Sundeck,Sea Ray of Louisville,"Louisville, Kentucky",2016,Request Price,Fiberglass,24,Sea Ray 240 Sundeck,"Sea Ray of Cincinnati
+   ","Louisville, KY",2016,Call for Price,Fiberglass,0
+1090881,2902,1830,24,Sea Ray.240 Sundeck,Fox Chapel Marine,"Pittsburgh, Pennsylvania",2015,Request Price,Fiberglass,24,Sea Ray 240 Sundeck,"Fox Chapel Marine
+   ","Pittsburgh, PA",2015,,Fiberglass,0
+1095095,2911,1851,24,Sea Ray.240 Sundeck Outboard,MarineMax Long Island,"Lindenhurst, New York",2015,Request Price,Fiberglass,24,Sea Ray 240 Sundeck Outboard,"MarineMax Inc.
+   ","Lindenhurst, NY",2015,Call for Price,Fiberglass,0
+1099713,2921,1808,24,Sea Ray.240 Sundeck,Knot 10 Yacht Sales,"Kent Island, Maryland",2008,37900,Fiberglass,24,Sea Ray 240 Sundeck,"Knot 10 Yacht Sales
+   ","Kent Island, MD",2008,37900,Fiberglass,0
+1108105,2939,1812,24,Sea Ray.240 Sundeck,Legendary Marine Ft. Walton Beach,"Fort Walton Beach, Florida",2007,34900,Fiberglass,24,Sea Ray 240 Sundeck,"Bob Hodge Marine Group
+   ","Fort Pierce, FL",2007,24900,Fiberglass,0
+1109455,2942,1764,24,Sea Ray.240 Sundeck,Bay Way Marine,"Saint Petersburg, Florida",2006,29900,Fiberglass,24,Sea Ray 240  Sundeck,"Bay Way Marine, Inc.
+   ","Saint Petersburg, FL",2006,29900,Fiberglass,0
+1116953,2958,1806,24,Sea Ray.240 Sundeck,Fox Chapel Marine,United States,2004,37995,Fiberglass,24,Sea Ray 240 Sundeck,"Fox Chapel Marine
+   ",United States,2004,37995,Fiberglass,0
+1134267,2995,1879,24,Sea Ray.Sundeck,Denison Yacht Sales,"Stuart, Florida",2006,31000,Fiberglass,24,Sea Ray SunDeck,"Denison Yacht Sales
+   ","Stuart, FL",2006,31000,Fiberglass,0
+1136908,3001,1723,24,Regal.2300 Bowrider,Grand Bay Marine,"Traverse City, Michigan",2016,Request Price,Fiberglass,24,Regal 2300 Bowrider,"Grand Bay Marine
+   ","Traverse City, MI",2016,Call for Price,Fiberglass,0
+1141100,3010,1721,24,Regal.2300 Bowrider,Grand Bay Marine,"Traverse City, Michigan",2015,Request Price,Fiberglass,24,Regal 2300 Bowrider,"Grand Bay Marine
+   ","Traverse City, MI",2015,Call for Price,Fiberglass,0
+1149960,3029,1727,24,Regal.24 Fasdeck,Sundance Jensen,"Jensen Beach , Florida",2016,Request Price,Fiberglass,24,Regal 24 FasDeck,"Sundance Marine USA
+   ","Jensen Beach , FL",2016,Call for Price,Fiberglass,0
+1149961,3029,1728,24,Regal.24 Fasdeck,Sundance Jensen,"Jensen Beach , Florida",2016,Request Price,Fiberglass,24,Regal 24 FasDeck,"Sundance Marine USA
+   ","Pompano Beach, FL",2016,Call for Price,Fiberglass,0
+1156020,3042,1729,24,Regal.24 Fasdeck,MarineMax Jacksonville at Beach Marine,"Jacksonville, Florida",2015,54900,Fiberglass,24,Regal 24 FasDeck,"MarineMax Inc.
+   ","Jacksonville, FL",2015,54900,Fiberglass,0
+1161152,3053,1735,24,Regal.24 Fasdeck,Grand Bay Marine,"Traverse City, Michigan",2012,54900,Fiberglass,24,Regal 24 FasDeck,"Grand Bay Marine
+   ","Traverse City, MI",2012,54900,Fiberglass,0
+1166741,3065,1732,24,Rinker.246 Captiva,Denison Yacht Sales - Naples,"Fort Myers Beach, Florida",2007,32000,Fiberglass,24,Rinker 246 Captiva,"Denison Yacht Sales
+   ","Fort Myers Beach, FL",2007,32000,Fiberglass,0
+1168610,3069,1737,24,Rinker.246 Captiva,MarineMax Copiague,"Copiague, New York",2011,39000,Fiberglass,24,Rinker 246 Captiva,"MarineMax Inc.
+   ","Copiague, NY",2011,39000,Fiberglass,0
+1195346,3126,1912,24,Yamaha.242 Limited S,Hall Marine Group-Sea Ray of Savannah,United States,2017,Request Price,Fiberglass,24,Yamaha 242 Limited S,"Hall Marine Group
+   ",United States,2017,,Fiberglass,0
+1266184,3278,1918,24,Yamaha.SX240 HO,"Twin City Marine, Inc.","Central Falls, Rhode Island",2016,49999,Fiberglass,24,Yamaha SX240 HO,"Twin City Marine, Inc.
+   ","Central Falls, RI",2016,49999,Fiberglass,0
+1383416,3551,2144,23,Nautique Super Air.G23,"Pickwick Yacht Brokers, LLC",Pickwick Lake,2015,122000,Fiberglass,23,Nautique Super Air G23,"Pickwick Yacht Brokers, LLC
+   ","Pickwick Lake, United States",2015,122000,Fiberglass,0
+1422949,3657,2033,23,Chaparral.Sunesta 236,Legendary Marine Destin,"Destin, Florida",2005,24999,Fiberglass,23,Chaparral Sunesta 236,"Legendary Marine
+   ","Destin, FL",2005,24999,Fiberglass,0
+1434942,3689,2058,23,Cobalt.R3 WSS,"Marine Sales of Pickwick, LLC","Counce, Tennessee",2015,Request Price,Fiberglass,23,Cobalt R3 WSS,"Marine Sales of Pickwick, LLC
    ","Counce, TN",2015,Call for Price,Fiberglass,0
 1436064,3692,2058,23,Cobalt.R3 WSS,"Marine Sales of Pickwick, LLC","Counce, Tennessee",2015,Request Price,Fiberglass,23,Cobalt R3 WSS,"Marine Sales of Pickwick, LLC
    ","Counce, TN",2015,Call for Price,Fiberglass,0
-1439053,3700,2055,23,Crownline.230 LS,COMPLETE MARINE,"Pompano Beach, Florida",2011,"39,900",Fiberglass,23,Crownline 230 LS,"COMPLETE MARINE
-   ","Pompano Beach, FL",2011,39900,Fiberglass,0
-1443546,3712,2060,23,Crownline.230 BR,COMPLETE MARINE,"Pompano Beach, Florida",2002,"13,900",Fiberglass,23,Crownline 230 BR,"COMPLETE MARINE
-   ","Pompano Beach, FL",2002,13900,Fiberglass,0
-1457390,3749,2066,23,Four Winns.H230RS,Hawk's Yachts Annapolis Office,"EDGEWATER - LIBERTY MARINA, Maryland",2017,Request Price,Fiberglass,23,Four Winns H230RS,"Hawk's Yachts
-   ","EDGEWATER - LIBERTY MARINA, MD",2017,Call for Price,Fiberglass,0
-1466015,3772,2089,23,Hurricane.SS 231 OB,Sunset Harbor Marina,"Essex, Maryland",2012,"34,900",Fiberglass,23,Hurricane SS 231 OB,"Sunset Harbor Marina, Inc
-   ","Essex, MD",2012,34900,Fiberglass,0
-1472748,3790,2090,23,Hurricane.Sun Deck 237,Florida Yacht Group,"Tavernier, Florida",2003,"16,000",Fiberglass,23,Hurricane SD 237,"Florida Yacht Group
-   ","Tavernier, FL",2003,16000,Fiberglass,0
-1478376,3805,2108,23,Malibu.Wakesetter 23 LSV,Tilly's Marine,"Huntington Beach, California",2017,Request Price,Fiberglass,23,Malibu Wakesetter 23 LSV,"Tilly's Marine
-   ","Huntington Beach, CA",2017,Call for Price,Fiberglass,0
-1483992,3820,2114,23,Malibu.Wakesetter 23 LSV,Tilly's Marine - Norco,"Norco, California",2017,Request Price,Fiberglass,23,Malibu Wakesetter 23 LSV,"Tilly's Marine
+1444782,3715,2174,23,Sea-Doo.230 Challenger,St. Clair Yacht Sales,"Port Huron, Michigan",2008,23900,Fiberglass,23,Sea Doo 230 Challenger,"St. Clair Yacht Sales
+   ","Port Huron, MI",2008,23900,Fiberglass,0
+1454404,3741,2072,23,Four Winns.230 Horizon,Hawk's Yachts Annapolis Office,"Edgewater, Maryland",2016,Request Price,Fiberglass,23,Four Winns 230 Horizon,"Hawk's Yachts
+   ","Edgewater, MD",2016,Call for Price,Fiberglass,0
+1464249,3767,2193,23,Sea Hunt.Escape 234 LE,Beacon Point Marine,"Shelton , Connecticut",2013,47500,Fiberglass,23,Sea Hunt Escape 234 LE,"Beacon Point Marine
+   ","Shelton , CT",2013,47500,Fiberglass,0
+1464510,3768,2080,23,Grady-White.235 Freedom,Anchor Marine,"Farmingdale, New Jersey",2017,147045,Fiberglass,23,Grady-White 235 Freedom,"Anchor Marine
+   ","Farmingdale, NJ",2017,147045,Fiberglass,0
+1467229,3775,2181,23,Sea Hunt.235 SE,Harborside Yacht Sales,"Clinton, Connecticut",2014,44500,Fiberglass,23,Sea Hunt 235 SE,"Harborside Marina
+   ","Clinton, CT",2014,44500,Fiberglass,0
+1467984,3777,2188,23,Sea Hunt.Escape 235 SE,"All Seasons Marine Works, Inc","Westport, Connecticut",2017,Request Price,Fiberglass,23,Sea Hunt Escape 235 SE,"All Seasons Marine Works, Inc
+   ","Westport, CT",2017,1,Fiberglass,0
+1473866,3793,2086,23,Hysucat.23 Hysucat RIB,Belko Nautical Group LLC,"AVENTURA, Florida",2017,65100,Composite,23,Hysucat 23 Hysucat RIB,"Belko Nautical Group
+   ","AVENTURA, FL",2017,65100,Composite,0
+1478425,3805,2157,23,Malibu.Wakesetter 23 LSV,Tilly's Marine,"Huntington Beach, California",2017,Request Price,Fiberglass,23,Regal 23 OBX,"Sundance Marine USA
+   ","Pompano Beach, FL",2017,Call for Price,Fiberglass,0
+1478756,3806,2114,23,Malibu.Wakesetter 23 LSV,Tilly's Marine - Norco,"Norco, California",2017,Request Price,Fiberglass,23,Malibu Wakesetter 23 LSV,"Tilly's Marine
    ","Norco, CA",2017,Call for Price,Fiberglass,0
-1490332,3837,2096,23,Malibu.Wakesetter 23 LSV,Boulder Boats,"Henderson, Nevada",2016,"96,995",Fiberglass,23,Malibu Wakesetter 23 LSV,"Boulder Boats
-   ","Henderson, NV",2016,96995,Fiberglass,0
-1498183,3858,2093,23,Malibu.Wakesetter 23 LSV,Boulder Boats - Arizona,"Mesa, Arizona",2011,"61,995",Fiberglass,23,Malibu Wakesetter 23 LSV,"Boulder Boats
-   ","Mesa, AZ",2011,61995,Fiberglass,0
-1509425,3888,2115,23,Maxum.2300 SR,Boat America,"St. Petersburg, Florida",1999,"9,900",Fiberglass,23,Maxum 2300 SR,"Boat America
-   ","St. Petersburg, FL",1999,9900,Fiberglass,0
-1528526,3939,2142,23,Monterey.,Montauk Yacht Sales,"Long Island, New York",2009,"33,500",Fiberglass,23,Monterey ,"Montauk Yacht Sales
+1483991,3820,2113,23,Malibu.Wakesetter 23 LSV,Tilly's Marine - Norco,"Norco, California",2017,Request Price,Fiberglass,23,Malibu Wakesetter 23 LSV,"Tilly's Marine
+   ","Norco, CA",2017,Call for Price,Fiberglass,0
+1495192,3850,2094,23,Malibu.Wakesetter 23 LSV,Boulder Boats,"Mesa, Arizona",2014,86995,Fiberglass,23,Malibu Wakesetter 23 LSV,"Boulder Boats
+   ","Mesa, AZ",2014,86995,Fiberglass,0
+1513924,3900,2126,23,Monterey.234 Super Sport,"Ugly John's Custom Boats, LLC.","Catoosa, Oklahoma",2014,60454,Fiberglass,23,Monterey 234 Super Sport,"Ugly John's Custom Boats, LLC.
+   ","Catoosa, OK",2014,60454,Fiberglass,0
+1525145,3930,2127,23,Monterey.238 Super Sport,Dry Harbour Marine,United States,2016,79978,Fiberglass,23,Monterey 238 Super Sport,"Sales at Dry Harbour Marine
+   ",United States,2016,79978,Fiberglass,0
+1528526,3939,2142,23,Monterey.,Montauk Yacht Sales,"Long Island, New York",2009,33500,Fiberglass,23,Monterey ,"Montauk Yacht Sales
    ","Long Island, NY",2009,33500,Fiberglass,0
-1549569,3995,2241,23,Sea Ray.SLX 230,MarineMax Osage Beach,"Osage Beach, Missouri",2017,Request Price,Fiberglass,23,Sea Ray SLX 230,"MarineMax Inc.
-   ","Osage Beach, MO",2017,Call for Price,Fiberglass,0
-1554805,4009,2241,23,Sea Ray.SLX 230,MarineMax Pompano,"Pompano Beach, Florida",2017,Request Price,Fiberglass,23,Sea Ray SLX 230,"MarineMax Inc.
-   ","Osage Beach, MO",2017,Call for Price,Fiberglass,0
+1543155,3978,2185,23,Sea Ray.220 Select,North Shore Boat Brokerage Inc.,United States,2006,27000,Fiberglass,23,Sea Ray 220 Select,"North Shore Boat Brokerage Inc.
+   ",United States,2006,27000,Fiberglass,0
+1547305,3989,2221,23,Sea Ray.SLX 230,MarineMax Dallas,"Lewisville, Texas",2017,Request Price,Fiberglass,23,Sea Ray SLX 230,"MarineMax Inc.
+   ","Lewisville, TX",2017,Call for Price,Fiberglass,0
+1555550,4011,2238,23,Sea Ray.SLX 230,MarineMax Orlando,"Orlando, Florida",2017,Request Price,Fiberglass,23,Sea Ray SLX 230,"MarineMax Inc.
+   ","Orlando, FL",2017,Call for Price,Fiberglass,0
 1558637,4019,2333,23,Sea Ray.230 SLX,Hall Marine Group-Sea Ray of Greenville,United States,2016,Request Price,Fiberglass,23,Sea Ray 220 Sundeck,"Hall Marine Group
    ",United States,2016,,Fiberglass,0
 1559257,4021,2205,23,Sea Ray.230 SLX,Saba Marine,"Colchester, Vermont",2016,Request Price,Fiberglass,23,Sea Ray 230 SLX,"Saba Marine
    ","Colchester, VT",2016,Call for Price,Fiberglass,0
-1565254,4037,2218,23,Sea Ray.230 SLX,Hall Marine Group,United States,2011,"39,995",Fiberglass,23,Sea Ray 230 SLX,"Hall Marine Group
+1565254,4037,2218,23,Sea Ray.230 SLX,Hall Marine Group,United States,2011,39995,Fiberglass,23,Sea Ray 230 SLX,"Hall Marine Group
    ",United States,2011,39995,Fiberglass,0
-1570870,4052,2224,23,Sea Ray.230 Sundeck,MarineMax Ship Bottom,"Ship Bottom, New Jersey",2009,"35,900",Fiberglass,23,Sea Ray 230 Sundeck,"MarineMax Inc.
-   ","Ship Bottom, NJ",2009,35900,Fiberglass,0
-1571994,4055,2226,23,Sea Ray.230 Sundeck,Palm City Yachts,"Lananta, Florida",2009,"29,900",Fiberglass,23,Sea Ray 230 Sundeck,"palm City Yachts
-   ","Lananta, FL",2009,29900,Fiberglass,0
 1580899,4079,2155,23,Regal.23 OBX,Sundance Marine USA,"Pompano Beach, Florida",2017,Request Price,Fiberglass,23,Regal 23 OBX,"Sundance Marine USA
    ","Pompano Beach, FL",2017,,Fiberglass,0
-1584650,4089,2166,23,Regal.2300 Regal,Grand Bay Marine,"Traverse City, Michigan",2017,Request Price,Fiberglass,23,Regal 2300 RX Surf,"Grand Bay Marine
-   ","Traverse City, MI",2017,Call for Price,Fiberglass,0
-1587265,4096,2163,23,Reinell.230 LSE,Boulder Boats,"Henderson, Nevada",2005,"16,995",Fiberglass,23,Reinell 230 LSE,"Boulder Boats
+1587265,4096,2163,23,Reinell.230 LSE,Boulder Boats,"Henderson, Nevada",2005,16995,Fiberglass,23,Reinell 230 LSE,"Boulder Boats
    ","Henderson, NV",2005,16995,Fiberglass,0
-1591386,4107,2170,23,Rinker.236 Captiva,MarineMax Sarasota,"Anna Maria, Florida",2014,"44,900",Fiberglass,23,Rinker 236 Captiva,"MarineMax Inc.
-   ","Anna Maria, FL",2014,44900,Fiberglass,0
-1609453,4155,2285,23,Yamaha.232 Limited,"Stone Harbor Yacht Sales - Stone Harbor, NJ","Stone Harbor, New Jersey",2009,"22,900",Fiberglass,23,Yamaha 232 Limited,"Stone Harbor Yacht Sales
-   ","Stone Harbor, NJ",2009,22900,Fiberglass,0
-1620313,4184,2299,23,Chaparral.230 Suncoast,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2017,"60,994",Fiberglass,23,Chaparral 230 Suncoast,"Waterfront Marine Yacht Sales-New Jersey
+1589966,4103,2246,23,Sea Craft.23 Classic,Goose Hummock Yacht Sales,"Harwich, Massachusetts",1973,35000,Fiberglass,23,SeaCraft 23 Classic Center Console,"Goose Hummock Yacht Sales
+   ","Harwich, MA",1973,35000,Fiberglass,0
+1592518,4110,2180,23,Rinker.236 CAPTIVA BOWRIDER,Hideaway Yacht Sales,"Harrison Twn., Michigan",2016,39900,Fiberglass,23,Rinker 236 CAPTIVA BOWRIDER,"Hideaway Yacht Sales
+   ","Harrison Twn., MI",2016,39900,Fiberglass,0
+1597827,4124,2253,23,Stingray.234 LR,Sundance Jensen,"Jensen Beach, Florida",2017,Request Price,Fiberglass,23,Stingray 234 LR,"Sundance Marine USA
+   ","Jensen Beach, FL",2017,Call for Price,Fiberglass,0
+1604196,4141,2264,23,Tidewater Boats.230 LXF,Anchorage Yacht Sales,"Holland, Michigan",2016,Request Price,Fiberglass,23,Tidewater 230 LXF,"Anchorage Yacht Sales
+   ","Holland, MI",2016,1,Fiberglass,0
+1604204,4141,2272,23,Tidewater Boats.230 LXF,Anchorage Yacht Sales,"Holland, Michigan",2016,Request Price,Fiberglass,23,Tidewater 230 LXF,"Anchorage Yacht Sales
+   ","Holland, MI",2016,1,Fiberglass,0
+1620313,4184,2299,23,Chaparral.230 Suncoast,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2017,60994,Fiberglass,23,Chaparral 230 Suncoast,"Waterfront Marine Yacht Sales-New Jersey
    ","SOMERS POINT, NJ",2017,60994,Fiberglass,0
-1624800,4196,2298,23,Chaparral.230 Suncoast,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2016,"65,586",Fiberglass,23,Chaparral 230 Suncoast,"Waterfront Marine Yacht Sales-New Jersey
-   ","SOMERS POINT, NJ",2016,65586,Fiberglass,0
-1643527,4246,2325,23,Stingray.230 LX,"Class Sea Yachts, Inc.","Fort Myers, Florida",2006,"19,500",Fiberglass,23,Stingray 230 LX,"Class Sea Yachts, Inc.
-   ","Fort Myers, FL",2006,19500,Fiberglass,0
-1643899,4247,2323,23,Triton.225 DC,Norview Marina/Delta Boat Sales,"Deltaville, Virginia",2007,"23,900",Composite,23,Triton 225 DC,"Norview Marina/Delta Boat Sales
-   ","Deltaville, VA",2007,23900,Composite,0
-1666737,4309,2352,23,Sea Ray.220 Sundeck,Fox Chapel Marine,"Pittsburgh, Pennsylvania",2015,Request Price,Fiberglass,23,Sea Ray 220 Sundeck,"Fox Chapel Marine
-   ","Pittsburgh, PA",2015,,Fiberglass,0
-1667859,4312,2352,23,Sea Ray.220 Sundeck,Fox Chapel Marine,"Pittsburgh, Pennsylvania",2015,Request Price,Fiberglass,23,Sea Ray 220 Sundeck,"Fox Chapel Marine
+1666365,4308,2354,23,Sea Ray.220 Sundeck,Fox Chapel Marine,"Pittsburgh, Pennsylvania",2015,Request Price,Fiberglass,23,Sea Ray 220 Sundeck,"Fox Chapel Marine
    ","Pittsburgh, PA",2015,,Fiberglass,0
 1669222,4316,2214,23,Sea Ray.220 Sundeck,Hall Marine Group-Sea Ray of Greenville,United States,2016,Request Price,Fiberglass,23,Sea Ray 230 SLX,"Hall Marine Group
    ",United States,2016,,Fiberglass,0
-1671269,91,101,34,Sea Ray.340 Sundancer,MarineMax Newport,"Wakefield, Rhode Island",2000,"64,999",Fiberglass,34,Sea Ray 340 Sundancer,"MarineMax Inc.
-   ","Wakefield, RI",2000,64999,Fiberglass,0
-1671472,104,109,33,Chaparral.337 SSX,Pennybridge Marine,"Stony Point, New York",2016,Request Price,Fiberglass,33,Chaparral 337 SSX,"Pennybridge Marine
-   ","Stony Point, NY",2016,Call for Price,Fiberglass,0
-1671515,105,113,33,Chaparral.337 SSX,Amity Harbor Marine Inc,"Amityville, New York",2017,Request Price,Fiberglass,33,Chaparral 337 SSX,"Amity Harbor Marine Inc
-   ","Amityville, NY",2017,,Fiberglass,0
+1669595,4317,2213,23,Sea Ray.220 Sundeck,Hall Marine Group,United States,2016,Request Price,Fiberglass,23,Sea Ray 230 SLX,"Hall Marine Group
+   ",United States,2016,,Fiberglass,0
+1671422,113,99,34,Chaparral.337 SSX,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2017,Request Price,Fiberglass,34,Chaparral 337 SSX,"Waterfront Marine Yacht Sales-New Jersey
+   ","SOMERS POINT, NJ",2017,1,Fiberglass,0
 1671912,120,120,33,Formula.330 CBR,Lakeside Formula,United States,2017,Request Price,Fiberglass,33,Formula 330 CBR,"Lakeside Formula
    ","MI, United States",2017,Call for Price,Fiberglass,0
-1673097,150,136,33,Chaparral.327 SSX,Plano Marine,"Plano, Texas",2012,"148,995",Fiberglass,33,Chaparral 327 SSX,"Plano Marine
-   ","Plano, TX",2012,148995,Fiberglass,0
-1673818,164,149,32,Monterey.328 Super Sport,Glencove Marina,"Lake Ozark, Montana",2016,Request Price,Fiberglass,32,Monterey 328 Super Sport,"Glencove Marina
-   ","Lake Ozark, MT",2016,Call for Price,Fiberglass,0
-1674584,177,148,32,Monterey.328 Super Sport,Chicago Yacht Works,United States,2013,"129,990",Fiberglass,32,Monterey 328 Super Sport,"Chicago Yacht Works
-   ",United States,2013,129990,Fiberglass,0
-1677511,226,184,32,Pursuit.325 DC,Bosun Marine,"Peabody, Massachusetts",2017,Request Price,Fiberglass,32,Pursuit 325 DC,"Bosun Marine
+1672581,137,126,33,Cruisers Sport Series.328 Bow Rider,CenterPointe Yacht Sales,"Milwaukee, Wisconsin",2014,199000,Fiberglass,33,Cruisers Sport Series 328 Bow Rider,"CenterPointe Yacht Sales
+   ","Milwaukee, WI",2014,199000,Fiberglass,0
+1673458,156,139,32,Crownline.320 LS,Longshore Boats,"Charleston, South Carolina",2006,49900,Fiberglass,32,Crownline 320 LS,"Longshore Boats
+   ","Charleston, SC",2006,49900,Fiberglass,0
+1673521,158,147,32,Monterey.328 Super Sport,Tern Harbor Marina,"Hingham, Massachusetts",2016,Request Price,Fiberglass,32,Monterey 328 Super Sport,"Tern Harbor Marina LLC
+   ","Hingham, MA",2016,Call for Price,Fiberglass,0
+1674345,173,145,32,Monterey.328 Super Sport,C-Jam Yacht Sales,"somers point, New Jersey",2012,102900,Fiberglass,32,Monterey 328 Super Sport,"C-Jam Yacht Sales
+   ","somers point, NJ",2012,102900,Fiberglass,0
+1675907,199,173,32,Monterey.328 Super Sport,Formula Boats,"St. Clair, Michigan",2013,129900,Fiberglass,32,Monterey 328 Super Sport,"Formula Boats
+   ","St. Clair, MI",2013,129900,Fiberglass,0
+1675968,200,175,32,Monterey.328 Super Sport,Lakeside Formula,"St. Clair Shores, Michigan",2013,129900,Fiberglass,32,Monterey 328 Super Sport,"Lakeside Formula
+   ","St. Clair Shores, MI",2013,129900,Fiberglass,0
+1677102,219,188,32,Pursuit.325 DC,Bosun Marine,"Peabody, Massachusetts",2017,Request Price,Fiberglass,32,Pursuit 325 DC,"Bosun Marine
    ","Peabody, MA",2017,Call for Price,Fiberglass,0
-1677515,226,188,32,Pursuit.325 DC,Bosun Marine,"Peabody, Massachusetts",2017,Request Price,Fiberglass,32,Pursuit 325 DC,"Bosun Marine
+1677105,219,191,32,Pursuit.325 DC,Bosun Marine,"Peabody, Massachusetts",2017,Request Price,Fiberglass,32,Pursuit 325 DC,"Bosun Marine
    ","Peabody, MA",2017,Call for Price,Fiberglass,0
 1677704,229,204,32,Regal.3200 Bowrider,AM PM MARINE,"Pasadena, Maryland",2016,Request Price,Fiberglass,32,Regal 3200 Bowrider,"AM PM MARINE
    ","Pasadena, MD",2016,Call for Price,Fiberglass,0
-1677759,230,197,32,Regal.3200 Bowrider,Sundance Marine USA,"Jensen Beach, Florida",2016,Request Price,Fiberglass,32,Regal 3200 Bowrider,"Sundance Marine USA
-   ","Jensen Beach, FL",2016,Call for Price,Fiberglass,0
-1679755,259,220,31,Chaparral.310 Signature,Sunrise Marine,"Mary Esther, Florida",2015,Request Price,Fiberglass,31,Chaparral 310 Signature Cruiser,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Mary Esther, FL",2015,Call for Price,Fiberglass,0
-1679904,261,211,31,Formula.310 Bowrider,Chicago Yacht Works,"Chicago, Illinois",2016,"219,900",Fiberglass,31,Formula 310 Bowrider,"Chicago Yacht Works
-   ","Chicago, IL",2016,219900,Fiberglass,0
 1680392,267,225,31,Formula.310 FX Bowrider,The Nautic Group,"Kemah, Texas",2017,Request Price,Fiberglass,31,Formula 310 Bowrider,"The Nautic Group
    ","Kemah, TX",2017,Call for Price,Fiberglass,0
-1682856,298,240,31,Pursuit.ST 310 Sport,Williams Yacht Group,United States,2015,Request Price,Fiberglass,31,Pursuit ST 310 Sport,"Williams Yacht Group
-   ",United States,2015,Call for Price,Fiberglass,0
-1683089,301,236,31,Four Winns.H310,Frank Gordon Yacht Sales,"Islamorada, Florida",2011,"79,000",Fiberglass,31,Four Winns H310,"Frank Gordon Yacht Sales
+1682545,294,245,31,Four Winns.310 Horizon,"HarborView Yacht Sales, LLC","Traverse City, Michigan",2009,75000,Fiberglass,31,Four Winns Horizon 310,"HarborView Yacht Sales, LLC
+   ","Traverse City, MI",2009,75000,Fiberglass,0
+1683089,301,236,31,Four Winns.H310,Frank Gordon Yacht Sales,"Islamorada, Florida",2011,79000,Fiberglass,31,Four Winns H310,"Frank Gordon Yacht Sales
    ","Islamorada, FL",2011,79000,Fiberglass,0
-1683728,309,243,31,Monterey.318SS Super Sport,Dallas Boat Sales,"Possum Kingdom Lake, Texas",2008,"69,000",Fiberglass,31,Monterey 318SS Super Sport,"Dallas Boat Sales
-   ","Possum Kingdom Lake, TX",2008,69000,Fiberglass,0
-1684298,316,260,31,Sea Ray.SLX 310 OB,MarineMax Pompano,"Pompano Beach, Florida",2017,Request Price,Fiberglass,31,Sea Ray SLX 310 OB,"MarineMax Inc.
-   ","Pompano Beach, FL",2017,Call for Price,Fiberglass,0
-1684924,324,254,31,Sea Ray.310 Sundancer,MarineMax Long Island,"Lindenhurst, New York",2008,"99,995",Fiberglass,31,Sea Ray 310 Sundancer,"MarineMax Inc.
-   ","Lindenhurst, NY",2008,99995,Fiberglass,0
-1685182,327,275,31,Chaparral.307 SSX,Waterfront Marine-Maryland,"Edgewater, Maryland",2017,Request Price,Fiberglass,31,Chaparral 307 SSX,"Waterfront Marine Yacht Sales-New Jersey
+1683187,302,255,31,Sea Ray.SLX 310,MarineMax Lake Ozark,"Lake Ozark, Missouri",2017,Request Price,Fiberglass,31,Sea Ray SLX 310,"MarineMax Inc.
+   ","Lake Ozark, MO",2017,Call for Price,Fiberglass,0
+1684149,314,269,31,Sea Ray.SLX 310 OB,MarineMax Clearwater,"Clearwater, Florida",2017,Request Price,Fiberglass,31,Sea Ray SLX 310 OB,"MarineMax Inc.
+   ","Clearwater, FL",2017,Call for Price,Fiberglass,0
+1684763,322,251,31,Sea Ray.310 Sundancer,MarineMax Somers Point,"Somers Point, New Jersey",2002,54900,Other,31,Sea Ray 310 Sundancer,"MarineMax Inc.
+   ","Somers Point, NJ",2002,54900,Other,0
+1685175,327,268,31,Chaparral.307 SSX,Waterfront Marine-Maryland,"Edgewater, Maryland",2017,Request Price,Fiberglass,31,Chaparral 307 SSX,"Waterfront Marine Yacht Sales-New Jersey
    ","Edgewater, MD",2017,1,Fiberglass,0
-1685498,331,275,31,Chaparral.307 SSX,Waterfront Marine-Maryland,"Edgewater, Maryland",2017,Request Price,Fiberglass,31,Chaparral 307 SSX,"Waterfront Marine Yacht Sales-New Jersey
-   ","Edgewater, MD",2017,1,Fiberglass,0
-1688761,371,295,30,Chris-Craft.Calypso 30,Harborside Yacht Sales,"Clinton, Connecticut",2017,Request Price,Fiberglass,30,Chris-Craft Calypso 30,"Harborside Marina
-   ","Clinton, CT",2017,Call for Price,Fiberglass,0
-1690570,392,320,30,Sea Ray.300 SLX,MarineMax Cumming,"Cumming, Georgia",2015,Request Price,Other,30,Sea Ray 300 SLX,"MarineMax Inc.
-   ","Cumming, GA",2015,Call for Price,Other,0
-1692107,410,327,30,Sea Ray.300 Sundeck,Horizon Marine Center,"Fort Lauderdale, Florida",2011,"74,900",Fiberglass,30,Sea Ray 300 Sundeck,"Horizon Marine Center
-   ","Fort Lauderdale, FL",2011,74900,Fiberglass,0
-1692371,413,336,30,Sea Ray.300 SLX,MarineMax Rogers,"Rogers, Minnesota",2012,"112,604",Fiberglass,30,Sea Ray 300 SLX,"MarineMax Inc.
-   ","Rogers, MN",2012,112604,Fiberglass,0
-1692608,416,318,30,Sea Ray.300 SLX,MarineMax Brick,"Brick, New Jersey",2013,"149,900",Fiberglass,30,Sea Ray 300 SLX,"MarineMax Inc.
+1685572,332,270,31,Chaparral.307 SSX,Pier 33,"St. Joseph, Michigan",2016,Request Price,Fiberglass,31,Chaparral 307 SSX,"Pier 33
+   ","St. Joseph, MI",2016,Call for Price,Fiberglass,0
+1689025,374,305,30,Cobalt.R30 Cobalt,Village Marina & Yacht Club,United States,2016,Request Price,Fiberglass,30,Cobalt R30,"Village Marina & Yacht Club
+   ",United States,2016,Call for Price,Fiberglass,0
+1689872,384,302,30,Crownline.300LS BR,Amity Harbor Marine Inc,"Amityville, New York",2008,59995,Fiberglass,30,Crownline 300LS BR,"Amity Harbor Marine Inc
+   ","Amityville, NY",2008,59995,Fiberglass,0
+1692871,419,326,30,Sea Ray.300 SLX,MarineMax Brick,"Brick, New Jersey",2013,184057,Fiberglass,30,Sea Ray 300 SLX,"MarineMax Inc.
    ","Brick, NJ",2013,149900,Fiberglass,0
-1692613,416,323,30,Sea Ray.300 SLX,MarineMax Brick,"Brick, New Jersey",2013,"149,900",Fiberglass,30,Sea Ray 300 SLX,"MarineMax Inc.
-   ","Brick, NJ",2013,184057,Fiberglass,0
-1705539,510,394,29,Formula.290 FX Bowrider,The Nautic Group,"Kemah, Texas",2017,Request Price,Fiberglass,29,Formula 290 FX Bowrider,"The Nautic Group
-   ","Kemah, TX",2017,Call for Price,Fiberglass,0
-1708876,529,406,29,Formula.290 FX Bowrider,Comstock Yacht Sales & Marina,"Brick, New Jersey",2012,"104,900",Fiberglass,29,Formula 290 FX Bowrider,"Comstock Yacht Sales & Marina
-   ","Brick, NJ",2012,104900,Fiberglass,0
-1715173,565,403,29,Monterey.288 Super Sport,C-Jam Yacht Sales,"somers point, New Jersey",2013,"109,900",Fiberglass,29,Monterey 288 Super Sport,"C-Jam Yacht Sales
-   ","somers point, NJ",2013,109900,Fiberglass,0
-1720874,597,504,29,Sea Ray.SDX 290 OB,MarineMax Wrightsville Beach,"Wrightsville Beach, North Carolina",2017,Request Price,Fiberglass,29,Sea Ray SDX 290 OB,"MarineMax Inc.
-   ","Wrightsville Beach, NC",2017,Call for Price,Fiberglass,0
-1721019,598,474,29,Sea Ray.290 Sundeck Outboard,MarineMax Ft. Myers,"Ft. Myers, Florida",2016,Request Price,Fiberglass,29,Sea Ray 290 Sundeck Outboard,"MarineMax Inc.
-   ","Ft. Myers, FL",2016,Call for Price,Fiberglass,0
-1723107,610,462,29,Sea Ray.290 Sundeck Outboard,MarineMax Long Island,"Lindenhurst, New York",2016,Request Price,Fiberglass,29,Sea Ray 290 Sundeck,"MarineMax Inc.
-   ","Lindenhurst, NY",2016,Call for Price,Fiberglass,0
-1725217,622,472,29,Sea Ray.290 Sundeck,InterMarine,"Fort Lauderdale, Florida",2008,"39,900",Fiberglass,29,Sea Ray 290 Sundeck,"InterMarine
-   ","Fort Lauderdale, FL",2008,39900,Fiberglass,0
-1727291,634,446,29,Sea Ray.290 Bowrider,"Class Sea Yachts, Inc.","Cape Coral, Florida",2003,"37,900",Fiberglass,29,Sea Ray 290 Bowrider,"Class Sea Yachts, Inc.
-   ","Cape Coral, FL",2003,37900,Fiberglass,0
-1728163,639,443,29,Sea Ray.290 Select,MarineMax Ft. Myers,"Ft. Myers, Florida",2005,"41,900",Fiberglass,29,Sea Ray 290 Select,"MarineMax Inc.
-   ","Ft. Myers, FL",2005,41900,Fiberglass,0
-1732180,662,435,29,Rinker.296 Captiva Bowrider,Commonwealth Boat Brokers,"Ashland, Virginia",2007,"35,480",Fiberglass,29,Rinker 296 Captiva Bowrider,"Commonwealth Boat Brokers
+1692952,420,322,30,Sea Ray.300 SLX,MarineMax Naples,"Naples, Florida",2010,89500,Fiberglass,30,Sea Ray 300 SELECT,"MarineMax Inc.
+   ","Naples, FL",2010,89500,Fiberglass,0
+1693063,421,348,30,Sea Ray.300 Sundeck,North South Nautical Group,"Fort Lauderdale, Florida",2011,59900,Fiberglass,30,Sea Ray 300 Sundeck,"North South Nautical Group
+   ","Fort Lauderdale, FL",2011,59900,Fiberglass,0
+1693412,425,357,30,Four Winns.H290,Boater's Landing,"Ft.Myers, Florida",2017,Request Price,Fiberglass,30,Four Winns H290,"Boater's Landing
+   ","Ft.Myers, FL",2017,Call for Price,Fiberglass,0
+1694605,439,362,30,Sea Ray.300 Sundeck,Hall Marine Group-Sea Ray of Savannah,United States,2012,64999,Fiberglass,30,Sea Ray 300 Sundeck,"Hall Marine Group
+   ",United States,2012,64999,Fiberglass,0
+1695289,447,367,30,Sea Ray.290 Sundeck,Lucky Dog Yacht Sales,"Sarasota, Florida",2008,49995,Fiberglass,30,Sea Ray 290 Sundeck,"Lucky Dog Yacht Sales
+   ","Sarasota, FL",2008,49995,Fiberglass,0
+1695451,449,356,30,Sea Ray.290 Sundeck,East Shore Marine,"lindenhurst, New York",2008,56900,Fiberglass,30,Sea Ray 290 Sundeck,"East Shore Marine
+   ","lindenhurst, NY",2008,56900,Fiberglass,0
+1696055,454,535,29,Sea Ray.290 Sundeck,Hall Marine Group,United States,2016,Request Price,Fiberglass,29,Sea Ray 280 SLX,"Hall Marine Group
+   ",United States,2016,,Fiberglass,0
+1709209,531,389,29,Formula.290 Bowrider,Formula Boats of Missouri,"Osage Beach, Missouri",2016,189995,Fiberglass,29,Formula 290 Bowrider,"Formula Boats of Missouri
+   ","Osage Beach, MO",2016,189995,Fiberglass,0
+1711324,543,404,29,Larson.LXi 288,Key Harbor Yacht Sales,"Waretown, New Jersey",2011,49900,Fiberglass,29,Larson LXi 288,"Key Harbor Yacht Sales
+   ","Waretown, NJ",2011,49900,Fiberglass,0
+1718347,583,427,29,Pursuit.DC 295,"Ocean Blue Yacht Sales, LLC.","SE Florida, Florida",2016,Request Price,Fiberglass,29,Pursuit DC 295,"Ocean Blue Yacht Sales, LLC.
+   ","SE Florida, FL",2016,Call for Price,Fiberglass,0
+1719812,591,492,29,Sea Ray.290 Sundeck Outboard,MarineMax Port Clinton,"Port Clinton, Ohio",2016,Request Price,Fiberglass,29,Sea Ray 290 Sundeck Outboard,"MarineMax Inc.
+   ","Port Clinton, OH",2016,Call for Price,Fiberglass,0
+1720866,597,496,29,Sea Ray.SDX 290 OB,MarineMax Wrightsville Beach,"Wrightsville Beach, North Carolina",2017,Request Price,Fiberglass,29,Sea Ray SDX 290 OB,"MarineMax Inc.
+   ","Panama City Beach, FL",2017,Call for Price,Fiberglass,0
+1721193,599,473,29,Sea Ray.290 Sundeck Outboard,MarineMax Brick,"Brick, New Jersey",2016,Request Price,Fiberglass,29,Sea Ray 290 Sundeck Outboard,"MarineMax Inc.
+   ","Brick, NJ",2016,Call for Price,Fiberglass,0
+1722952,609,482,29,Sea Ray.290 Sundeck Outboard,MarineMax Ship Bottom,"Ship Bottom, New Jersey",2016,Request Price,Fiberglass,29,Sea Ray 290 Sundeck Outboard,"MarineMax Inc.
+   ","Ship Bottom, NJ",2016,Call for Price,Fiberglass,0
+1731818,660,423,29,Regal.29 OBX,Sundance Marine USA,Fort Lauderdale,2017,Request Price,Fiberglass,29,Regal 29 OBX,"Sundance Marine USA
+   ","Fort Lauderdale, FL",2017,Call for Price,Fiberglass,0
+1732014,661,444,29,Regal.29 OBX,Sundance Marine USA,"Fort Lauderdale, Florida",2017,Request Price,Fiberglass,29,Regal 29 OBX,"Sundance Marine USA
+   ","Fort Lauderdale, United States",2017,,Fiberglass,0
+1732180,662,435,29,Rinker.296 Captiva Bowrider,Commonwealth Boat Brokers,"Ashland, Virginia",2007,35480,Fiberglass,29,Rinker 296 Captiva Bowrider,"Commonwealth Boat Brokers
    ","Ashland, VA",2007,35480,Fiberglass,0
-1749729,1023,727,27,Regal.27 Fasdeck,Strong's Marine,"Mattituck, New York",2012,"54,995",Fiberglass,27,Regal 27 FasDeck,"Strong's Marine
-   ","Mattituck, NY",2012,54995,Fiberglass,0
-1752744,1035,742,27,Sea Ray.270 Sundeck Outboard,Hall Marine Group,United States,2016,Request Price,Fiberglass,27,Sea Ray 270 Sundeck,"Hall Marine Group
+1735584,688,514,29,Sea Ray.270 Select EX,Rex Marine Yacht Sales,"Norwalk, Connecticut",2005,29900,Fiberglass,29,Sea Ray 270 Select EX,"Rex Marine Yacht Sales
+   ","Norwalk, CT",2005,29900,Fiberglass,0
+1747970,1016,718,27,Regal.2700 Fasdeck,"Easy Sale USA, LLC","Fort Lauderdale, Florida",2013,63500,Fiberglass,27,Regal 2700 Fasdeck,"Easy Sale
+   ","Fort Lauderdale, FL",2013,63500,Fiberglass,0
+1749219,1021,717,27,Regal.27 Fasdeck,Strong's Marine,"Mattituck, New York",2014,62500,Fiberglass,27,Regal 27 FasDeck,"Strong's Marine
+   ","Mattituck, NY",2014,62500,Fiberglass,0
+1751736,1031,734,27,Sea Ray.270 Sundeck,Hall Marine Yacht Brokerage,"Charleston, South Carolina",2015,84900,Fiberglass,27,Sea Ray 270 Sundeck,"Hall Marine Group
+   ","Charleston, SC",2015,84900,Fiberglass,0
+1752243,1033,741,27,Sea Ray.270 Sundeck Outboard,Hyannis Marina,"Buzzards Bay, Massachusetts",2016,Request Price,Fiberglass,27,Sea Ray 270 Sundeck Outboard,"Hyannis Marina
+   ","Buzzards Bay, MA",2016,1,Fiberglass,0
+1753494,1038,742,27,Sea Ray.270 Sundeck,Hall Marine Group-Sea Ray of Greenville,United States,2016,Request Price,Fiberglass,27,Sea Ray 270 Sundeck,"Hall Marine Group
    ",United States,2016,,Fiberglass,0
-1753488,1038,736,27,Sea Ray.270 Sundeck,Hall Marine Group-Sea Ray of Greenville,United States,2016,Request Price,Fiberglass,27,Sea Ray 270 Sundeck,"Hall Marine Group
-   ",United States,2016,,Fiberglass,0
-1754746,1043,744,27,Sea Ray.270 Sundeck Outboard,Hall Marine Group-Sea Ray of Charleston,United States,2017,Request Price,Fiberglass,27,Sea Ray 270 Sundeck Outboard,"Hall Marine Group
-   ",United States,2017,,Fiberglass,0
-1754995,1044,743,27,Avalon.Paradise Funship,Waypoint Marine Group,"Seattle/Ballard, Washington",2016,"94,900",Aluminum,27,Avalon Paradise Funship,"Waypoint Marine Group
-   ","Seattle/Ballard, WA",2016,94900,Aluminum,0
-1761014,1068,762,27,Cobalt.272 Bowrider,Denison Yacht Sales - Seattle,"Seattle, Washington",2006,"49,000",Fiberglass,27,Cobalt 272 Bowrider,"Denison Yacht Sales
-   ","Seattle, WA",2006,49000,Fiberglass,0
-1769538,1102,786,27,Crownline.270 BR akin to Sea Ray SLX,"Intracoastal Yacht Sales of Little River, SC","Charleston, South Carolina",2007,"30,900",Fiberglass,27,Crownline 270 BR akin to Sea Ray SLX,"Intracoastal Yacht Sales
-   ","Charleston, SC",2007,30900,Fiberglass,0
-1778804,1139,802,27,Grady-White.275 Freedom,Anchor Marine,United States,2015,Request Price,Fiberglass,27,Grady-White 275 Freedom,"Anchor Marine
-   ",United States,2015,Call for Price,Fiberglass,0
-1787901,1175,899,27,Sea Ray.SDX 270 OB,MarineMax Jacksonville at Beach Marine,"Jacksonville, Florida",2017,Request Price,Fiberglass,27,Sea Ray SDX 270 OB,"MarineMax Inc.
-   ","Jacksonville, FL",2017,Call for Price,Fiberglass,0
-1788146,1176,894,27,Sea Ray.SDX 270,MarineMax Sarasota,"Sarasota, Florida",2017,Request Price,Fiberglass,27,Sea Ray SDX 270 OB,"MarineMax Inc.
-   ","Sarasota, FL",2017,Call for Price,Fiberglass,0
-1788898,1179,896,27,Sea Ray.SDX 270 OB,MarineMax Gulf Shores,"Gulf Shores, Alabama",2017,Request Price,Fiberglass,27,Sea Ray SDX 270 OB,"MarineMax Inc.
-   ","Gulf Shores, AL",2017,Call for Price,Fiberglass,0
-1789160,1180,908,27,Sea Ray.SDX 270 OB,MarineMax Gulf Shores,"Gulf Shores, Alabama",2017,Request Price,Fiberglass,27,Sea Ray SDX 270 OB,"MarineMax Inc.
-   ","Gulf Shores, AL",2017,Call for Price,Fiberglass,0
-1789397,1181,895,27,Sea Ray.SDX 270 OB,MarineMax Ft. Myers,"Ft. Myers, Florida",2017,Request Price,Fiberglass,27,Sea Ray SDX 270 OB,"MarineMax Inc.
+1775547,1126,795,27,Grady-White.Freedom 275,Comstock Yacht Sales & Marina,"Brick, New Jersey",2017,Request Price,Fiberglass,27,Grady-White Freedom 275,"Comstock Yacht Sales & Marina
+   ","BRICK, NJ",2017,Call for Price,Fiberglass,0
+1778547,1138,795,27,Grady-White.Freedom 275,Comstock Yacht Sales & Marina,"BRICK, New Jersey",2017,Request Price,Fiberglass,27,Grady-White Freedom 275,"Comstock Yacht Sales & Marina
+   ","BRICK, NJ",2017,Call for Price,Fiberglass,0
+1780549,1146,797,27,Grady-White.Freedom 275,Grand Slam Yacht Sales Inc.,"Longboat Key, Florida",2013,106500,Fiberglass,27,Grady-White Freedom 275,"Grand Slam Yacht Sales
+   ","Longboat Key, FL",2013,106500,Fiberglass,0
+1786578,1170,826,27,Sea Ray.27 SUNDECK Sport Boat,Bayside Boat Sales LLC,"Freeport, Maine",2004,24000,Ferro-Cement,27,Sea Ray 27 SUNDECK Sport Boat,"Bayside Boat Sales LLC
+   ","Freeport, ME",2004,24000,Ferro-Cement,0
+1787390,1173,888,27,Sea Ray.SDX 270,MarineMax Dallas,"Lewisville, Texas",2017,Request Price,Fiberglass,27,Sea Ray SDX 270,"MarineMax Inc.
+   ","Lewisville, TX",2017,Call for Price,Fiberglass,0
+1787392,1173,890,27,Sea Ray.SDX 270,MarineMax Dallas,"Lewisville, Texas",2017,Request Price,Fiberglass,27,Sea Ray SDX 270,"MarineMax Inc.
+   ","Lewisville, TX",2017,Call for Price,Fiberglass,0
+1789414,1181,912,27,Sea Ray.SDX 270 OB,MarineMax Ft. Myers,"Ft. Myers, Florida",2017,Request Price,Fiberglass,27,Sea Ray SDX 270 OB,"MarineMax Inc.
    ","Ft. Myers, FL",2017,Call for Price,Fiberglass,0
+1790402,1185,900,27,Sea Ray.SDX 270,MarineMax Long Island,"Lindenhurst, New York",2017,Request Price,Fiberglass,27,Sea Ray SDX 270,"MarineMax Inc.
+   ","Lindenhurst, NY",2017,Call for Price,Fiberglass,0
+1790890,1187,888,27,Sea Ray.SDX 270,MarineMax Dallas,"Lewisville, Texas",2017,Request Price,Fiberglass,27,Sea Ray SDX 270,"MarineMax Inc.
+   ","Lewisville, TX",2017,Call for Price,Fiberglass,0
 1792114,1192,862,27,Sea Ray.270 Sundeck,MarineMax Clearwater,"Clearwater, Florida",2016,Request Price,Fiberglass,27,Sea Ray 270 Sundeck,"MarineMax Inc.
    ","Clearwater, FL",2016,Call for Price,Fiberglass,0
-1793358,1197,856,27,Sea Ray.270 Sundeck,MarineMax Westbrook,"Westbrook, Connecticut",2016,Request Price,Fiberglass,27,Sea Ray 270 Sundeck,"MarineMax Inc.
-   ","Westbrook, CT",2016,Call for Price,Fiberglass,0
-1793394,1197,892,27,Sea Ray.270 Sundeck,MarineMax Westbrook,"Westbrook, Connecticut",2016,Request Price,Fiberglass,27,Sea Ray 270 Sundeck Outboard,"MarineMax Inc.
-   ","Westbrook, CT",2016,Call for Price,Fiberglass,0
-1794628,1202,876,27,Sea Ray.270 Sundeck,Sea Ray of Cincinnati,"Cincinnati, Ohio",2017,Request Price,Fiberglass,27,Sea Ray 270 Sundeck,"Sea Ray of Cincinnati
-   ","Cincinnati, OH",2017,Call for Price,Fiberglass,0
-1795602,1206,850,27,Sea Ray.270 SLX,MarineMax Long Island,"Lindenhurst, New York",2011,"69,999",Fiberglass,27,Sea Ray 270 SLX,"MarineMax Inc.
-   ","Lindenhurst, NY",2011,69999,Fiberglass,0
-1795850,1207,848,27,Sea Ray.270 SLX,Brennan Boat Company & Marina,"BRICK, New Jersey",2011,"79,995",Fiberglass,27,Sea Ray 270 SLX,"Brennan Boat Company & Marina
-   ","BRICK, NJ",2011,79995,Fiberglass,0
-1796351,1209,849,27,Sea Ray.270 SLX,MarineMax Ft. Myers,"Ft. Myers, Florida",2013,"74,900",Fiberglass,27,Sea Ray 270 SLX,"MarineMax Inc.
-   ","Ft. Myers, FL",2013,74900,Fiberglass,0
-1813567,1278,815,27,Rinker.276 Captiva Bowrider,North Shore Sales,"Spring Lake, Michigan",2014,"69,900",Fiberglass,27,Rinker 276 Captiva Bowrider,"North Shore Sales
-   ","Spring Lake, MI",2014,69900,Fiberglass,0
-1818163,1296,911,27,Chris-Craft.Launch 25 Heritage Edition,Bates Wharf - Surrey Head Office,Coming to the UK soon...,2017,"62,049",Fiberglass,27,Chris-Craft Launch 25 Heritage Edition,"Bates Wharf
-   ","Coming to the UK soon..., United States",2017,198478,Fiberglass,0
-1820939,1307,937,27,Crownline.260 LS,"Yacht Brokers, Inc.","Afton, Minnesota",2006,"39,900",Fiberglass,27,Crownline 260 LS,"Yacht Brokers, Inc.
+1792365,1193,863,27,Sea Ray.270 Sundeck,MarineMax Long Island,"Lindenhurst, New York",2016,Request Price,Fiberglass,27,Sea Ray 270 Sundeck,"MarineMax Inc.
+   ","Lindenhurst, NY",2016,Call for Price,Fiberglass,0
+1792891,1195,889,27,Sea Ray.270 Sundeck Outboard,MarineMax Norwalk,"Norwalk, Connecticut",2016,Request Price,Fiberglass,27,Sea Ray 270 Sundeck Outboard,"MarineMax Inc.
+   ","Norwalk, CT",2016,Call for Price,Fiberglass,0
+1794367,1201,865,27,Sea Ray.270 Sundeck,MarineMax Osage Beach,"Osage Beach, Missouri",2016,Request Price,Fiberglass,27,Sea Ray 270 Sundeck,"MarineMax Inc.
+   ","Osage Beach, MO",2016,Call for Price,Fiberglass,0
+1798603,1218,851,27,Sea Ray.270 SLX,Marine Group - Emerald Coast,"Orange Beach, Alabama",2011,78000,Fiberglass,27,Sea Ray 270 SLX,"Marine Group - Emerald Coast
+   ","Orange Beach, AL",2011,78000,Fiberglass,0
+1802856,1235,854,27,Sea Ray.270 SLX,Cape Regal Yachts & Ship,"Cape Coral Fort Myers Naples, Florida",2008,46500,Fiberglass,27,Sea Ray 270 SLX,"Cape Regal Yachts & Ship
+   ","Cape Coral Fort Myers Naples, FL",2008,46500,Fiberglass,0
+1804635,1242,883,27,Sea Ray.270 Sundeck,AL GROVER'S,"Freeport, New York",2003,28000,Fiberglass,27,Sea Ray 270 Sundeck,"Al Grover's High & Dry Marina, Inc
+   ","Freeport, NY",2003,28000,Fiberglass,0
+1805133,1244,881,27,Sea Ray.270 Sundeck,MarineMax Panama City,"Panama City Beach, Florida",2005,32831,Fiberglass,27,Sea Ray 270 Sundeck,"MarineMax Inc.
+   ","Panama City Beach, FL",2005,32831,Fiberglass,0
+1806372,1249,870,27,Sea Ray.270 Sundeck,"Easy Sale USA, LLC","Miami, Florida",2006,39900,Fiberglass,27,Sea Ray 270 Sundeck,"Easy Sale
+   ","Miami, FL",2006,39900,Fiberglass,0
+1814075,1280,823,27,Regal.2700 Bowrider,Dick Boger Yacht Sales,"Jacksonville Beach, Florida",2007,33500,Fiberglass,27,Regal 2700 Bowrider,"Dick Boger Yacht Sales
+   ","Jacksonville Beach, FL",2007,33500,Fiberglass,0
+1820939,1307,937,27,Crownline.260 LS,"Yacht Brokers, Inc.","Afton, Minnesota",2006,39900,Fiberglass,27,Crownline 260 LS,"Yacht Brokers, Inc.
    ","Afton, MN",2006,39900,Fiberglass,0
-1824179,1320,927,27,Four Winns.HD270,Canary Islands Marine,United States,2016,"81,900",Fiberglass,27,Four Winns HD270,"Canary Islands Marine
-   ",United States,2016,90524,Fiberglass,0
-1841301,1383,985,26,Sea Ray.240 Sundeck,Hall Marine Group-Sea Ray of Charleston,United States,2007,"31,995",Fiberglass,26,Sea Ray 240 Sundeck,"Hall Marine Group
-   ",United States,2007,31995,Fiberglass,0
-1845763,1398,1007,26,Sea Ray.260 Sundeck,"Easy Sale USA, LLC","Miami, Florida",2010,"43,500",Fiberglass,26,Sea Ray 260 Sundeck,"Easy Sale
+1830703,1346,951,27,Sea Ray.250 SLX,Legendary Marine Destin,"Destin, Florida",2009,54992,Fiberglass,27,Sea Ray 250 SLX,"Legendary Marine
+   ","Destin, FL",2009,54992,Fiberglass,0
+1831215,1349,962,26,Chaparral.Sunesta 254,Boat Brokers LKN,"Cornelius, North Carolina",2005,24900,Fiberglass,26,Chaparral Sunesta 254,"Boat Brokers LKN
+   ","Cornelius, NC",2005,24900,Fiberglass,0
+1845763,1398,1007,26,Sea Ray.260 Sundeck,"Easy Sale USA, LLC","Miami, Florida",2010,43500,Fiberglass,26,Sea Ray 260 Sundeck,"Easy Sale
    ","Miami, FL",2010,43500,Fiberglass,0
-1852262,1420,994,26,Crownline.Eclipse E6 XS,"Stone Harbor Yacht Sales - Stone Harbor, NJ","Stone Harbor, New Jersey",2017,Request Price,Fiberglass,26,Crownline Eclipse E6,"Stone Harbor Yacht Sales
+1846362,1400,1014,26,Sea Ray.260 Sundeck,Winter Harbor Marina,"Brewerton, New York",2011,54500,Fiberglass,26,Sea Ray 260 Sundeck,"Winter Harbor L.L.C.
+   ","Brewerton, NY",2011,54500,Fiberglass,0
+1849892,1412,992,26,Sea Ray.240 Sundeck,Rex Marine Yacht Sales,"So.Norwalk, Connecticut",2006,24900,Fiberglass,26,Sea Ray 240 Sundeck,"Rex Marine Yacht Sales
+   ","So.Norwalk, CT",2006,26900,Fiberglass,0
+1849899,1412,999,26,Sea Ray.240 Sundeck,Rex Marine Yacht Sales,"So.Norwalk, Connecticut",2006,24900,Fiberglass,26,Sea Ray 240 Sundeck,"Rex Marine Yacht Sales
+   ","So.Norwalk, CT",2006,24900,Fiberglass,0
+1852295,1420,1027,26,Crownline.Eclipse E6 XS,"Stone Harbor Yacht Sales - Stone Harbor, NJ","Stone Harbor, New Jersey",2017,Request Price,Fiberglass,26,Crownline Eclipse E6 XS,"Stone Harbor Yacht Sales
    ","Stone Harbor, NJ",2017,1,Fiberglass,0
-1852573,1421,1009,26,Regal.2500 Regal,Grand Bay Marine,"Traverse City, Michigan",2011,"62,900",Fiberglass,26,Regal 2500,"Grand Bay Marine
-   ","Traverse City, MI",2011,62900,Fiberglass,0
-1888148,1541,1064,26,Chris-Craft.Calypso 26,Legendary Marine Destin,"Destin, Florida",2016,Request Price,Fiberglass,26,Chris-Craft Calypso 26,"Legendary Marine
+1857328,1437,1028,26,Regal.2500 Bowrider,AM PM MARINE,"Pasadena, Maryland",2016,Request Price,Fiberglass,26,Regal 2500 Bowrider,"AM PM MARINE
+   ","Pasadena, MD",2016,Call for Price,Fiberglass,0
+1863557,1458,1041,26,Rinker.246 Captiva Bowrider,"Savage Yachts, LLC.","Tampa, Florida",2006,13900,Fiberglass,26,Rinker 246 Captiva Bowrider,"Savage Yachts, LLC.
+   ","Tampa, FL",2006,13900,Fiberglass,0
+1865637,1465,1049,26,Bennington Deck Boat.RL251,Lake Services Boat Brokerage,"Lake Ozark, Missouri",2004,28700,Fiberglass,26,Bennington Deck Boat RL251,"Lake Services Boat Brokerage
+   ","Lake Ozark, MO",2004,28700,Fiberglass,0
+1884582,1529,1050,26,Chaparral.264 Sunesta,Tilly's Marine - Norco,"Norco, California",2016,Request Price,Fiberglass,26,Chaparral 264 Sunesta,"Tilly's Marine
+   ","Norco, CA",2016,Call for Price,Fiberglass,0
+1888738,1543,1062,26,Chris-Craft.Calypso 26,Legendary Marine Destin,"Destin, Florida",2016,Request Price,Fiberglass,26,Chris-Craft Calypso 26,"Legendary Marine
    ","Destin, FL",2016,Call for Price,Fiberglass,0
-1899405,1579,1073,26,Cobalt.26SD WSS,"Marine Sales of Pickwick, LLC","COUNCE, Tennessee",2016,Request Price,Fiberglass,26,Cobalt 26SD WSS,"Marine Sales of Pickwick, LLC
-   ","COUNCE, TN",2016,Call for Price,Fiberglass,0
-1912750,1624,1098,26,Four Winns.260 Horizon,Power Yachts International,"Cape coral, Florida",2011,"49,900",Composite,26,Four Winns 260 Horizon,"Power Yachts International
-   ","Cape coral, FL",2011,49900,Composite,0
-1937383,1707,1163,26,Sea Ray.250 SLX Executive 8.2 DTS,"Lowes Marine Sales, Inc.","Naples, Florida",2012,"59,995",Fiberglass,26,Sea Ray 250 SLX Executive 8.2 DTS,"Lowe's Boat & Yacht Brokerage
-   ","Naples, FL",2012,59995,Fiberglass,0
-1940021,1716,1137,26,Pursuit.265 DC,Strong's Marine,"MATTITUCK, New York",2011,"105,900",Fiberglass,26,Pursuit 265 DC,"Strong's Marine
-   ","MATTITUCK, NY",2011,105900,Fiberglass,0
-1944496,1731,1172,26,Sea Ray.260 Sundeck,Knoxville Yacht Sales,"Rutledge, Tennessee",2010,"54,500",Fiberglass,26,Sea Ray 260 Sundeck,"Knoxville Yacht Sales
-   ","Rutledge, TN",2010,54500,Fiberglass,0
-1951282,1754,1150,26,Regal.2400 Bowrider,"Lowes Marine Sales, Inc.","Marco Island, Florida",2007,"29,900",Fiberglass,26,Regal 2400 Bowrider,"Lowe's Boat & Yacht Brokerage
-   ","Marco Island, FL",2007,29900,Fiberglass,0
-1952773,1759,1161,26,Sea Ray.260 Bow Rider,"Pickwick Yacht Brokers, LLC","Pickwick Lake, Tennessee",1997,"19,900",Fiberglass,26,Sea Ray 260 Bowrider,"Executive Boat & Yacht Brokerage
-   ","Salt Lake City, UT",1997,24900,Fiberglass,0
+1889036,1544,1064,26,Chris-Craft.Calypso 26,Legendary Marine Destin,"Destin, Florida",2016,Request Price,Fiberglass,26,Chris-Craft Calypso 26,"Legendary Marine
+   ","Destin, FL",2016,Call for Price,Fiberglass,0
+1921059,1652,1119,26,Four Winns.H260,Boater's Landing,"Fort Myers, Florida",2016,Request Price,Fiberglass,26,Four Winns H260,"Boater's Landing
+   ","Fort Myers, FL",2016,Call for Price,Fiberglass,0
+1932033,1689,1141,26,Monterey.268SS Sport Cruiser,Manatee Pocket Yacht Sales,"Stuart, Florida",2003,28900,Fiberglass,26,Monterey 268SS Sport Cruiser,"Manatee Pocket Yacht Sales
+   ","Stuart, FL",2003,28900,Fiberglass,0
+1935288,1700,1140,26,Pursuit.DC 265 Dual Console,"Ocean Blue Yacht Sales, LLC.","SE Florida, Florida",2016,Request Price,Fiberglass,26,Pursuit DC 265 Dual Console,"Ocean Blue Yacht Sales, LLC.
+   ","SE Florida, FL",2016,Call for Price,Fiberglass,0
+1951586,1755,1158,26,Regal.2500 RX,Grand Bay Marine,"Traverse City, Michigan",2017,Request Price,Fiberglass,26,Regal 2500 RX,"Grand Bay Marine
+   ","Traverse City, MI",2017,Call for Price,Fiberglass,0
 1958096,1777,1156,26,Regal.2500 Regal,Sheltered Cove Marina,"Tuckerton, New Jersey",2017,Request Price,Fiberglass,26,Regal 2500,"Sheltered Cove Marina
    ","Tuckerton, NJ",2017,Call for Price,Fiberglass,0
-1964365,1798,1209,26,VANQUISH.26 Dual Console,East Coast Yacht Sales - RI,"Bourne, Massachusetts",2015,"139,900",Fiberglass,26,VANQUISH 26 Dual Console,"East Coast Yacht Sales
-   ","Bourne, MA",2015,139900,Fiberglass,0
-2000591,1916,1266,25,Regal.2520 FasDeck,Annapolis Boat Sales,"Chester, Maryland",2011,"49,999",Fiberglass,25,Regal 2520 FasDeck,"ANNAPOLIS BOAT SALES
-   ","Chester, MD",2011,49999,Fiberglass,0
-2014165,1975,1272,25,Chaparral.250 Suncoast,Amity Harbor Marine Inc,"Amityville, New York",2016,"76,998",Fiberglass,25,Chaparral 250 Suncoast,"Amity Harbor Marine Inc
-   ","Amityville, NY",2016,76998,Fiberglass,0
-2021856,2005,1283,25,Chaparral.256 SSi,Great Southern Yacht Company,"Destin, Florida",2005,"38,900",Fiberglass,25,Chaparral 256 SSi,"Great Southern Yacht Company
-   ","Destin, FL",2005,38900,Fiberglass,0
-2022923,2009,1326,25,Chris-Craft.Launch 25,Dave Bofill,"Southampton, New York",2017,Request Price,Fiberglass,25,Chris-Craft Launch 25,"Dave Bofill Marine, Inc
-   ","Southampton, NY",2017,Call for Price,Fiberglass,0
-2023159,2010,1306,25,Chris-Craft.Capri 25,Grande Yachts International - Deerfield,"Deerfield Beach, Florida",2017,Request Price,Fiberglass,25,Chris-Craft Capri 25,"Grande Yachts International
-   ","Deerfield Beach, FL",2017,Call for Price,Fiberglass,0
-2023418,2011,1309,25,Chris-Craft.Capri 25,Grande Yachts International - Deerfield,"Deerfield Beach, Florida",2017,Request Price,Fiberglass,25,Chris-Craft Launch 25,"Grande Yachts International
-   ","Deerfield Beach, FL",2017,Call for Price,Fiberglass,0
-2023682,2012,1317,25,Chris-Craft.Capri 25,Grande Yachts International - Grasonville,"Grasonville, Maryland",2017,Request Price,Fiberglass,25,Chris-Craft Launch 25,"Grande Yachts International
+1958979,1780,1151,26,Regal.2600 LSR,Irish Boat Shop - Harbor Springs,"Harbor Springs, Michigan",2003,27500,Fiberglass,26,Regal 2600 LSR,"Irish Boat Shop
+   ","Harbor Springs, MI",2003,27500,Fiberglass,0
+1961052,1787,1152,26,Rinker.262 Captiva Bowrider,Cast Off Yacht Sales,"Toms River, New Jersey",2007,24997,Fiberglass,26,Rinker 262 Captiva Bowrider,"Cast Off Yacht Sales
+   ","Toms River, NJ",2007,24997,Fiberglass,0
+1978885,1847,1225,26,Crownline.255 SS,"Marine Sales & Service, Inc.","Louisville, Kentucky",2016,Request Price,Fiberglass,26,Crownline 255 SS,"Marine Sales & Service
+   ","Louisville, KY",2016,Call for Price,Fiberglass,0
+1991627,1890,1239,26,Chaparral.257 SSX,Tilly's Marine - Ventura,"Ventura, California",2017,Request Price,Fiberglass,26,Chaparral 257 SSX,"Tilly's Marine
+   ","Ventura, CA",2017,,Fiberglass,0
+2000080,1914,1267,25,Nautique.Super Air Nautique G23,"Ugly John's Custom Boats, LLC.","Catoosa, Oklahoma",2017,Request Price,Fiberglass,25,Nautique Super Air Nautique G23,"Ugly John's Custom Boats, LLC.
+   ","Catoosa, OK",2017,Call for Price,Fiberglass,0
+2019811,1997,1286,25,Chaparral.256 SSi,Hawk's Yachts Annapolis Office,"Edgewater, Maryland",2009,44900,Fiberglass,25,Chaparral 256 SSi,"Hawk's Yachts
+   ","Edgewater, MD",2009,44900,Fiberglass,0
+2020322,1999,1285,25,Chaparral.254 Sunesta,"Class Sea Yachts, Inc.","Cape Coral, Florida",2004,19995,Fiberglass,25,Chaparral 254 SUNESTA,"Class Sea Yachts, Inc.
+   ","Cape Coral, FL",2004,19995,Fiberglass,0
+2020585,2000,1292,25,Chaparral.254 Sunesta,MarineMax Naples,"Naples, Florida",2006,32500,Fiberglass,25,Chaparral 254 SUNESTA,"MarineMax Inc.
+   ","Naples, FL",2006,32500,Fiberglass,0
+2022653,2008,1312,25,Chris-Craft.Launch 25,Grande Yachts International - Grasonville,"Grasonville, Maryland",2017,Request Price,Fiberglass,25,Chris-Craft Launch 25,"Grande Yachts International
    ","Grasonville, MD",2017,Call for Price,Fiberglass,0
-2025218,2018,1317,25,Chris-Craft.Launch 25,Grande Yachts International - Grasonville,"Grasonville, Maryland",2017,Request Price,Fiberglass,25,Chris-Craft Launch 25,"Grande Yachts International
+2023162,2010,1309,25,Chris-Craft.Capri 25,Grande Yachts International - Deerfield,"Deerfield Beach, Florida",2017,Request Price,Fiberglass,25,Chris-Craft Launch 25,"Grande Yachts International
+   ","Deerfield Beach, FL",2017,Call for Price,Fiberglass,0
+2023677,2012,1312,25,Chris-Craft.Capri 25,Grande Yachts International - Grasonville,"Grasonville, Maryland",2017,Request Price,Fiberglass,25,Chris-Craft Launch 25,"Grande Yachts International
    ","Grasonville, MD",2017,Call for Price,Fiberglass,0
-2041373,2081,1344,25,Cobalt.R5 WSS Surf,"Marine Sales of Pickwick, LLC","COUNCE, Tennessee",2016,Request Price,Fiberglass,25,Cobalt R5 WSS Surf,"Marine Sales of Pickwick, LLC
-   ","COUNCE, TN",2016,Call for Price,Fiberglass,0
-2051371,2120,1358,25,Larson.Escape 254 Deck Boat,Key Harbor Yacht Sales,"Waretown, New Jersey",2007,"24,900",Fiberglass,25,Larson 254 ESCAPE,"Key Harbor Yacht Sales
-   ","Waretown, NJ",2007,24900,Fiberglass,0
-2058045,2146,1376,25,Malibu.Wakesetter 25 LSV,Boulder Boats,"Henderson, Nevada",2016,Request Price,Fiberglass,25,Malibu Wakesetter 25 LSV,"Boulder Boats
-   ","Henderson, NV",2016,Call for Price,Fiberglass,0
-2065472,2175,1379,25,Nautique.Super Air Nautique G25,"Ugly John's Custom Boats, LLC.","Catoosa, Oklahoma",2015,"144,900",Fiberglass,25,Nautique G25,"Ugly John's Custom Boats, LLC.
-   ","Catoosa, OK",2015,Call for Price,Fiberglass,0
-2071406,2198,1425,25,Sea Ray.250 SLX,Milius Marine,"East Hampton, New York",2012,"49,900",Fiberglass,25,Sea Ray 250 SLX,"Milius Marine
-   ","East Hampton, NY",2012,49900,Fiberglass,0
-2072155,2201,1406,25,Sea Ray.250 Select,MarineMax Grand Lake,"Afton, Oklahoma",2007,"44,900",Fiberglass,25,Sea Ray 250 Select,"MarineMax Inc.
-   ","Afton, OK",2007,44900,Fiberglass,0
-2073944,2208,1403,25,Sea Ray.250 Select,MarineMax Norwalk,"Norwalk, Connecticut",2013,"68,595",Fiberglass,25,Sea Ray 250 Select,"MarineMax Inc.
+2025213,2018,1312,25,Chris-Craft.Launch 25,Grande Yachts International - Grasonville,"Grasonville, Maryland",2017,Request Price,Fiberglass,25,Chris-Craft Launch 25,"Grande Yachts International
+   ","Grasonville, MD",2017,Call for Price,Fiberglass,0
+2025451,2019,1294,25,Chaparral.257 SSX SE,InterMarine,"Fort Lauderdale, Florida",2015,Request Price,Fiberglass,25,Chaparral 257 SSX SE,"InterMarine
+   ","Fort Lauderdale, FL",2015,Call for Price,Fiberglass,0
+2025975,2021,1306,25,Chris-Craft.Launch 25,Grande Yachts International - Deerfield,"Deerfield Beach, Florida",2017,Request Price,Fiberglass,25,Chris-Craft Capri 25,"Grande Yachts International
+   ","Deerfield Beach, FL",2017,Call for Price,Fiberglass,0
+2027515,2027,1310,25,Chris-Craft.25 Launch,Grande Yachts International - Deerfield,"Deerfield Beach, Florida",2016,Request Price,Fiberglass,25,Chris-Craft 25 Launch,"Grande Yachts International
+   ","Deerfield Beach, FL",2016,Call for Price,Fiberglass,0
+2028262,2030,1289,25,Chris-Craft.Launch 25,CenterPointe Yacht Sales,"PEWAUKEE, Wisconsin",2016,155587,Fiberglass,25,Chris Craft Launch 25,"CenterPointe Yacht Sales
+   ","PEWAUKEE, WI",2016,155587,Fiberglass,0
+2037276,2065,1343,25,Cobalt.R5 WSS Surf,Marine Sales Kentuckiana,"GILBERTSVILLE, Kentucky",2016,Request Price,Fiberglass,25,Cobalt R5 WSS Surf,"Marine Sales of Pickwick, LLC
+   ","GILBERTSVILLE, KY",2016,Call for Price,Fiberglass,0
+2061128,2158,1387,25,Monterey.258 Super Sport,C-Jam Yacht Sales,"Somers Point, New Jersey",2017,Request Price,Fiberglass,25,Monterey 258 Super Sport,"C-Jam Yacht Sales
+   ","Somers Point, NJ",2017,Call for Price,Fiberglass,0
+2069857,2192,1412,25,Sea Ray.250 SLX,MarineMax Houston,"Seabrook, Texas",2016,Request Price,Fiberglass,25,Sea Ray 250 SLX,"MarineMax Inc.
+   ","Seabrook, TX",2016,Call for Price,Fiberglass,0
+2071140,2197,1415,25,Sea Ray.250 SLX,Sea Ray of Cincinnati,"Cincinnati, Ohio",2015,118787,Fiberglass,25,Sea Ray 250 SLX,"Sea Ray of Cincinnati
+   ","Cincinnati, OH",2015,118787,Fiberglass,0
+2071653,2199,1416,25,Sea Ray.250 SLX,Walker's Hideaway Marina of Naples,"Naples, Florida",2011,48500,Fiberglass,25,Sea Ray 250 SLX,"Walker's Yacht Sales
+   ","Naples, FL",2011,48500,Fiberglass,0
+2072918,2204,1401,25,Sea Ray.250 Select,MarineMax Naples,"Naples, Florida",2011,57500,Fiberglass,25,Sea Ray 250 Select,"MarineMax Inc.
+   ","Naples, FL",2011,57500,Fiberglass,0
+2073944,2208,1403,25,Sea Ray.250 Select,MarineMax Norwalk,"Norwalk, Connecticut",2013,68595,Fiberglass,25,Sea Ray 250 Select,"MarineMax Inc.
    ","Norwalk, CT",2013,68595,Fiberglass,0
-2088586,2265,1453,25,Chaparral.250 Suncoast,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2016,"85,101",Fiberglass,25,Chaparral 250 Suncoast,"Waterfront Marine Yacht Sales-New Jersey
-   ","SOMERS POINT, NJ",2016,85101,Fiberglass,0
-2090371,2272,1446,25,Chaparral.250 Suncoast,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2017,"83,270",Fiberglass,25,Chaparral 250 Suncoast,"Waterfront Marine Yacht Sales-New Jersey
-   ","SOMERS POINT, NJ",2017,83050,Fiberglass,0
-2096547,2296,1478,25,Chaparral.246 SSi,Waterfront Marine Yacht Sales,"Somers Point, New Jersey",2017,Request Price,Fiberglass,25,Chaparral 246 SSi,"Waterfront Marine Yacht Sales-New Jersey
-   ","SOMERS POINT, NJ",2017,1,Fiberglass,0
-2096548,2296,1479,25,Chaparral.246 SSi,Waterfront Marine Yacht Sales,"Somers Point, New Jersey",2017,Request Price,Fiberglass,25,Chaparral 246 SSi,"Waterfront Marine Yacht Sales-New Jersey
-   ","Somers Point, NJ",2017,1,Fiberglass,0
-2098851,2305,1478,25,Chaparral.246 SSi,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2017,Request Price,Fiberglass,25,Chaparral 246 SSi,"Waterfront Marine Yacht Sales-New Jersey
-   ","SOMERS POINT, NJ",2017,1,Fiberglass,0
-2103729,2324,1492,25,Chaparral.246 SSi,Sun Sport Marine,"Harrison Township, Michigan",2016,Request Price,Fiberglass,25,Chaparral 246 SSi,"Sun Sport Marine
+2075500,2214,1423,25,Sea Ray.250 SLX,Platinum Yacht Sales,"St.Clair Shores, Michigan",2006,48900,Fiberglass,25,Sea Ray 250 SLX,"Platinum Yacht Sales
+   ","St.Clair Shores, MI",2006,48900,Fiberglass,0
+2076250,2217,1405,25,Sea Ray.250 Amberjack,MarineMax Somers Point,"Somers Point, New Jersey",2006,34900,Fiberglass,25,Sea Ray 250 Amberjack,"MarineMax Inc.
+   ","Somers Point, NJ",2006,34900,Fiberglass,0
+2076506,2218,1405,25,Sea Ray.250 Select,MarineMax Somers Point,"Somers Point, New Jersey",2006,37900,Fiberglass,25,Sea Ray 250 Amberjack,"MarineMax Inc.
+   ","Somers Point, NJ",2006,34900,Fiberglass,0
+2078288,2225,1395,25,Regal.2300 Bowrider,AM PM MARINE,"Pasadena, Maryland",2011,45995,Fiberglass,25,Regal 2300 Bowrider,"AM PM MARINE
+   ","Pasadena, MD",2011,45995,Fiberglass,0
+2084480,2249,1443,25,Tidewater Boats.252 Center Console,Anchorage Yacht Sales,"Holland, Michigan",2016,Request Price,Fiberglass,25,Tidewater 252 Center Console,"Anchorage Yacht Sales
+   ","Holland, MI",2016,1,Fiberglass,0
+2084735,2250,1442,25,Tidewater Boats.252 Center Console,Anchorage Yacht Sales,"Holland, Michigan",2016,Request Price,Fiberglass,25,Tidewater 252 Center Console,"Anchorage Yacht Sales
+   ","Holland, MI",2016,1,Fiberglass,0
+2089359,2268,1458,25,Chaparral.250 Suncoast,Anchor Marine,"Farmingdale, New Jersey",2016,Request Price,Fiberglass,25,Chaparral 250 Suncoast,"Anchor Marine
+   ","Farmingdale, NJ",2016,Call for Price,Fiberglass,0
+2090377,2272,1452,25,Chaparral.250 Suncoast,Waterfront Marine Yacht Sales,"SOMERS POINT, New Jersey",2017,83270,Fiberglass,25,Chaparral 250 Suncoast,"Waterfront Marine Yacht Sales-New Jersey
+   ","SOMERS POINT, NJ",2017,83270,Fiberglass,0
+2098085,2302,1480,25,Chaparral.246 SSi,A & S Boats,"South Windsor, Connecticut",2017,Request Price,Fiberglass,25,Chaparral 246 SSi,"A & S Boats
+   ","South Windsor, CT",2017,Call for Price,Fiberglass,0
+2099377,2307,1492,25,Chaparral.246 SSi,Sun Sport Marine,"Harrison Township, Michigan",2016,Request Price,Fiberglass,25,Chaparral 246 SSi,"Sun Sport Marine
    ","Harrison Township, MI",2016,Call for Price,Fiberglass,0
-2111935,2356,1510,25,Four Winns.HD240,Boater's Landing,"Fort Myers, Florida",2016,Request Price,Fiberglass,25,Four Winns HD240,"Boater's Landing
-   ","Fort Myers, FL",2016,1,Fiberglass,0
-2112446,2358,1508,25,Monterey.248 Ls,Great Bay Marine- Islip Terrace,"Islip Terrace, New York",2004,"18,495",Fiberglass,25,Monterey 248 LS,"Great Bay Marine- Islip Terrace
-   ","Islip Terrace, NY",2004,18495,Fiberglass,0
-2113218,2361,1519,25,Sea Ray.240 Sundeck,Hall Marine Group-Sea Ray of Greenville,United States,2017,Request Price,Fiberglass,25,Sea Ray 240 Sundeck,"Hall Marine Group
+2111675,2355,1503,25,Edgewater.248 CX,Annapolis Yacht Sales,"Stevensville, Maryland",2016,Request Price,Fiberglass,25,Edgewater 248 CX,"Annapolis Yacht Sales
+   ","Stevensville, MD",2016,Call for Price,Fiberglass,0
+2113217,2361,1513,25,Sea Ray.240 Sundeck,Hall Marine Group-Sea Ray of Greenville,United States,2017,Request Price,Fiberglass,25,Sea Ray 240 Sundeck,"Hall Marine Group
    ",United States,2017,,Fiberglass,0
-2117308,2381,1504,25,Sea Ray.240 Sundeck,Irish Boat Shop - Harbor Springs,"Northern, Michigan",2016,Request Price,Fiberglass,25,Sea Ray 240 Sundeck,"Irish Boat Shop
-   ","Northern, MI",2016,Call for Price,Fiberglass,0
-2121957,4328,2379,22,Bayliner.VR6 Bowrider,Lynnhaven Marine,"Virginia Beach, Virginia",2016,Request Price,Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Fort Walton Beach, FL",2016,66323,Fiberglass,0
-2139285,4371,2378,22,Chaparral.230 Suncoast Bowrider,Sunrise Marine,"Fort Walton Beach, Florida",2016,"66,323",Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Fort Walton Beach, FL",2016,55624,Fiberglass,0
-2139290,4371,2383,22,Chaparral.230 Suncoast Bowrider,Sunrise Marine,"Fort Walton Beach, Florida",2016,"66,323",Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
+2115778,2371,1519,25,Sea Ray.240 Sundeck,Hall Marine Group,United States,2017,Request Price,Fiberglass,25,Sea Ray 240 Sundeck,"Hall Marine Group
+   ",United States,2017,,Fiberglass,0
+2117557,2382,1496,25,Sea Ray.240 Sundeck,Hall Marine Group,United States,2016,68000,Fiberglass,25,Sea Ray 240 Sundeck,"Hall Marine Group
+   ",United States,2016,68000,Fiberglass,0
+2118592,2386,1512,25,Sea Ray.240 Sundeck,Hall Marine Group,United States,2016,Request Price,Fiberglass,25,Sea Ray 240 Sundeck,"Hall Marine Group
+   ",United States,2016,,Fiberglass,0
+2121558,4327,2383,22,Bayliner.VR6 Bowrider,Lynnhaven Marine,"Virginia Beach, Virginia",2016,Request Price,Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
    ","Fort Walton Beach, FL",2016,58881,Fiberglass,0
-2140077,4373,2364,22,Regal.2220 FasDeck,Basa's Marine,"Bolingbrook, Illinois",2010,"43,995",Fiberglass,22,Regal 2220 FasDeck,"Basa's Marine
-   ","Bolingbrook, IL",2010,43995,Fiberglass,0
-2140898,4375,2379,22,Chaparral.230 Suncoast Bowrider,Sunrise Marine,"Fort Walton Beach, Florida",2016,"55,624",Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Fort Walton Beach, FL",2016,66323,Fiberglass,0
-2140901,4375,2382,22,Chaparral.230 Suncoast Bowrider,Sunrise Marine,"Fort Walton Beach, Florida",2016,"55,624",Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
+2139289,4371,2382,22,Chaparral.230 Suncoast Bowrider,Sunrise Marine,"Fort Walton Beach, Florida",2016,66323,Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
    ","Fort Walton Beach, FL",2016,53790,Fiberglass,0
-2140902,4375,2383,22,Chaparral.230 Suncoast Bowrider,Sunrise Marine,"Fort Walton Beach, Florida",2016,"55,624",Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Fort Walton Beach, FL",2016,58881,Fiberglass,0
-2144928,4385,2379,22,Chaparral.230 Suncoast Bowrider,Sunrise Marine,"Fort Walton Beach, Florida",2016,"53,790",Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Fort Walton Beach, FL",2016,66323,Fiberglass,0
-2146945,4390,2381,22,Pioneer.222 Venture,Riverfront Yacht Sales and Services,"Cleveland, Ohio",2014,"47,900",Fiberglass,22,Pioneer 222 Venture,"Riverfront Yacht Sales and Services
-   ","Cleveland, OH",2014,47900,Fiberglass,0
-2150568,4399,2377,22,Chaparral.230 Suncoast Bowrider,Sunrise Marine,"Mary Esther, Florida",2016,"60,059",Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Mary Esther, FL",2016,62370,Fiberglass,0
-2190495,4498,2407,22,Chaparral.224 Sunesta,Waterfront Marine Yacht Sales,"Somers Point, New Jersey",2011,"35,000",Fiberglass,22,Chaparral 224 Sunesta,"Waterfront Marine Yacht Sales-New Jersey
-   ","Somers Point, NJ",2011,35000,Fiberglass,0
-2236898,4613,2465,22,Four Winns.220 Horizon,Ludington Yacht Sales,"Nunica, Michigan",1996,"8,995",Fiberglass,22,Four Winns 220 Horizon,"Ludington Yacht Sales
-   ","Nunica, MI",1996,8995,Fiberglass,0
-2240130,4621,2473,22,Four Winns.210 Horizon,Cape Regal Yachts & Ship,"Osprey, Florida",2005,"16,500",Fiberglass,22,Four Winns Horizon 210,"Cape Regal Yachts & Ship
-   ","Osprey, FL",2005,16500,Fiberglass,0
-2295037,4757,2572,22,Sea Ray.210 Sundeck,Longshore Boats,"Charleston, South Carolina",2008,"29,700",Fiberglass,22,Sea Ray 210 Sundeck,"Longshore Boats
+2140897,4375,2378,22,Chaparral.230 Suncoast Bowrider,Sunrise Marine,"Fort Walton Beach, Florida",2016,55624,Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
+   ","Fort Walton Beach, FL",2016,55624,Fiberglass,0
+2148558,4394,2382,22,Chaparral.230 Suncoast,Jacksonville Boat Sales,"Jacksonville Beach, Florida",2016,Request Price,Fiberglass,22,Chaparral 230 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
+   ","Fort Walton Beach, FL",2016,53790,Fiberglass,0
+2181238,4475,2419,22,Chaparral.227SSX 118G,Longshore Boats,"Charleston, South Carolina",2017,Request Price,Fiberglass,22,Chaparral 227SSX 118G,"Longshore Boats
+   ","Charleston, SC",2017,Call for Price,Fiberglass,0
+2186871,4489,2410,22,Chaparral.220 Bowrider,Grand Slam Yacht & Boat Sales,"MOREHEAD CITY , North Carolina",2000,13995,Fiberglass,22,Chaparral 220 Bowrider,"Grand Slam Yacht & Boat Sales
+   ","MOREHEAD CITY , NC",2000,13995,Fiberglass,0
+2194943,4509,2422,22,Chaparral.227 SSX,Krenzer Marine,"Sodus Point, New York",2016,Request Price,Fiberglass,22,Chaparral 227 SSX,"Krenzer Marine
+   ","Sodus Point, NY",2016,1,Fiberglass,0
+2200595,4523,2432,22,Chris-Craft.Launch 22,Harborside Yacht Sales,"Clinton, Connecticut",2017,Request Price,Fiberglass,22,Chris-Craft Launch 22,"Harborside Marina
+   ","Clinton, CT",2017,Call for Price,Fiberglass,0
+2285335,4733,2542,22,Maxum.2200 SR3,Aquarius Boat Sales,"Monmouth County, New Jersey",2005,19900,Fiberglass,22,Maxum 2200 SR3,"Aquarius Boat Sales
+   ","Monmouth County, NJ",2005,19900,Fiberglass,0
+2295037,4757,2572,22,Sea Ray.210 Sundeck,Longshore Boats,"Charleston, South Carolina",2008,29700,Fiberglass,22,Sea Ray 210 Sundeck,"Longshore Boats
    ","Charleston, SC",2008,29700,Fiberglass,0
-2301161,4772,2653,22,Sea Ray.SDX 220,MarineMax Lake Conroe,"Montgomery, Texas",2017,Request Price,Fiberglass,22,Sea Ray SDX 220,"MarineMax Inc.
-   ","Montgomery, TX",2017,Call for Price,Fiberglass,0
+2300746,4771,2640,22,Sea Ray.SDX 220,MarineMax Orlando,"Orlando, Florida",2017,Request Price,Fiberglass,22,Sea Ray SDX 220,"MarineMax Inc.
+   ","Orlando, FL",2017,Call for Price,Fiberglass,0
 2302769,4776,2649,22,Sea Ray.SDX 220 OB,MarineMax Panama City,"Panama City Beach, Florida",2017,Request Price,Fiberglass,22,Sea Ray SDX 220 OB,"MarineMax Inc.
    ","Panama City Beach, FL",2017,Call for Price,Fiberglass,0
 2304379,4780,2647,22,Sea Ray.SDX 220,MarineMax Rogers,"Rogers, Minnesota",2017,Request Price,Fiberglass,22,Sea Ray SDX 220,"MarineMax Inc.
    ","Rogers, MN",2017,Call for Price,Fiberglass,0
-2305174,4782,2635,22,Sea Ray.220 Sundeck,B & E Marine,"Michigan City, Indiana",2017,Request Price,Fiberglass,22,Sea Ray 270 Sundeck,"B & E Marine, Inc.
-   ","Michigan City, IN",2017,Call for Price,Fiberglass,0
-2307995,4789,2635,22,Sea Ray.220 Sundeck,"B & E Marine, Inc.","Michigan City, Indiana",2017,Request Price,Fiberglass,22,Sea Ray 270 Sundeck,"B & E Marine, Inc.
-   ","Michigan City, IN",2017,Call for Price,Fiberglass,0
-2308404,4790,2641,22,Sea Ray.220 Sundeck Outboard,Hall Marine Group-Sea Ray of Savannah,"Savannah, Georgia",2016,Request Price,Fiberglass,22,Sea Ray 220 Sundeck Outboard,"Hall Marine Group
-   ","Savannah, GA",2016,Call for Price,Fiberglass,0
-2310931,4796,2751,22,Sea Ray.220 Sundeck Outboard,Hall Marine Group-Sea Ray of Greenville,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+2310920,4796,2740,22,Sea Ray.220 Sundeck Outboard,Hall Marine Group-Sea Ray of Greenville,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX,"Hall Marine Group
    ",United States,2017,,Fiberglass,0
-2310934,4796,2758,22,Sea Ray.220 Sundeck Outboard,Hall Marine Group-Sea Ray of Greenville,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
-   ",United States,2017,#VALUE!,Fiberglass,0
-2315611,4808,2594,22,Sea Ray.220 Sundeck,MarineMax Orlando,"Orlando, Florida",2013,"39,900",Fiberglass,22,Sea Ray 220 Sundeck,"MarineMax Inc.
-   ","Orlando, FL",2013,39900,Fiberglass,0
-2317634,4813,2602,22,Sea Ray.220 Sundeck,MarineMax Huntington,"Huntington, New York",2014,"49,900",Fiberglass,22,Sea Ray 220 Sundeck,"MarineMax Inc.
-   ","Huntington, NY",2014,49900,Fiberglass,0
-2318033,4814,2598,22,Sea Ray.220 Sundeck,SYS Yacht Sales,"Sarasota, Florida",2015,"45,900",Fiberglass,22,Sea Ray 220 Sundeck,"SYS Yacht Sales
-   ","Sarasota, FL",2015,45900,Fiberglass,0
-2321267,4822,2608,22,Sea Ray.220 Sundeck,MarineMax Warwick,"Warwick, Rhode Island",2008,"31,490",Fiberglass,22,Sea Ray 220 Sundeck,"MarineMax Inc.
-   ","Warwick, RI",2008,31490,Fiberglass,0
-2322884,4826,2613,22,Sea Ray.220 Sundeck,MarineMax Pensacola,"Pensacola, Florida",2010,"32,985",Fiberglass,22,Sea Ray 220 Sundeck,"MarineMax Inc.
-   ","Pensacola, FL",2010,32985,Fiberglass,0
-2324487,4830,2604,22,Sea Ray.220 Sundeck,Southpaw Yacht Sales,"GREENWICH, Connecticut",2012,"29,999",Fiberglass,22,Sea Ray 220 Sundeck,"Southpaw Yacht Sales
-   ","GREENWICH, CT",2012,29999,Fiberglass,0
-2327686,4838,2578,22,Sea Ray.220 Select,MarineMax Westbrook,"Westbrook, Connecticut",2005,"19,995",Fiberglass,22,Sea Ray 220 Select,"MarineMax Inc.
-   ","Westbrook, CT",2005,19995,Fiberglass,0
-2342569,4875,2550,22,Regal.2120 Regal,MarineMax Branson,"Branson, Missouri",2007,"24,900",Fiberglass,22,Regal 2120,"MarineMax Inc.
-   ","Branson, MO",2007,24900,Fiberglass,0
-2344266,4879,2636,22,Sea Ray.2200 Sun Deck ,Sunrise Marine,"Mary Esther, Florida",2015,"51,999",Fiberglass,22,Sea Ray 2200 Sun Deck,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Mary Esther, FL",2015,51999,Fiberglass,0
-2365243,4931,2658,22,Starcraft.2210 Aurora,MarineMax Panama City,"Panama City Beach, Florida",2004,"11,865",Fiberglass,22,Starcraft 2210 Aurora,"MarineMax Inc.
-   ","Panama City Beach, FL",2004,11865,Fiberglass,0
-2400734,5019,2685,22,Monterey.220 Explorer Sport,Ocean Beach Marine Centers (Lavallette),"Lavallette, New Jersey",2001,"19,345",Fiberglass,22,Monterey 220 Explorer Sport,"Ocean Beach Marine Centers
+2310933,4796,2753,22,Sea Ray.220 Sundeck Outboard,Hall Marine Group-Sea Ray of Greenville,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+   ",United States,2017,,Fiberglass,0
+2317209,4812,2579,22,Sea Ray.220 Sundeck,Fox Chapel Marine,"Pittsburgh, Pennsylvania",2014,Request Price,Fiberglass,22,Sea Ray 220 SD,"Fox Chapel Marine
+   ","Pittsburgh, PA",2014,,Fiberglass,0
+2318826,4816,2584,22,Sea Ray.220 Sundeck,Captain's Choice of Pickwick,"Pickwick Lake, TN, Mississippi",2015,69900,Fiberglass,22,Sea Ray 220 Sundeck,"Captain's Choice of Pickwick
+   ","Pickwick Lake, TN, MS",2015,69900,Fiberglass,0
+2320465,4820,2612,22,Sea Ray.220 Sundeck,MarineMax Russo Danvers,"Danvers, Massachusetts",2010,35265,Fiberglass,22,Sea Ray 220 Sundeck,"MarineMax Inc.
+   ","Danvers, MA",2010,35265,Fiberglass,0
+2330952,4846,2621,22,Sea Ray.220 Sundeck,Sundance Marine USA,"Fort Lauderdale, Florida",2007,24995,Fiberglass,22,Sea Ray 220 Sundeck,"Sundance Marine USA
+   ","Fort Lauderdale, FL",2007,24995,Fiberglass,0
+2336551,4860,2577,22,Sea Ray.220 Select,Commonwealth Boat Brokers,"Ashland, Virginia",2005,21900,Fiberglass,22,Sea Ray 220 Select,"Commonwealth Boat Brokers
+   ","Ashland, VA",2005,21900,Fiberglass,0
+2350223,4894,2547,22,Regal.22 FasDeck,Sundance Marine USA,"Pompano Beach, Florida",2016,Request Price,Fiberglass,22,Regal 22 FasDeck,"Sundance Marine USA
+   ","Pompano Beach, FL",2016,Call for Price,Fiberglass,0
+2359916,4918,2568,22,Robalo.227 Robalo,Tilly's Marine,"Huntington Beach, California",2015,59000,Fiberglass,22,Robalo R227,"Tilly's Marine
+   ","Huntington Beach, CA",2015,59000,Fiberglass,0
+2363147,4926,2575,22,Rinker.,Gulf South Yacht Sales,"Madisonville, Louisiana",2009,24900,Fiberglass,22,Rinker ,"Gulf South Yacht Sales LLC
+   ","Madisonville, LA",2009,24900,Fiberglass,0
+2366453,4934,2659,22,Starcraft.Expedition 2280,Lasalle Office,"LaSalle, Michigan",1999,18000,Fiberglass,22,Starcraft Expedition 2280,"Reed Yacht Sales - Grand Haven Office
+   ","LaSalle, MI",1999,18000,Fiberglass,0
+2374525,4954,2671,22,Tidewater Boats.2200,Sundance Jensen,"Jensen Beach, Florida",2017,Request Price,Fiberglass,22,Tidewater 2200,"Sundance Marine USA
+   ","Jensen Beach, FL",2017,Call for Price,Fiberglass,0
+2400734,5019,2685,22,Monterey.220 Explorer Sport,Ocean Beach Marine Centers (Lavallette),"Lavallette, New Jersey",2001,19345,Fiberglass,22,Monterey 220 Explorer Sport,"Ocean Beach Marine Centers
    ","Lavallette, NJ",2001,19345,Fiberglass,0
-2444701,5128,2725,22,Crownline.210 LS,"Your New Boat, LLC","Norris Lake, Tennessee",2010,"29,900",Fiberglass,22,Crownline 210 LS,"Your New Boat.com
-   ","Norris Lake, TN",2010,29900,Fiberglass,0
-2453994,5151,2749,22,Sea Ray.21 SPX,Hall Marine Group-Sea Ray of Greenville,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+2409193,5040,2681,22,Starcraft.211 SCX OB EXT,Belko Nautical Group LLC,"AVENTURA, Florida",2016,38000,Fiberglass,22,Starcraft 211 SCX OB EXT,"Belko Nautical Group
+   ","AVENTURA, FL",2016,38000,Fiberglass,0
+2453883,5151,2637,22,Sea Ray.21 SPX,Hall Marine Group-Sea Ray of Greenville,United States,2017,Request Price,Fiberglass,22,Sea Ray 220 Sundeck Outboard,"Hall Marine Group
    ",United States,2017,,Fiberglass,0
-2456014,5156,2758,22,Sea Ray.21 SPX,Hall Marine Group,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+2456011,5156,2751,22,Sea Ray.21 SPX,Hall Marine Group,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+   ",United States,2017,,Fiberglass,0
+2456816,5158,2750,22,Sea Ray.21 SPX OB,Hall Marine Group-Sea Ray of Charleston,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+   ",United States,2017,,Fiberglass,0
+2456817,5158,2751,22,Sea Ray.21 SPX OB,Hall Marine Group-Sea Ray of Charleston,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+   ",United States,2017,,Fiberglass,0
+2456819,5158,2753,22,Sea Ray.21 SPX OB,Hall Marine Group-Sea Ray of Charleston,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+   ",United States,2017,,Fiberglass,0
+2457219,5159,2750,22,Sea Ray.21 SPX OB,Hall Marine Group,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+   ",United States,2017,,Fiberglass,0
+2457220,5159,2751,22,Sea Ray.21 SPX OB,Hall Marine Group,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+   ",United States,2017,,Fiberglass,0
+2457222,5159,2753,22,Sea Ray.21 SPX OB,Hall Marine Group,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+   ",United States,2017,,Fiberglass,0
+2457223,5159,2758,22,Sea Ray.21 SPX OB,Hall Marine Group,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
    ",United States,2017,#VALUE!,Fiberglass,0
-2456805,5158,2739,22,Sea Ray.21 SPX OB,Hall Marine Group-Sea Ray of Charleston,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX,"Hall Marine Group
+2457622,5160,2750,22,Sea Ray.21 SPX OB,Hall Marine Group-Sea Ray of Savannah,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
    ",United States,2017,,Fiberglass,0
-2457208,5159,2739,22,Sea Ray.21 SPX OB,Hall Marine Group,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX,"Hall Marine Group
-   ",United States,2017,,Fiberglass,0
-2457218,5159,2749,22,Sea Ray.21 SPX OB,Hall Marine Group,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
-   ",United States,2017,,Fiberglass,0
-2458828,5163,2747,22,Sea Ray.21 SPX OB,Modern Yachts,"Mattituck, New York",2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Modern Yachts
-   ","Mattituck, NY",2017,1,Fiberglass,0
-2465260,5179,2731,22,Robalo.222ES Center Console,The Nautic Group,"Kemah / Houston, Texas",2017,Request Price,Fiberglass,22,Robalo R227 Dual Console,"The Nautic Group
-   ","Kemah, TX",2017,Call for Price,Fiberglass,0
-2467278,5184,2734,22,Robalo.R227 214B,Longshore Boats,"Charleston, South Carolina",2016,"66,214",Fiberglass,22,Robalo R227 214B,"Longshore Boats
-   ","Charleston, SC",2016,66214,Fiberglass,0
-2501746,6415,3196,20,Chaparral.210 Suncoast Bowrider,Sunrise Marine,"Mary Esther, Florida",2016,"46,216",Fiberglass,20,Chaparral 210 Suncoast Bowrider,"Sunrise Marine - Boat Sales, Service & Parts
-   ","Mary Esther, FL",2016,46216,Fiberglass,0
-2597611,6708,3250,20,Edgewater.205 CX,Bosun Marine,"Mashpee, Massachusetts",2017,Request Price,Fiberglass,20,Edgewater 205 CX,"Bosun Marine
-   ","Mashpee, MA",2017,Call for Price,Fiberglass,0
-2620187,6777,3263,20,Four Winns.H200SS,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2016,Request Price,Fiberglass,20,Four Winns H200,"Aloha Marine Center
-   ","daytona beach/holly hill, FL",2016,1,Fiberglass,0
-2641462,6842,3283,20,Grady-White.Freedom 205,United Yacht Sales - Cape and Island Division,"Marion, Massachusetts",2014,"59,900",Fiberglass,20,Grady-White Freedom 205,"United Yacht Sales
-   ","Marion, MA",2014,59900,Fiberglass,0
-2679770,6959,3332,20,Nautic Star.203 DC,COMPLETE MARINE,"Pompano Beach, Florida",2017,Request Price,Fiberglass,20,NAUTIC STAR 203 SC,"COMPLETE MARINE
-   ","Pompano Beach, FL",2017,1,Fiberglass,0
-2681742,6965,3342,20,Nautique.Sport Nautique 200,Irish Boat Shop - Harbor Springs,"Northern, Michigan",2016,Request Price,Fiberglass,20,Nautique Sport Nautique 200,"Irish Boat Shop
+2457626,5160,2758,22,Sea Ray.21 SPX OB,Hall Marine Group-Sea Ray of Savannah,United States,2017,Request Price,Fiberglass,22,Sea Ray 21 SPX OB,"Hall Marine Group
+   ",United States,2017,#VALUE!,Fiberglass,0
+2461533,5170,2630,22,Sea Ray.21 SPX,Irish Boat Shop - Harbor Springs,"Northern, Michigan",2016,Request Price,Fiberglass,22,Sea Ray 220 Sundeck,"Irish Boat Shop
    ","Northern, MI",2016,Call for Price,Fiberglass,0
-2682709,6968,3328,20,Nautic Star.203 SC,Tierra Verde Yacht Brokerage Inc.,"Tierra Verde, Florida",2013,"26,900",Fiberglass,20,NauticStar 203 SC,"Tierra Verde Yacht Brokerage Inc.
-   ","Tierra Verde, FL",2013,26900,Fiberglass,0
-2685691,6977,3367,20,Sea Ray.20 Bowrider,"Boats Unlimited, Inc.","Wakefield, Rhode Island",1994,"6,999",Fiberglass,20,Sea Ray 20 Bowrider,"Boats Unlimited, Inc.
-   ","Wakefield, RI",1994,6999,Fiberglass,0
-2690595,6992,3366,20,Sea Ray.200 Select,MarineMax Lake Ozark,"Lake Ozark, Missouri",2006,"24,150",Fiberglass,20,Sea Ray 200 Select,"MarineMax Inc.
-   ","Lake Ozark, MO",2006,24150,Fiberglass,0
-2692245,6997,3381,20,Sea Ray.200 Sport,Sovereign Marine Group,"Stuart, Florida",2005,"16,900",Fiberglass,20,Sea Ray 200 Sport,"Sovereign Marine Group
+2466065,5181,2730,22,Robalo.R227 Dual Console,The Nautic Group,"Kemah, Texas",2017,Request Price,Fiberglass,22,Robalo R227 Dual Console,"The Nautic Group
+   ","Kemah, TX",2017,Call for Price,Fiberglass,0
+2466066,5181,2731,22,Robalo.R227 Dual Console,The Nautic Group,"Kemah, Texas",2017,Request Price,Fiberglass,22,Robalo R227 Dual Console,"The Nautic Group
+   ","Kemah, TX",2017,Call for Price,Fiberglass,0
+2467680,5185,2733,22,Robalo.R227 Dual Console,The Nautic Group,"Kemah, Texas",2017,Request Price,Fiberglass,22,Robalo R227 Dual Console,"The Nautic Group
+   ","Kemah, TX",2017,Call for Price,Fiberglass,0
+2469710,5190,2748,22,Stingray.220 LX,North Florida Yacht Sales,"Jacksonville, Florida",2001,9855,Fiberglass,22,Stingray 220 LX,"North Florida Yacht Sales
+   ","Jacksonville, FL",2001,9855,Fiberglass,0
+2580274,6655,3244,20,Correct Craft.Ski Nautique 206 Limited,"Carolina Boat Brokerage , LLC","Pawleys Island, South Carolina",2005,23995,Fiberglass,20,Correct Craft Ski Nautique 206 Limited,"Carolina Boat Brokerage, LLC
+   ","Pawleys Island, SC",2005,23995,Fiberglass,0
+2644751,6852,3302,20,Key West.203 DFS,Striper Marina,"Barrington, Rhode Island",2016,Request Price,Fiberglass,20,Key West 203 DFS,"Striper Marina
+   ","Barrington, RI",2016,Call for Price,Fiberglass,0
+2681078,6963,3332,20,Nautic Star.203 SC,COMPLETE MARINE,"Pompano Beach, Florida",2017,Request Price,Fiberglass,20,NAUTIC STAR 203 SC,"COMPLETE MARINE
+   ","Pompano Beach, FL",2017,1,Fiberglass,0
+2684019,6972,3330,20,Nautic Star.203 SC,COMPLETE MARINE,"Pompano Beach, Florida",2015,26999,Fiberglass,20,NAUTIC STAR 203 SC,"COMPLETE MARINE
+   ","Pompano Beach, FL",2015,26999,Fiberglass,0
+2692245,6997,3381,20,Sea Ray.200 Sport,Sovereign Marine Group,"Stuart, Florida",2005,16900,Fiberglass,20,Sea Ray 200 Sport,"Sovereign Marine Group
    ","Stuart, FL",2005,16900,Fiberglass,0
-2694854,7005,3374,20,Sea Ray.200 Select,MarineMax Jacksonville at Beach Marine,"Jacksonville, Florida",2006,"23,999",Fiberglass,20,Sea Ray 200 Select,"MarineMax Inc.
-   ","Jacksonville, FL",2006,23999,Fiberglass,0
-2696836,7011,3394,20,Sea Ray.205 Sport,MarineMax Pensacola,"Pensacola, Florida",2008,"18,694",Fiberglass,20,Sea Ray 205 Sport,"MarineMax Inc.
+2696836,7011,3394,20,Sea Ray.205 Sport,MarineMax Pensacola,"Pensacola, Florida",2008,18694,Fiberglass,20,Sea Ray 205 Sport,"MarineMax Inc.
    ","Pensacola, FL",2008,18694,Fiberglass,0
-2706277,7040,3352,20,Regal.2000 ESX,Grand Bay Marine,"Traverse City, Michigan",2017,Request Price,Fiberglass,20,Regal 2000 ESX,"Grand Bay Marine
+2697816,7014,3393,20,Sea Ray.205 Sport,MarineMax Pensacola,"Pensacola, Florida",2008,20021,Fiberglass,20,Sea Ray 205 Sport,"MarineMax Inc.
+   ","Pensacola, FL",2008,20021,Fiberglass,0
+2701699,7026,3352,20,Regal.2000 ESX,Grand Bay Marine,"Traverse City, Michigan",2017,Request Price,Fiberglass,20,Regal 2000 ESX,"Grand Bay Marine
    ","Traverse City, MI",2017,Call for Price,Fiberglass,0
-2707328,7043,3422,20,Regal.2000 ES Bowrider,AM PM MARINE,"Pasadena, Maryland",2016,Request Price,Fiberglass,20,Regal 1900 ES Bowrider,"AM PM MARINE
+2706275,7040,3350,20,Regal.2000 ESX,Grand Bay Marine,"Traverse City, Michigan",2017,Request Price,Fiberglass,20,Regal 2000 ESX,"Grand Bay Marine
+   ","Traverse City, MI",2017,Call for Price,Fiberglass,0
+2708305,7046,3418,20,Regal.2000 ESX Bowrider,CenterPointe Yacht Sales,United States,2017,56045,Fiberglass,20,Regal 1900 ES Bowrider,"CenterPointe Yacht Sales
+   ",United States,2017,45558,Fiberglass,0
+2711831,7057,3347,20,Regal.2000 ESX Bowrider,AM PM MARINE,"Pasadena, Maryland",2016,Request Price,Fiberglass,20,Regal 2000 ESX Bowrider,"AM PM MARINE
    ","Pasadena, MD",2016,Call for Price,Fiberglass,0
-2721665,7087,3371,20,Robalo.R207 107G,Longshore Boats,"Charleston, South Carolina",2016,"44,407",Fiberglass,20,Robalo R207 107G,"Longshore Boats
+2711832,7057,3348,20,Regal.2000 ESX Bowrider,AM PM MARINE,"Pasadena, Maryland",2016,Request Price,Fiberglass,20,Regal 2000 ES Bowrider,"AM PM MARINE
+   ","Pasadena, MD",2016,Call for Price,Fiberglass,0
+2713456,7062,3337,20,Regal.2000 Regal,"Prestige Yacht Sales, Inc.","BRICK, New Jersey",2007,26000,Fiberglass,20,Regal 2000,"Prestige Yacht Sales, Inc.
+   ","BRICK, NJ",2007,26000,Fiberglass,0
+2714781,7066,3354,20,Regal.2000 ES Bowrider,Sundance Marine USA,"Pompano Beach, Florida",2016,Request Price,Fiberglass,20,Regal 2000 ES Bowrider,"Sundance Marine USA
+   ","Pompano Beach, FL",2016,1,Fiberglass,0
+2721665,7087,3371,20,Robalo.R207 107G,Longshore Boats,"Charleston, South Carolina",2016,44407,Fiberglass,20,Robalo R207 107G,"Longshore Boats
    ","Charleston, SC",2016,44407,Fiberglass,0
-2723438,7093,3182,20,Starcraft.2000 Limited,Bridgeport Marine,"Stillwater, Minnesota",2016,"34,990",Fiberglass,20,Starcraft Limited 2000 OB Fish,"Bridgeport Marine
-   ","Stillwater, MN",2016,34990,Fiberglass,0
-2723641,7093,3385,20,Starcraft.2000 Limited,Bridgeport Marine,"Stillwater, Minnesota",2016,"34,990",Fiberglass,20,Starcraft Limited 2000 I/O,"Bridgeport Marine
-   ","Stillwater, MN",2016,34990,Fiberglass,0
-2748208,7168,3427,20,Regal.1900 ESX Bowrider,AM PM MARINE,"Pasadena, Maryland",2016,Request Price,Fiberglass,20,Regal 1900 ESX Bowrider,"AM PM MARINE
-   ","Pasadena, MD",2016,Call for Price,Fiberglass,0
+2734445,7126,3398,20,Stingray.204 LR,Sundance Jensen,Stuart/Jensen Beach,2016,Request Price,Fiberglass,20,Stingray 204 LR,"Sundance Marine USA
+   ","Stuart/Jensen Beach, United States",2016,,Fiberglass,0
 2748524,7169,3416,20,Regal.1900 ES Bowrider,Strong's Marine,"Southampton, New York",2016,Request Price,Fiberglass,20,Regal 1900 ES Bowrider,"Strong's Marine
    ","Southampton, NY",2016,1,Fiberglass,0
-2802512,7334,3449,20,Sea Ray.190 Sport,Hall Marine Group,United States,2014,"31,900",Fiberglass,20,Sea Ray 190 Sport,"Marina Marbella Group
-   ",United Kingdom,2014,36126,Fiberglass,0
-2804151,7339,3453,20,Sea Ray.190 Sport,Hall Marine Group-Sea Ray of Savannah,United States,2014,"27,950",Fiberglass,20,Sea Ray 190 Sport,"Hall Marine Group
-   ",United States,2014,27500,Fiberglass,0
-2804800,7341,3448,20,Sea Ray.190 Sport,Hall Marine Group-Sea Ray of Columbia,United States,2014,"26,500",Fiberglass,20,Sea Ray 190 Sport,"Hall Marine Group
-   ",United States,2014,27950,Fiberglass,0
-2804802,7341,3450,20,Sea Ray.190 Sport,Hall Marine Group-Sea Ray of Columbia,United States,2014,"26,500",Fiberglass,20,Sea Ray 190 Sport,"Hall Marine Group
+2748782,7170,3347,20,Regal.1900 ES Bowrider,AM PM MARINE,"Pasadena, Maryland",2016,Request Price,Fiberglass,20,Regal 2000 ESX Bowrider,"AM PM MARINE
+   ","Pasadena, MD",2016,Call for Price,Fiberglass,0
+2794660,7310,3445,20,Chaparral.190 SSi,Waterfront Marine Yacht Sales,"Somers Point, New Jersey",2006,14900,Fiberglass,20,Chaparral 190 SSi,"Waterfront Marine Yacht Sales-New Jersey
+   ","Somers Point, NJ",2006,14900,Fiberglass,0
+2796960,7317,3456,20,Sea Ray.185 Sport,Prince William Marina,"Woodbridge, Virginia",2006,15000,Fiberglass,20,Sea Ray 185 Sport,"Prince William Marina
+   ","Woodbridge, VA",2006,15000,Fiberglass,0
+2799886,7326,3439,20,Sea Ray.185 Sport,Castaways Yacht Club - Port Washington,"Long Island, New York",2008,18995,Fiberglass,20,Sea Ray 185 Sport,"Castaways Yacht Club
+   ","Long Island, NY",2008,18995,Fiberglass,0
+2804802,7341,3450,20,Sea Ray.190 Sport,Hall Marine Group-Sea Ray of Columbia,United States,2014,26500,Fiberglass,20,Sea Ray 190 Sport,"Hall Marine Group
    ",United States,2014,31900,Fiberglass,0
-2805130,7342,3451,20,Sea Ray.190 Sport,Hall Marine Group-Sea Ray of Columbia,United States,2014,"27,500",Fiberglass,20,Sea Ray 190 Sport,"Hall Marine Group
-   ",United States,2014,26500,Fiberglass,0
-2830335,7419,3477,20,Sea Ray.19 SPX,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,"41,536",Fiberglass,20,Sea Ray 19 SPX,"Lake Union Sea Ray
-   ","Fife, WA",2016,41536,Fiberglass,0
-2836230,7437,3486,20,Sea Ray.19 SPX,Nunmaker Yachts,"Madisonville, Louisiana",2016,Request Price,Fiberglass,20,Sea Ray 19 SPX,"Nunmaker Yachts
-   ","Madisonville, LA",2016,Call for Price,Fiberglass,0
-2836560,7438,3491,20,Sea Ray.19 SPX OB,Hyannis Marina,"Buzzards Bay, Massachusetts",2016,Request Price,Fiberglass,20,Sea Ray 19 SPX OB,"Hyannis Marina
-   ","Buzzards Bay, MA",2016,1,Fiberglass,0
-2841464,7453,3490,20,Stingray.195 LS/LX,Hall Marine Group-Sea Ray of Columbia,United States,2012,"22,900",Fiberglass,20,Stingray 195 LS/LX,"Hall Marine Group
-   ",United States,2012,22900,Fiberglass,0
-2858548,8495,3844,18,Bayliner.Element F18,Dredge Harbor Boat Center LLC.,"Delran, New Jersey",2016,"21,949",Fiberglass,18,Bayliner Element F18,"Dredge Harbor Boat Center LLC.
-   ","Delran, NJ",2016,21949,Fiberglass,0
-2873824,8547,3884,18,Bayliner.175 Bowrider with Mooring,Dixon Yachts International Inc.,"Newport Beach, California",2007,"29,900",Fiberglass,18,Bayliner 175 Bowrider with Mooring,"Dixon Yachts International Inc.
-   ","Newport Beach, CA",2007,29900,Fiberglass,0
-2874155,8548,3922,18,Bayliner.Element 180,Sea Ray of Louisville,"Louisville, Kentucky",2017,"25,780",Fiberglass,18,Bayliner Element 180,"Sea Ray of Cincinnati
-   ","Louisville, KY",2017,25780,Fiberglass,0
-2896695,8625,3901,18,Bayliner.185 Bowrider,Grand Slam Yacht & Boat Sales,"MOREHEAD CITY , North Carolina",2012,"16,995",Fiberglass,18,Bayliner 185 Bowrider,"Grand Slam Yacht & Boat Sales
-   ","MOREHEAD CITY , NC",2012,16995,Fiberglass,0
+2804805,7341,3453,20,Sea Ray.190 Sport,Hall Marine Group-Sea Ray of Columbia,United States,2014,26500,Fiberglass,20,Sea Ray 190 Sport,"Hall Marine Group
+   ",United States,2014,27500,Fiberglass,0
+2805129,7342,3450,20,Sea Ray.190 Sport,Hall Marine Group-Sea Ray of Columbia,United States,2014,27500,Fiberglass,20,Sea Ray 190 Sport,"Hall Marine Group
+   ",United States,2014,31900,Fiberglass,0
+2810048,7357,3464,20,Monterey.197 Blackfin,North Florida Yacht Sales,"Jacksonville, Florida",2017,Request Price,Fiberglass,20,Monterey 197 Blackfin,"North Florida Yacht Sales
+   ","Jacksonville, FL",2017,1,Fiberglass,0
+2816269,7376,3472,20,Chaparral.196 SSi,Waterfront Marine Yacht Sales,"Somers Point, New Jersey",2001,9900,Fiberglass,20,Chaparral 196 SSi,"Waterfront Marine Yacht Sales-New Jersey
+   ","Somers Point, NJ",2001,9900,Fiberglass,0
+2827070,7409,3482,20,Sea Ray.19 SPX,Captain's Choice of Pickwick,"Pickwick Lake TN, Mississippi",2016,Request Price,Fiberglass,20,Sea Ray 19 SPX,"Captain's Choice of Pickwick
+   ","Pickwick Lake TN, MS",2016,Call for Price,Fiberglass,0
+2828051,7412,3482,20,Sea Ray.19 SPX,Captain's Choice of Pickwick,"Pickwick Lake TN, Mississippi",2016,Request Price,Fiberglass,20,Sea Ray 19 SPX,"Captain's Choice of Pickwick
+   ","Pickwick Lake TN, MS",2016,Call for Price,Fiberglass,0
+2859135,8497,3845,18,Bayliner.Element F18,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,25422,Fiberglass,18,Bayliner Element F18,"Lake Union Sea Ray
+   ","Fife, WA",2016,25422,Fiberglass,0
+2863037,8510,3938,18,Bayliner.Element XL,Lynnhaven Marine,"Virginia Beach, Virginia",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
+   ","daytona beach/ holly hill, FL",2017,1,Fiberglass,0
+2911947,8677,3917,18,Bayliner.196BR Discovery,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2013,14998,Fiberglass,18,Bayliner 196BR Discovery,"Aloha Marine Center
+   ","daytona beach/holly hill, FL",2013,14998,Fiberglass,0
+2914595,8686,3928,18,Bayliner.Element XL,Harbor View Marine,"Pensacola, Fl / Orange Beach, Alabama",2017,20899,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
+   ","daytona beach/holly hill, FL",2017,1,Fiberglass,0
 2915474,8689,3928,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
    ","daytona beach/holly hill, FL",2017,1,Fiberglass,0
-2915753,8690,3914,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
+2915751,8690,3912,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
    ","daytona beach/holly hill, FL",2017,1,Fiberglass,0
 2915766,8690,3927,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
    ","daytona beach/holly hill, FL",2017,1,Fiberglass,0
-2916363,8692,3938,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
-   ","daytona beach/ holly hill, FL",2017,1,Fiberglass,0
-2916365,8692,3940,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
+2915767,8690,3928,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
    ","daytona beach/holly hill, FL",2017,1,Fiberglass,0
-2916925,8694,3914,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
+2916352,8692,3927,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
    ","daytona beach/holly hill, FL",2017,1,Fiberglass,0
-2917232,8695,3928,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
+2918101,8698,3918,18,Bayliner.Element XL,Harbor View Marine,"PENSACOLA, FL/ Orange Beach, Alabama",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
    ","daytona beach/holly hill, FL",2017,1,Fiberglass,0
-2917535,8696,3938,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/ holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
-   ","daytona beach/ holly hill, FL",2017,1,Fiberglass,0
-2917808,8697,3918,18,Bayliner.Element XL,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
+2918123,8698,3940,18,Bayliner.Element XL,Harbor View Marine,"PENSACOLA, FL/ Orange Beach, Alabama",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
    ","daytona beach/holly hill, FL",2017,1,Fiberglass,0
-2918103,8698,3920,18,Bayliner.Element XL,Harbor View Marine,"PENSACOLA, FL/ Orange Beach, Alabama",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
-   ","daytona beach/holly hill, FL",2017,1,Fiberglass,0
-2918111,8698,3928,18,Bayliner.Element XL,Harbor View Marine,"PENSACOLA, FL/ Orange Beach, Alabama",2017,Request Price,Fiberglass,18,Bayliner Element XL,"Aloha Marine Center
-   ","daytona beach/holly hill, FL",2017,1,Fiberglass,0
-2924095,8718,4052,18,Sea-Doo.180 Challenger,Bay View Yacht Sales,"Chesapeake City, Maryland",2010,"21,900",Fiberglass,18,Sea-Doo Sport Boats 180 Challenger SE.,"Bay View Yacht Sales
+2924095,8718,4052,18,Sea-Doo.180 Challenger,Bay View Yacht Sales,"Chesapeake City, Maryland",2010,21900,Fiberglass,18,Sea-Doo Sport Boats 180 Challenger SE.,"Bay View Yacht Sales
    ","Chesapeake City, MD",2010,21900,Fiberglass,0
-2930133,8739,3937,18,Chaparral.180 SSi,United Yacht Sales - Florida Treasure Coast,"Southport, North Carolina",2009,"22,200",Fiberglass,18,Chaparral 180 SSi,"United Yacht Sales
-   ","Southport, NC",2009,22200,Fiberglass,0
-2935109,8756,3932,18,Chaparral.180 SSi,Pennybridge Marine,"Stony Point, New York",2004,"8,000",Fiberglass,18,Chaparral 180 SSi,"Pennybridge Marine
-   ","Stony Point, NY",2004,8000,Fiberglass,0
-2943623,8785,3949,18,Crownline.180 BR,Bergmann Marine,"Charlevoix, Michigan",2004,"11,900",Fiberglass,18,Crownline 180 BR,"Bergmann Marine
-   ","Charlevoix, MI",2004,11900,Fiberglass,0
-2962400,8849,3974,18,Glastron.GT 180,Beacon Light Marina,"Middle River, Maryland",2014,"21,995",Fiberglass,18,Glastron GT 180,"Beacon Light Marina
-   ","Middle River, MD",2014,21995,Fiberglass,0
-2963578,8853,3980,18,Glastron.V-182 Crestflite -Great Value,Cahoon Yacht Brokerage,"Harwich Port, Massachusetts",1975,"2,100",Fiberglass,18,Glastron V-182 Crestflite -Great Value,"Cahoon Yacht Brokerage
-   ","Harwich Port, MA",1975,2100,Fiberglass,0
-2980277,8910,3978,18,Hurricane.188 Sundeck Sport,Wye River Marine,"Kent Island, Maryland",2016,"28,900",Fiberglass,18,Hurricane 187 SUNDECK,"Wye River Marine
+2927781,8731,3929,18,Celebrity.180 Bowrider,Brian's Marina,United States,1991,5495,Fiberglass,18,Celebrity 180 Bowrider,"Brian's Marina
+   ",United States,1991,5495,Fiberglass,0
+2947729,8799,3953,18,Four Winns.180 Horizon,Nautical Ventures,"Dania beach, Florida",2008,13900,Fiberglass,18,Four Winns 180 Horizon,"Nautical Ventures
+   ","Dania beach, FL",2008,13900,Fiberglass,0
+2948320,8801,3958,18,Four Winns.180 Horizon,Aloha Marine Internet Sales,"daytona beach/holly hill, Florida",2017,Request Price,Fiberglass,18,Four Winns 180 Horizon,"Aloha Marine Center
+   ","daytona beach/holly hill, FL",2017,1,Fiberglass,0
+2949497,8805,3963,18,Four Winns.180 Le,Great Southern Yacht Company,"Ft Walton Beach, Florida",2012,16500,Fiberglass,18,Four Winns 180 LE,"Great Southern Yacht Company
+   ","Ft Walton Beach, FL",2012,16500,Fiberglass,0
+2955349,8825,3955,18,Four Winns.H180OB,Westchester Yacht Sales,"Mamaroneck, New York",2016,Request Price,Fiberglass,18,Four Winns H180OB,"Westchester Yacht Sales
+   ","Mamaroneck, NY",2016,Call for Price,Fiberglass,0
+2955642,8826,3955,18,Four Winns.H180 OB,Westchester Yacht Sales,"Mamaroneck, New York",2016,29500,Fiberglass,18,Four Winns H180OB,"Westchester Yacht Sales
+   ","Mamaroneck, NY",2016,Call for Price,Fiberglass,0
+2981742,8915,3978,18,Hurricane.188 Sundeck Sport,Wye River Marine,"Kent Island, Maryland",2016,28900,Fiberglass,18,Hurricane 187 SUNDECK,"Wye River Marine
    ","Kent Island, MD",2016,29900,Fiberglass,0
-3003464,8989,4018,18,Sea Ray.180 Bow Rider,Legendary Marine Gulf Shores,"Gulf Shores, Alabama",1992,"9,999",Fiberglass,18,Sea Ray 180BR,"Legendary Marine
-   ","Gulf Shores, AL",1992,7990,Fiberglass,0
-3011689,9017,4039,18,Sea Ray.185 Sport,Sea Ray of Cincinnati,"Cincinnati, Ohio",2008,"14,995",Fiberglass,18,Sea Ray 185 Sport,"Sea Ray of Cincinnati
-   ","Cincinnati, OH",2008,14995,Fiberglass,0
-3011964,9018,4021,18,Sea Ray.185 Bow Rider,Amity Harbor Marine Inc,"Amityville, New York",2008,"14,995",Fiberglass,18,Sea Ray 185 Bow Rider,"Amity Harbor Marine Inc
-   ","Amityville, NY",2008,14995,Fiberglass,0
-3012269,9019,4033,18,Sea Ray.185 Sport,"Berry-Boger Yacht Sales, Inc.","Ocean Isle Beach, South Carolina",2008,"14,900",Fiberglass,18,Sea Ray Sport 185,"Berry-Boger Yacht Sales, Inc.
+3012269,9019,4033,18,Sea Ray.185 Sport,"Berry-Boger Yacht Sales, Inc.","Ocean Isle Beach, South Carolina",2008,14900,Fiberglass,18,Sea Ray Sport 185,"Berry-Boger Yacht Sales, Inc.
    ","Ocean Isle Beach, SC",2008,14900,Fiberglass,0
-3016944,9035,4020,18,Sea Ray.185,COMPLETE MARINE,"Pompano Beach, Florida",2008,"16,900",Fiberglass,18,Sea Ray 185,"COMPLETE MARINE
-   ","Pompano Beach, FL",2008,16900,Fiberglass,0
-3055691,9167,4091,18,Bayliner.170 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,"23,295",Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
-   ","Fife, WA",2016,23045,Fiberglass,0
-3055982,9168,4089,18,Bayliner.170 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,"24,348",Fiberglass,18,Bayliner 170 Bowrider,"Lake Union Sea Ray
-   ","Fife, WA",2016,23295,Fiberglass,0
-3062437,9190,4098,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,"23,159",Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
-   ","Fife, WA",2016,24258,Fiberglass,0
-3063016,9192,4091,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,"23,473",Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
-   ","Fife, WA",2016,23045,Fiberglass,0
-3063023,9192,4098,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,"23,473",Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
-   ","Fife, WA",2016,24258,Fiberglass,0
-3063596,9194,4085,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,"23,045",Fiberglass,18,Bayliner 170 Bowrider,"Lake Union Sea Ray
-   ","Fife, WA",2016,24348,Fiberglass,0
-3063604,9194,4093,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,"23,045",Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
-   ","Fife, WA",2016,23159,Fiberglass,0
-3066247,9203,4099,18,Bayliner.175 Bowrider,Fox Chapel Marine,"Pittsburgh, Pennsylvania",2016,Request Price,Fiberglass,18,Bayliner 175 Bowrider,"Fox Chapel Marine
-   ","Pittsburgh, PA",2016,Call for Price,Fiberglass,0
-3066552,9204,4111,18,Bayliner.175 Bowrider,Fox Chapel Marine,"Pittsburgh, Pennsylvania",2016,Request Price,Fiberglass,18,Bayliner 175 Bowrider,"Fox Chapel Marine
-   ","Pittsburgh, PA",2016,1,Fiberglass,0
-3066826,9205,4092,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,"24,258",Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
-   ","Fife, WA",2016,24372,Fiberglass,0
-3068004,9209,4098,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,"23,645",Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
-   ","Fife, WA",2016,24258,Fiberglass,0
-3087445,9348,4150,17,Four Winns.170 Horizon,Grand Bay Marine,"Traverse City, Michigan",1996,"7,995",Fiberglass,17,Four Winns 170 Horizon,"Grand Bay Marine
-   ","Traverse City, MI",1996,7995,Fiberglass,0
-3087710,9352,4151,17,Four Winns.17 Horizon Qx,Sea Ray of Cincinnati,"Cincinnati, Ohio",1996,"7,995",Fiberglass,17,Four Winns 17 Horizon Qx,"Sea Ray of Cincinnati
-   ","Cincinnati, OH",1996,7995,Fiberglass,0
-3091826,9414,4175,17,Sea Ray.175 Sport,Prince William Marina,"Woodbridge, Virginia",2011,"21,900",Fiberglass,17,Sea Ray 175 Sport,"Prince William Marina
-   ","Woodbridge, VA",2011,21900,Fiberglass,0
-3095902,9481,4195,16,Bayliner.160 Bowrider,Boater's Landing,"Fort Myers, Florida",2012,"12,995",Fiberglass,16,Bayliner 160 Bowrider,"Boater's Landing
-   ","Fort Myers, FL",2012,12995,Fiberglass,0
-3096775,9498,4201,16,Bayliner.160 Element,Sea Ray of Louisville,"Louisville, Kentucky",2017,"21,369",Fiberglass,16,Bayliner 160 Element,"Sea Ray of Cincinnati
-   ","Louisville, KY",2017,21369,Fiberglass,0
-3097691,9516,4199,16,Bayliner.160 Element,Fox Chapel Marine,"PITTSBURGH, Pennsylvania",2017,Request Price,Fiberglass,16,Bayliner 160 Element,"Fox Chapel Marine
+3041016,9117,4066,18,Vip.VIVA 184,Boulder Boats,"Henderson, Nevada",2006,10995,Fiberglass,18,VIP VIVA 184,"Boulder Boats
+   ","Henderson, NV",2006,10995,Fiberglass,0
+3055409,9166,4102,18,Bayliner.175 Bowrider,Fox Chapel Marine,"PITTSBURGH, Pennsylvania",2017,Request Price,Fiberglass,18,Bayliner 175 Bowrider,"Fox Chapel Marine
    ","PITTSBURGH, PA",2017,Call for Price,Fiberglass,0
-3101413,9586,4251,15,Sea-Doo.150 Speedster,Redmond Boat and Yacht Sales,"Fernandina Beach, Florida",2011,"15,900",Fiberglass,15,Sea-Doo Sport Boats 150 Speedster,"Redmond Boat and Yacht Sales
-   ","Fernandina Beach, FL",2011,15900,Fiberglass,0
-3101577,9600,4252,13,Boston Whaler.13 Dauntless,Anchorage Yacht Sales,"Holland, Michigan",1997,"8,900",Fiberglass,13,Boston Whaler 13 Dauntless,"Anchorage Yacht Sales
+3055410,9166,4103,18,Bayliner.175 Bowrider,Fox Chapel Marine,"PITTSBURGH, Pennsylvania",2017,Request Price,Fiberglass,18,Bayliner 175 Bowrider,"Fox Chapel Marine
+   ","PITTSBURGH, PA",2017,Call for Price,Fiberglass,0
+3055691,9167,4091,18,Bayliner.170 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,23295,Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
+   ","Fife, WA",2016,23045,Fiberglass,0
+3055988,9168,4095,18,Bayliner.170 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,24348,Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
+   ","Fife, WA",2016,23645,Fiberglass,0
+3062432,9190,4093,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,23159,Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
+   ","Fife, WA",2016,23159,Fiberglass,0
+3066261,9203,4113,18,Bayliner.175 Bowrider,Fox Chapel Marine,"Pittsburgh, Pennsylvania",2016,Request Price,Fiberglass,18,Bayliner 175 Bowrider,"Fox Chapel Marine
+   ","Pittsburgh, PA",2016,Call for Price,Fiberglass,0
+3067412,9207,4092,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,24372,Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
+   ","Fife, WA",2016,24372,Fiberglass,0
+3067415,9207,4095,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,24372,Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
+   ","Fife, WA",2016,23645,Fiberglass,0
+3067418,9207,4098,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,24372,Fiberglass,18,Bayliner 175 Bowrider,"Lake Union Sea Ray
+   ","Fife, WA",2016,24258,Fiberglass,0
+3067995,9209,4089,18,Bayliner.175 Bowrider,Lake Union Sea Ray (Fife Store),"Fife, Washington",2016,23645,Fiberglass,18,Bayliner 170 Bowrider,"Lake Union Sea Ray
+   ","Fife, WA",2016,23295,Fiberglass,0
+3080033,9255,4114,18,Sea Ray.176 Bow Rider,Colony Marine - St. Clair Shores,"ST CLAIR SHORES, Michigan",2002,8200,Fiberglass,18,Sea Ray 176 Bow Rider,"Colony Marine - St. Clair Shores
+   ","ST CLAIR SHORES, MI",2002,8200,Fiberglass,0
+3085259,9315,4142,17,Bayliner.1750 LS,Slips Capeway,"Raynham, Massachusetts",1997,6995,Fiberglass,17,Bayliner 1750 LS,"Slip's Capeway Marine
+   ","Raynham, MA",1997,6995,Fiberglass,0
+3085592,9320,4145,17,Bayliner.175 Bowrider,COMPLETE MARINE,"Pompano Beach, Florida",2011,13900,Fiberglass,17,Bayliner 175 Bowrider,"COMPLETE MARINE
+   ","Pompano Beach, FL",2011,13900,Fiberglass,0
+3096775,9498,4201,16,Bayliner.160 Element,Sea Ray of Louisville,"Louisville, Kentucky",2017,21369,Fiberglass,16,Bayliner 160 Element,"Sea Ray of Cincinnati
+   ","Louisville, KY",2017,21369,Fiberglass,0
+3096985,9502,4207,16,Bayliner.160 EL,Port Harbor Marine,"Holden, Maine",2017,24170,Fiberglass,16,Bayliner 160 EL,"Port Harbor Marine
+   ","Holden, ME",2017,24170,Fiberglass,0
+3097136,9505,4205,16,Bayliner.160 EL,Port Harbor Marine,"Holden, Maine",2017,24170,Fiberglass,16,Bayliner 160 EL,"Port Harbor Marine
+   ","Holden, ME",2017,24170,Fiberglass,0
+3101577,9600,4252,13,Boston Whaler.13 Dauntless,Anchorage Yacht Sales,"Holland, Michigan",1997,8900,Fiberglass,13,Boston Whaler 13 Dauntless,"Anchorage Yacht Sales
    ","Holland, MI",1997,8900,Fiberglass,0

@@ -1,5 +1,5 @@
-#key=_id
 #fk_rtable=rtable_index
+#key=_id
 #fk_ltable=ltable_index
-#rtable=POINTER
 #ltable=POINTER
+#rtable=POINTER
